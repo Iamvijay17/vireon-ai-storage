@@ -1,0 +1,180 @@
+{
+  "title": "Prompt Engineering Masterclass",
+  "description": "An in-depth, academically structured video guiding viewers through the principles and practical techniques of prompt engineering for advanced language models.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to Prompt Engineering",
+      "subtitle": "Understanding the Foundations",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "An abstract illustration of a neural network with light blue nodes, set against a calm teal background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Prompt Anatomy",
+      "subtitle": "Components and Structure",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A diagram of a prompt split into sections: context, instruction, example, and desired output, rendered in soft green hues.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Crafting Effective Prompts",
+      "subtitle": "Strategies for Clarity and Precision",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Illustration of a hand writing a prompt on parchment, with highlighted key phrases in light blue.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Iterative Refinement",
+      "subtitle": "Testing and Optimizing Prompts",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A flowchart showing prompt → model response → analysis → revised prompt, in calming green tones.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Advanced Techniques",
+      "subtitle": "Few-shot Learning & Chain-of-Thought",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A stylized representation of a few-shot prompt with multiple examples, and a chain-of-thought diagram in soft blue.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Ethical Considerations",
+      "subtitle": "Responsible Prompt Design",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A balanced scale icon over a calm green background, symbolizing fairness and transparency.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Conclusion & Resources",
+      "subtitle": "Next Steps in Prompt Engineering",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A clean white background with a list of recommended books, courses, and tools in soothing blue lettering.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5796d6f76cc3c3f04bafea/audio/scene7.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
