@@ -1,0 +1,133 @@
+{
+  "title": "Prompt Engineering Masterclass",
+  "description": "An in-depth, academically structured video guiding viewers through the principles and practical techniques of prompt engineering for advanced language models.",
+  "tags": [
+    "promptengineering",
+    "AI",
+    "language models",
+    "machine learning",
+    "education"
+  ],
+  "thumbnailPrompt": "A sleek minimalist design featuring a stylized AI brain in soothing blue tones, surrounded by flowing text that reads \"Prompt Engineering Masterclass\" in clean white font.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to Prompt Engineering",
+      "subtitle": "Understanding the Foundations",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "An abstract illustration of a neural network with light blue nodes, set against a calm teal background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to the Prompt Engineering Masterclass. Today we explore how precise instructions shape AI behavior.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Prompt Anatomy",
+      "subtitle": "Components and Structure",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A diagram of a prompt split into sections: context, instruction, example, and desired output, rendered in soft green hues.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "Let us dissect the prompt into its core components: context, instruction, exemplar, and target response.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Crafting Effective Prompts",
+      "subtitle": "Strategies for Clarity and Precision",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Illustration of a hand writing a prompt on parchment, with highlighted key phrases in light blue.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Use concise language, avoid ambiguity, and employ explicit constraints to guide the model toward desired outputs.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Iterative Refinement",
+      "subtitle": "Testing and Optimizing Prompts",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A flowchart showing prompt → model response → analysis → revised prompt, in calming green tones.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Iterate: evaluate responses, identify shortcomings, and refine prompts systematically for optimal performance.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Advanced Techniques",
+      "subtitle": "Few-shot Learning & Chain-of-Thought",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A stylized representation of a few-shot prompt with multiple examples, and a chain-of-thought diagram in soft blue.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Leverage few-shot demonstrations and chain-of-thought reasoning to enhance model accuracy on complex tasks.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Ethical Considerations",
+      "subtitle": "Responsible Prompt Design",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A balanced scale icon over a calm green background, symbolizing fairness and transparency.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Ensure prompts do not perpetuate bias or misinformation; adopt transparent practices for ethical AI use.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Conclusion & Resources",
+      "subtitle": "Next Steps in Prompt Engineering",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A clean white background with a list of recommended books, courses, and tools in soothing blue lettering.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Thank you for joining. Explore further materials to deepen your mastery of prompt engineering.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    }
+  ]
+}
