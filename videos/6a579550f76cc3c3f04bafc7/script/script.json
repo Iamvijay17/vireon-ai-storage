@@ -1,0 +1,116 @@
+{
+  "title": "AI Agents with Python",
+  "description": "An in‑depth exploration of building autonomous AI agents using Python, covering fundamentals, libraries, and practical examples for educators and developers.",
+  "tags": [
+    "Python",
+    "Artificial Intelligence",
+    "Agents",
+    "Machine Learning",
+    "Education"
+  ],
+  "thumbnailPrompt": "A sleek, minimalist illustration of a Python snake intertwined with digital circuitry against a calm blue gradient background, symbolizing the fusion of code and intelligence.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI Agents",
+      "subtitle": "Defining agents and their roles in modern AI",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A serene white background with a subtle blue overlay, featuring an icon of a human silhouette connected to a network diagram.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome. Today we examine the concept of AI agents—software entities that perceive environments and act upon them to achieve goals.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Core Components",
+      "subtitle": "Perception, Decision, Action loop explained",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "A calm green backdrop displaying a flowchart of perception, decision, and action steps with minimalist icons.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "An agent’s life cycle comprises three core components: perception of inputs, internal decision-making, and execution of actions.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Python Ecosystem",
+      "subtitle": "Key libraries for building agents",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "White background with icons of OpenAI Gym, PyTorch, TensorFlow, and FastAPI arranged in a harmonious circle.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Python’s rich ecosystem—Gym for environments, PyTorch or TensorFlow for learning, and FastAPI for deployment—enables rapid agent development.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Sample Agent Code",
+      "subtitle": "A step‑by‑step coding walkthrough",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "Calm blue backdrop showing a code snippet with syntax highlighting for an OpenAI Gym agent.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Let’s build a simple CartPole agent using reinforcement learning. I’ll guide you through the essential code blocks and explain each line.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Deployment Strategies",
+      "subtitle": "From local scripts to cloud services",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "Green background depicting a laptop, Docker icon, and a cloud server in a connected diagram.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Deploying agents requires containerization with Docker, orchestration via Kubernetes, or serverless functions on cloud platforms like AWS Lambda.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Future Directions",
+      "subtitle": "Emerging trends and research avenues",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "White background with futuristic AI icons such as a brain, robot arm, and data streams.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Looking ahead, we anticipate advancements in multi‑agent coordination, explainable decision policies, and ethical frameworks guiding autonomous behavior.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    }
+  ]
+}
