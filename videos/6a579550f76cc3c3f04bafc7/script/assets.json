@@ -1,0 +1,156 @@
+{
+  "title": "AI Agents with Python",
+  "description": "An in‑depth exploration of building autonomous AI agents using Python, covering fundamentals, libraries, and practical examples for educators and developers.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI Agents",
+      "subtitle": "Defining agents and their roles in modern AI",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A serene white background with a subtle blue overlay, featuring an icon of a human silhouette connected to a network diagram.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579550f76cc3c3f04bafc7/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Core Components",
+      "subtitle": "Perception, Decision, Action loop explained",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "A calm green backdrop displaying a flowchart of perception, decision, and action steps with minimalist icons.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579550f76cc3c3f04bafc7/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Python Ecosystem",
+      "subtitle": "Key libraries for building agents",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "White background with icons of OpenAI Gym, PyTorch, TensorFlow, and FastAPI arranged in a harmonious circle.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579550f76cc3c3f04bafc7/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Sample Agent Code",
+      "subtitle": "A step‑by‑step coding walkthrough",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "Calm blue backdrop showing a code snippet with syntax highlighting for an OpenAI Gym agent.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579550f76cc3c3f04bafc7/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Deployment Strategies",
+      "subtitle": "From local scripts to cloud services",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "Green background depicting a laptop, Docker icon, and a cloud server in a connected diagram.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579550f76cc3c3f04bafc7/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Future Directions",
+      "subtitle": "Emerging trends and research avenues",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "White background with futuristic AI icons such as a brain, robot arm, and data streams.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579550f76cc3c3f04bafc7/audio/scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
