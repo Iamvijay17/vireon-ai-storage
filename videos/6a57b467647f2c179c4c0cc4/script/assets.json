@@ -1,0 +1,156 @@
+{
+  "title": "Build AI Agents from Scratch: Python, LangGraph, CrewAI, MCP & OpenAI APIs",
+  "description": "A concise tutorial guiding viewers through the creation of autonomous AI agents using Python fundamentals, LangGraph for workflow orchestration, CrewAI for multi-agent collaboration, the MCP framework for modular components, and integration with OpenAI APIs. Each segment is designed to be engaging yet academically rigorous.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI Agents",
+      "subtitle": "What is an autonomous AI agent?",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A minimalist icon of a robot head overlaid on a gradient blue background, with floating code symbols.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57b467647f2c179c4c0cc4/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Python Foundations",
+      "subtitle": "Core concepts for agent development",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "slide",
+      "imagePrompt": "An open notebook with Python code snippets highlighted, against a calm green backdrop.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57b467647f2c179c4c0cc4/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "LangGraph Workflow",
+      "subtitle": "Orchestrating agent actions",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "A flowchart diagram illustrating LangGraph nodes connected by arrows, set on a white background with subtle blue accents.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57b467647f2c179c4c0cc4/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "CrewAI Collaboration",
+      "subtitle": "Multi‑agent coordination",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "slide",
+      "imagePrompt": "Multiple robot icons representing distinct agents collaborating over shared data, against a light blue gradient.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57b467647f2c179c4c0cc4/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "MCP Modular Design",
+      "subtitle": "Reusable agent components",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "A modular block diagram showing interchangeable components, rendered in green tones.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57b467647f2c179c4c0cc4/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "OpenAI API Integration",
+      "subtitle": "Leveraging GPT models",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "slide",
+      "imagePrompt": "An illustration of the OpenAI logo connected to a Python script via arrows, on a white background with blue highlights.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57b467647f2c179c4c0cc4/audio/scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
