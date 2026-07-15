@@ -1,0 +1,150 @@
+{
+  "title": "Full-Stack AI App Development: From Concept to Deployment",
+  "description": "An in‑depth, step‑by‑step guide that walks viewers through the entire lifecycle of building a full‑stack artificial intelligence application, covering data pipelines, model training, backend APIs, frontend integration, and cloud deployment.",
+  "tags": [
+    "AI Development",
+    "Full Stack",
+    "Machine Learning",
+    "Data Engineering",
+    "Cloud Deployment"
+  ],
+  "thumbnailPrompt": "A sleek modern illustration of a neural network overlaying a laptop screen with code snippets, surrounded by calm blue gradients and subtle light rays.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Project Overview",
+      "subtitle": "Defining the AI Problem Statement",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "An open notebook with a handwritten problem statement, beside a stylized lightbulb icon on a calming blue background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to Full‑Stack AI App Development. We begin by articulating the business objective and defining the problem scope.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Data Engineering",
+      "subtitle": "Collecting, Cleaning, and Storing Data",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A stylized flowchart of data ingestion pipelines connecting to a cloud storage bucket on a green gradient.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Next, we design robust data pipelines: ingesting raw data, performing ETL transformations, and persisting it in scalable storage solutions.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Model Development",
+      "subtitle": "Training and Validating AI Models",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A code editor with a Jupyter notebook running a machine learning model, beside a monitor displaying accuracy metrics on a white background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "We then engineer features, select algorithms, train models using GPU acceleration, and validate performance against held‑out data sets.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Backend API",
+      "subtitle": "Serving Predictions with RESTful Services",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A diagram of a Flask or FastAPI server exposing an /predict endpoint, connected to the model and database layers on a blue gradient.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The trained model is encapsulated within a stateless API that accepts input payloads, returns predictions, and logs requests for monitoring.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Frontend Integration",
+      "subtitle": "Building an Intuitive User Interface",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A React or Vue.js web app rendering a form that submits data to the backend and displays prediction results on a calming green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "On the client side, we construct responsive components that capture user input, invoke the API, and visualize outputs in an engaging manner.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Deployment & Monitoring",
+      "subtitle": "CI/CD Pipelines and Observability",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A cloud architecture diagram showing Docker containers, Kubernetes cluster, Prometheus monitoring, and a CI/CD pipeline on a white background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Finally, we containerise the application, orchestrate it with Kubernetes, and implement continuous integration pipelines while monitoring latency, accuracy, and resource utilisation.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Future Directions",
+      "subtitle": "Scaling, Personalisation, and Ethics",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "An abstract representation of a growing neural network mesh overlaid on a world map, symbolising global scalability and ethical considerations.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Considerations for scaling to millions of users, adaptive personalisation, and adherence to AI ethics guidelines complete the development cycle.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Conclusion",
+      "subtitle": "Your Next Steps in Full‑Stack AI Development",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A graduation cap icon on a calming blue gradient, symbolising mastery and readiness to launch.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "You are now equipped to design, build, and deploy end‑to‑end AI applications. Begin your journey today!",
+        "file": "",
+        "duration": 0,
+        "voice": "female_academic"
+      }
+    }
+  ]
+}
