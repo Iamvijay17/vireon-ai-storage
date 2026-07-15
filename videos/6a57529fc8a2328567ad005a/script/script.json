@@ -1,0 +1,132 @@
+{
+  "title": "5 AI Tools That Everyone Will Be Using in 2026",
+  "description": "An educational overview of the five most influential artificial intelligence tools expected to become ubiquitous by 2026, presented in clear academic language and engaging visual storytelling.",
+  "tags": [
+    "AI",
+    "Technology",
+    "Future",
+    "Education"
+  ],
+  "thumbnailPrompt": "A sleek futuristic interface with floating icons representing AI tools, set against a calming blue gradient background",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "Setting the Stage for 2026 AI",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "An abstract digital landscape with a subtle blue hue, featuring a glowing orbit of interconnected nodes",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to our exploration of the five artificial intelligence tools that will shape everyday life in 2026.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Tool 1: Adaptive Learning Platform",
+      "subtitle": "Personalized Education at Scale",
+      "duration": 8,
+      "backgroundColor": "#C8E6C9",
+      "transition": "fade",
+      "imagePrompt": "A classroom interface displaying dynamic lesson plans tailored to individual learners, rendered in soft green tones",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The first tool is an adaptive learning platform that customizes curriculum in real time, optimizing educational outcomes for every student.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Tool 2: Autonomous Workflow Optimizer",
+      "subtitle": "Streamlining Business Processes",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A sleek dashboard showing automated task flows, with icons moving smoothly across a calming blue interface",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Next, the autonomous workflow optimizer automates repetitive tasks, freeing professionals to focus on creative problem solving.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Tool 3: Contextual Language Translator",
+      "subtitle": "Breaking Language Barriers",
+      "duration": 8,
+      "backgroundColor": "#C8E6C9",
+      "transition": "fade",
+      "imagePrompt": "A world map with real-time language translation bubbles in green, illustrating seamless global communication",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The contextual language translator offers instant, culturally aware translations, fostering clearer international collaboration.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Tool 4: Predictive Health Companion",
+      "subtitle": "Proactive Wellness Management",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A serene health dashboard displaying predictive analytics for personalized wellness plans, in soothing blue tones",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The predictive health companion anticipates medical needs and recommends preventative measures, enhancing public health outcomes.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Tool 5: Creative Content Generator",
+      "subtitle": "Automating Artistic Production",
+      "duration": 8,
+      "backgroundColor": "#C8E6C9",
+      "transition": "fade",
+      "imagePrompt": "An artistic studio interface with AI-generated visuals and music, rendered in calming green hues",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Finally, the creative content generator empowers artists to produce high-quality media at unprecedented speed and scale.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Conclusion",
+      "subtitle": "The Future Is Now",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A horizon of digital possibilities with a gentle blue glow, symbolizing progress",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "These five AI tools will redefine how we learn, work, communicate, heal, and create. Embrace the future today.",
+        "file": "",
+        "duration": 0,
+        "voice": "female academic"
+      }
+    }
+  ]
+}
