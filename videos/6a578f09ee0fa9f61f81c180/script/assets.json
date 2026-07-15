@@ -1,0 +1,204 @@
+{
+  "title": "Build AI Agents from Scratch: Python, LangGraph, CrewAI, MCP & OpenAI APIs",
+  "description": "A concise, step‑by‑step guide to constructing intelligent agents using Python and cutting‑edge frameworks such as LangGraph, CrewAI, MCP, and the OpenAI API. Ideal for developers and researchers who want a clear roadmap from fundamentals to deployment.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI Agents",
+      "subtitle": "What is an AI Agent?",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A stylized silhouette of a robot head against a soft blue gradient, surrounded by floating data nodes.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Python Foundations",
+      "subtitle": "Environment & Dependencies",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A clean terminal window showing pip install commands for LangGraph, CrewAI, and OpenAI SDK, with a calm green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "LangGraph Basics",
+      "subtitle": "Defining Nodes & Edges",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "A diagram of a graph with labeled nodes representing tasks, connected by directed edges, rendered in soft blue lines.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "CrewAI Integration",
+      "subtitle": "Coordinating Sub‑Agents",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Illustration of multiple small robot icons collaborating around a central command node, set against a calming green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "MCP Configuration",
+      "subtitle": "Memory & Context Management",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A stylized memory bank icon with floating text snippets, overlaid on a light blue gradient.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "OpenAI API Calls",
+      "subtitle": "Generating Responses",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "A code snippet showing an OpenAI ChatCompletion request, highlighted against a soft green background.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Deployment & Testing",
+      "subtitle": "Running Your Agent",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A terminal running a Python script that outputs agent actions, with a calm blue backdrop.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene7.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Conclusion & Next Steps",
+      "subtitle": "Expand Your Agent",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A roadmap graphic showing extensions such as reinforcement learning, custom LLMs, and multi‑modal inputs, set against a light green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a578f09ee0fa9f61f81c180\\audio\\scene8.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
