@@ -1,0 +1,119 @@
+{
+  "title": "Build AI Agents from Scratch: Python, LangGraph, CrewAI, MCP & OpenAI APIs",
+  "description": "A concise tutorial guiding viewers through the creation of autonomous AI agents using Python fundamentals, LangGraph for workflow orchestration, CrewAI for multi-agent collaboration, the MCP framework for modular components, and integration with OpenAI APIs. Each segment is designed to be engaging yet academically rigorous.",
+  "tags": [
+    "AI",
+    "Python",
+    "LangGraph",
+    "CrewAI",
+    "MCP",
+    "OpenAI API",
+    "Machine Learning",
+    "Automation"
+  ],
+  "thumbnailPrompt": "A sleek, modern illustration of a robotic agent surrounded by code snippets and cloud icons, rendered in calming blue and green hues with subtle gradients.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI Agents",
+      "subtitle": "What is an autonomous AI agent?",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A minimalist icon of a robot head overlaid on a gradient blue background, with floating code symbols.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to our tutorial on building AI agents from scratch. In this video, we will explore how to create intelligent systems that can autonomously perform tasks using Python and cutting‑edge frameworks.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Python Foundations",
+      "subtitle": "Core concepts for agent development",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "slide",
+      "imagePrompt": "An open notebook with Python code snippets highlighted, against a calm green backdrop.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "We begin with Python fundamentals: functions, classes, and asynchronous programming. These building blocks enable us to structure our agents efficiently.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "LangGraph Workflow",
+      "subtitle": "Orchestrating agent actions",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "A flowchart diagram illustrating LangGraph nodes connected by arrows, set on a white background with subtle blue accents.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "LangGraph provides a graph‑based approach to model complex workflows. We’ll create nodes for data ingestion, processing, and response generation, linking them seamlessly.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "CrewAI Collaboration",
+      "subtitle": "Multi‑agent coordination",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "slide",
+      "imagePrompt": "Multiple robot icons representing distinct agents collaborating over shared data, against a light blue gradient.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "With CrewAI, we can instantiate multiple specialized agents—such as research, summarization, and decision‑making—each communicating through a shared memory space.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "MCP Modular Design",
+      "subtitle": "Reusable agent components",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "A modular block diagram showing interchangeable components, rendered in green tones.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The MCP framework encourages the creation of reusable modules. We’ll encapsulate common functionalities like API calls and data validation into discrete components for easy composition.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "OpenAI API Integration",
+      "subtitle": "Leveraging GPT models",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "slide",
+      "imagePrompt": "An illustration of the OpenAI logo connected to a Python script via arrows, on a white background with blue highlights.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Finally, we integrate OpenAI’s powerful language models. By wrapping API calls within our agents, we enable natural language understanding and generation at scale.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    }
+  ]
+}
