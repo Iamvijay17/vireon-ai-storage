@@ -1,0 +1,116 @@
+{
+  "title": "10 Underrated AI Tools That Deserve More Attention",
+  "description": "An educational exploration of ten artificial intelligence tools that are often overlooked yet offer significant value across various domains. Each scene introduces a tool, highlights its unique features, and demonstrates how it can be applied in real-world scenarios.",
+  "tags": [
+    "AI",
+    "Artificial Intelligence",
+    "Productivity",
+    "TechTools",
+    "Innovation"
+  ],
+  "thumbnailPrompt": "A sleek, minimalist design featuring an abstract blue gradient background with the text \"10 Underrated AI Tools\" in white serif font, surrounded by subtle icons representing different AI applications such as a brain, code brackets, and a lightbulb.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "Discover hidden AI gems",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calm blue gradient background with a subtle overlay of floating geometric shapes",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to our guide on ten underrated artificial intelligence tools that deserve more attention.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Tool 1: Hugging Face Spaces",
+      "subtitle": "Collaborative AI model hosting",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A serene green background with a stylized laptop icon displaying a code editor interface",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Hugging Face Spaces allows developers to deploy and share machine learning models in an interactive web environment.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Tool 2: OpenAI Codex",
+      "subtitle": "Automated coding assistant",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "A clean white background with a subtle code snippet and AI brain icon blending together",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "OpenAI Codex translates natural language into code, accelerating development across multiple programming languages.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Tool 3: Lobe",
+      "subtitle": "Visual ML model builder",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calming blue background with a drag-and-drop interface illustration",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Lobe provides an intuitive visual platform for building machine learning models without writing code.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Tool 4: Descript Overdub",
+      "subtitle": "AI voice cloning tool",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A tranquil green background featuring a microphone and waveform graphic",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Descript Overdub enables high-quality synthetic speech generation for podcasts and video narration.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Conclusion",
+      "subtitle": "Leverage these tools today",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "A pristine white background with a subtle gradient and the text \"Start Exploring\" in bold font",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Explore these underrated AI tools to enhance productivity, creativity, and innovation in your projects.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    }
+  ]
+}
