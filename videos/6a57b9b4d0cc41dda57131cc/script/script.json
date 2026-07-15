@@ -1,0 +1,153 @@
+{
+  "title": "Build AI Agents from Scratch: Python, LangGraph, CrewAI, MCP & OpenAI APIs",
+  "description": "A concise, step‑by‑step guide that teaches viewers how to construct sophisticated AI agents using only Python and a suite of modern tools—LangGraph for graph‑based reasoning, CrewAI for orchestrating agent teams, MCP for multi‑modal processing, and the OpenAI API for language understanding. Each scene delivers clear explanations, code snippets, and visual cues to ensure learners can replicate the process on their own.",
+  "tags": [
+    "Python",
+    "LangGraph",
+    "CrewAI",
+    "MCP",
+    "OpenAI API",
+    "AI Agents",
+    "Machine Learning",
+    "Software Engineering"
+  ],
+  "thumbnailPrompt": "A clean, modern thumbnail featuring a stylized AI brain made of interconnected nodes against a calming blue gradient background, with the text \"Build AI Agents from Scratch\" in bold white font.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "Why Build Your Own AI Agent?",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calm blue gradient background with a simple illustration of an AI agent icon.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome. Today we will build an AI agent from scratch using Python, LangGraph, CrewAI, MCP, and the OpenAI API. Let’s begin by understanding why this approach matters for developers seeking flexibility and control.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Setting Up Your Environment",
+      "subtitle": "Python, Virtualenv & Dependencies",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A terminal window showing pip install commands on a white background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Create a virtual environment and install the required packages: LangGraph, CrewAI, MCP, and openai. The following commands will get you started:",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "LangGraph Basics",
+      "subtitle": "Defining Nodes & Edges",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A simple graph diagram with labeled nodes and arrows, rendered in a calming green.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "LangGraph allows you to model an agent’s reasoning as a directed graph. Nodes represent tasks or prompts; edges dictate the flow of information. Here is a minimal example that queries OpenAI and returns a response.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "CrewAI Orchestration",
+      "subtitle": "Team Management & Task Allocation",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Illustration of multiple agent icons connected to a central controller.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "CrewAI empowers you to coordinate several agents. Define each crew member’s role, assign tasks, and let the system manage dependencies automatically. The code below demonstrates creating a simple crew with two agents.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "MCP Integration",
+      "subtitle": "Multi‑Modal Context Processing",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A split screen showing text and an image being processed together.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "MCP enables agents to handle multiple modalities. Attach visual or audio inputs alongside textual data, enriching the context for OpenAI’s language model. Here we illustrate feeding an image into the pipeline.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "OpenAI API Interaction",
+      "subtitle": "Sending Prompts & Receiving Answers",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A stylized representation of an API call with JSON payload.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The OpenAI API is the core language engine. Construct a prompt, send it via the SDK, and parse the response. This snippet demonstrates a typical request using the ChatCompletion endpoint.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Putting It All Together",
+      "subtitle": "Full Agent Pipeline",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A flowchart showing the complete pipeline from user input to final output.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Combine LangGraph, CrewAI, MCP, and OpenAI into a single pipeline. The following code orchestrates the entire workflow, handling inputs, processing, and outputs seamlessly.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Next Steps",
+      "subtitle": "Testing & Deployment",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calm green background with a checklist icon.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Test your agent locally, then package it into a Docker container for deployment. Consider scaling with Kubernetes or serverless platforms. Thank you for watching—start building today!",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    }
+  ]
+}
