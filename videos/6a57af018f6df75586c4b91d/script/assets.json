@@ -1,0 +1,156 @@
+{
+  "title": "YouTube Automation with AI",
+  "description": "An in‑depth exploration of how artificial intelligence can streamline the creation, optimisation and monetisation of YouTube channels. The video covers content ideation, script generation, video editing, thumbnail design, SEO, audience analytics and ethical considerations.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to YouTube Automation",
+      "subtitle": "Harnessing AI for Channel Growth",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calm blue gradient background with a stylised AI brain icon and a play button, subtle white accents.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57af018f6df75586c4b91d/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Ideation & Script Generation",
+      "subtitle": "From Prompt to Full Script",
+      "duration": 8,
+      "backgroundColor": "#F0FFF4",
+      "transition": "fade",
+      "imagePrompt": "A greenish background with a notebook open, AI-generated text appearing line by line, light blue highlights.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57af018f6df75586c4b91d/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Automated Video Editing",
+      "subtitle": "Seamless Production Pipelines",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A white background with a timeline interface, AI icons indicating auto‑cut, colour grading and transitions.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57af018f6df75586c4b91d/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Thumbnail & Metadata Design",
+      "subtitle": "Boost Click‑Through Rates",
+      "duration": 8,
+      "backgroundColor": "#F0FFF4",
+      "transition": "fade",
+      "imagePrompt": "A calming green backdrop featuring AI‑generated thumbnail mockups with high contrast and title overlays.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57af018f6df75586c4b91d/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Analytics & Optimization",
+      "subtitle": "Data‑Driven Refinement",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A blue background displaying analytics dashboards with charts, AI icons indicating trend analysis.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57af018f6df75586c4b91d/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Ethical & Practical Considerations",
+      "subtitle": "Responsible Automation",
+      "duration": 8,
+      "backgroundColor": "#F0FFF4",
+      "transition": "fade",
+      "imagePrompt": "A white background with a balanced scale icon, gentle green hues, representing ethical AI use.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57af018f6df75586c4b91d/audio/scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
