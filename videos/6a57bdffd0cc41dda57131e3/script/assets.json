@@ -1,0 +1,156 @@
+{
+  "title": "YouTube Automation with AI",
+  "description": "An educational guide that explores how artificial intelligence can streamline YouTube content creation, from ideation and scripting to editing and publishing.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "Harnessing AI for YouTube Success",
+      "duration": 10.858666666666666,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A serene blue gradient with a minimalist icon of a play button and AI neural network nodes. Soft white text overlays.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57bdffd0cc41dda57131e3/audio/scene1.mp3",
+        "duration": 10.858666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Ideation & Keyword Research",
+      "subtitle": "Data-Driven Content Planning",
+      "duration": 10.570666666666666,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A green background featuring a digital brain with search bar icons, highlighting trending keywords. Light blue overlay for text.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57bdffd0cc41dda57131e3/audio/scene2.mp3",
+        "duration": 10.570666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Script Generation",
+      "subtitle": "Automated Storytelling",
+      "duration": 12.384,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "White backdrop with a stylized laptop screen displaying an AI-generated script outline. Soft blue highlights on headings.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57bdffd0cc41dda57131e3/audio/scene3.mp3",
+        "duration": 12.384
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Video Editing Automation",
+      "subtitle": "Seamless Production Pipeline",
+      "duration": 12.96,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Blue-themed editing interface with AI tools auto-cropping, color grading, and adding subtitles. Subtle green accents for icons.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57bdffd0cc41dda57131e3/audio/scene4.mp3",
+        "duration": 12.96
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Publishing & Optimization",
+      "subtitle": "Smart Scheduling & Metadata",
+      "duration": 13.056,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "Green background depicting a calendar with optimal upload times and metadata suggestions displayed in clean text boxes.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57bdffd0cc41dda57131e3/audio/scene5.mp3",
+        "duration": 13.056
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Conclusion & Next Steps",
+      "subtitle": "Empower Your Channel Today",
+      "duration": 11.434666666666667,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "White background with a call-to-action button graphic and AI icon. Calming blue text invites viewers to subscribe.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57bdffd0cc41dda57131e3/audio/scene6.mp3",
+        "duration": 11.434666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
