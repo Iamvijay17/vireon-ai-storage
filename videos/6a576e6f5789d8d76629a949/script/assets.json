@@ -1,0 +1,156 @@
+{
+  "title": "10 Underrated AI Tools That Deserve More Attention",
+  "description": "An educational exploration of ten artificial intelligence tools that are often overlooked yet offer significant value across various domains. Each scene introduces a tool, highlights its unique features, and demonstrates how it can be applied in real-world scenarios.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "Discover hidden AI gems",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calm blue gradient background with a subtle overlay of floating geometric shapes",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "6a576e6f5789d8d76629a949/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Tool 1: Hugging Face Spaces",
+      "subtitle": "Collaborative AI model hosting",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A serene green background with a stylized laptop icon displaying a code editor interface",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "6a576e6f5789d8d76629a949/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Tool 2: OpenAI Codex",
+      "subtitle": "Automated coding assistant",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "A clean white background with a subtle code snippet and AI brain icon blending together",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "6a576e6f5789d8d76629a949/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Tool 3: Lobe",
+      "subtitle": "Visual ML model builder",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calming blue background with a drag-and-drop interface illustration",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "6a576e6f5789d8d76629a949/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Tool 4: Descript Overdub",
+      "subtitle": "AI voice cloning tool",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A tranquil green background featuring a microphone and waveform graphic",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "6a576e6f5789d8d76629a949/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Conclusion",
+      "subtitle": "Leverage these tools today",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "A pristine white background with a subtle gradient and the text \"Start Exploring\" in bold font",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "6a576e6f5789d8d76629a949/audio/scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
