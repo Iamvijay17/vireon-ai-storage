@@ -1,0 +1,82 @@
+{
+  "title": "Cybersecurity with AI: Enhancing Digital Defense",
+  "description": "An educational exploration of how artificial intelligence fortifies cybersecurity measures, from threat detection to adaptive response systems. This concise video presents key concepts, real-world applications, and future implications for professionals and students alike.",
+  "tags": [
+    "cybersecurity",
+    "artificial intelligence",
+    "machine learning",
+    "digital defense",
+    "threat detection"
+  ],
+  "thumbnailPrompt": "A sleek cybernetic brain formed by interconnected circuitry against a calm blue gradient, with subtle green accents highlighting data flow, embodying the fusion of AI and cybersecurity.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI in Cybersecurity",
+      "subtitle": "Defining the Intersection",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A stylized icon of a shield merging with a neural network, set against a soft teal background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Artificial intelligence is reshaping cybersecurity by providing advanced analytical capabilities that detect and respond to threats faster than traditional methods.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Threat Detection Algorithms",
+      "subtitle": "Pattern Recognition in Action",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "A dynamic heatmap overlaying a digital grid, illustrating anomalous patterns highlighted in green against a white backdrop.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "Machine learning models analyze vast datasets to identify irregularities, enabling early detection of malware, phishing attempts, and zero-day exploits.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Adaptive Response Systems",
+      "subtitle": "Real-Time Mitigation",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "An animated flowchart showing AI-driven decision nodes redirecting traffic to secure zones, with calming blue arrows indicating safe pathways.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Once a threat is identified, AI orchestrates automated containment measures—isolating infected systems and reconfiguring network defenses in real time.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-C"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Future Outlook",
+      "subtitle": "Ethical Considerations & Innovation",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A futuristic cityscape with holographic data streams flowing over green rooftops, symbolizing sustainable AI-driven security.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "As AI evolves, we must balance innovation with ethical safeguards, ensuring transparency, privacy, and accountability in cybersecurity practices.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    }
+  ]
+}
