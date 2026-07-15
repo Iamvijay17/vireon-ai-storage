@@ -1,0 +1,204 @@
+{
+  "title": "YouTube Automation with AI: A Structured Guide",
+  "description": "This video explores the systematic use of artificial intelligence to automate content creation, publishing, and optimization on YouTube. It covers workflow design, tool selection, ethical considerations, and performance metrics.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "The Promise of Automation",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A serene blue background with subtle wave patterns, a translucent YouTube logo in the center.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Ideation & Scriptwriting",
+      "subtitle": "AI‑Generated Content Plans",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A calm green notebook with a digital pen, overlayed by AI-generated text bubbles.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Video Production",
+      "subtitle": "Automated Editing & Voice‑Overs",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "A stylised video editor interface with AI-powered auto‑cut and voice‑over tools highlighted.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Thumbnail & Metadata",
+      "subtitle": "Visual Optimization Algorithms",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A blue canvas with AI‑generated thumbnail designs, overlaid by keyword tags.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Publishing & Scheduling",
+      "subtitle": "Automated Release Management",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "slide",
+      "imagePrompt": "A green calendar with automated publishing icons, showing time‑zone adjustments.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Analytics & Iteration",
+      "subtitle": "Data‑Driven Refinement",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "A white dashboard with AI‑derived charts, highlighting watch time and retention curves.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Ethical Considerations",
+      "subtitle": "Responsible Automation",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A blue lock symbol overlaid on a digital network, representing data privacy.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene7.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Conclusion",
+      "subtitle": "Next Steps for Implementation",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "slide",
+      "imagePrompt": "A green pathway leading to a bright horizon, symbolising growth.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a57afeb647f2c179c4c0cb9/audio/scene8.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
