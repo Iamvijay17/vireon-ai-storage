@@ -1,0 +1,132 @@
+{
+  "title": "AI Automation with n8n",
+  "description": "An introductory guide to automating AI workflows using the open‑source platform n8n, covering key concepts, setup steps, and practical examples.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "What is n8n?",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Illustration of a node-based workflow editor on a laptop screen, surrounded by subtle blue gradients.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5798fcf76cc3c3f04baff9/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Why Combine AI with n8n?",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A diagram showing an AI model node connected to various data sources, all linked within a single workflow.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5798fcf76cc3c3f04baff9/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Setting Up Your First Workflow",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "Step‑by‑step screenshot sequence of creating a new workflow, adding a trigger node and an AI function node.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5798fcf76cc3c3f04baff9/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Handling Data and Errors",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A flowchart illustrating data routing, conditional branches, and error handling within n8n.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5798fcf76cc3c3f04baff9/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Scaling and Deployment",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "Server rack illustration with n8n running in Docker containers, connected to cloud AI services.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a5798fcf76cc3c3f04baff9/audio/scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
