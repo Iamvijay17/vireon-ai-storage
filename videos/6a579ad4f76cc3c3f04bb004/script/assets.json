@@ -1,0 +1,108 @@
+{
+  "title": "Cybersecurity with AI: Enhancing Digital Defense",
+  "description": "An educational exploration of how artificial intelligence fortifies cybersecurity measures, from threat detection to adaptive response systems. This concise video presents key concepts, real-world applications, and future implications for professionals and students alike.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI in Cybersecurity",
+      "subtitle": "Defining the Intersection",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A stylized icon of a shield merging with a neural network, set against a soft teal background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579ad4f76cc3c3f04bb004/audio/scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Threat Detection Algorithms",
+      "subtitle": "Pattern Recognition in Action",
+      "duration": 8,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "A dynamic heatmap overlaying a digital grid, illustrating anomalous patterns highlighted in green against a white backdrop.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579ad4f76cc3c3f04bb004/audio/scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Adaptive Response Systems",
+      "subtitle": "Real-Time Mitigation",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "An animated flowchart showing AI-driven decision nodes redirecting traffic to secure zones, with calming blue arrows indicating safe pathways.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579ad4f76cc3c3f04bb004/audio/scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Future Outlook",
+      "subtitle": "Ethical Considerations & Innovation",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "A futuristic cityscape with holographic data streams flowing over green rooftops, symbolizing sustainable AI-driven security.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "http://localhost:3000/public/6a579ad4f76cc3c3f04bb004/audio/scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
