@@ -1,0 +1,150 @@
+{
+  "title": "YouTube Automation with AI: A Structured Guide",
+  "description": "This video explores the systematic use of artificial intelligence to automate content creation, publishing, and optimization on YouTube. It covers workflow design, tool selection, ethical considerations, and performance metrics.",
+  "tags": [
+    "YouTube Automation",
+    "Artificial Intelligence",
+    "Content Creation",
+    "Digital Marketing",
+    "Workflow Optimization"
+  ],
+  "thumbnailPrompt": "A clean, modern thumbnail featuring a stylised YouTube play button intertwined with AI circuitry against a gradient of calming blue and green hues. The text reads 'Automate Your Channel with AI' in crisp white font.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "The Promise of Automation",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A serene blue background with subtle wave patterns, a translucent YouTube logo in the center.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to our comprehensive exploration of how artificial intelligence can streamline every facet of your YouTube channel. Today we will dissect the entire automation pipeline from ideation to analytics.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Ideation & Scriptwriting",
+      "subtitle": "AI‑Generated Content Plans",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A calm green notebook with a digital pen, overlayed by AI-generated text bubbles.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Begin with topic research. Natural language processing models can scan trending keywords and generate outlines that align with viewer intent. This reduces brainstorming time while ensuring relevance.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Video Production",
+      "subtitle": "Automated Editing & Voice‑Overs",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "A stylised video editor interface with AI-powered auto‑cut and voice‑over tools highlighted.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "Utilise AI editing suites to trim footage, add transitions, and synchronize audio. Text‑to‑speech engines produce natural‑sounding narrations, freeing you from manual recording sessions.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-C"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Thumbnail & Metadata",
+      "subtitle": "Visual Optimization Algorithms",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A blue canvas with AI‑generated thumbnail designs, overlaid by keyword tags.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Generate compelling thumbnails using generative image models. Simultaneously, AI can craft SEO‑friendly titles and descriptions that maximize click‑through rates.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Publishing & Scheduling",
+      "subtitle": "Automated Release Management",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "slide",
+      "imagePrompt": "A green calendar with automated publishing icons, showing time‑zone adjustments.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Integrate scheduling APIs to publish videos at optimal times. AI monitors audience analytics and adjusts future release windows accordingly.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Analytics & Iteration",
+      "subtitle": "Data‑Driven Refinement",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "A white dashboard with AI‑derived charts, highlighting watch time and retention curves.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "Finally, employ machine learning to interpret engagement metrics. Iteratively adjust content strategy based on predictive insights, ensuring sustained channel growth.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-C"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Ethical Considerations",
+      "subtitle": "Responsible Automation",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A blue lock symbol overlaid on a digital network, representing data privacy.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Respect copyright laws and audience transparency. AI should augment human creativity rather than replace genuine interaction.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Conclusion",
+      "subtitle": "Next Steps for Implementation",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "slide",
+      "imagePrompt": "A green pathway leading to a bright horizon, symbolising growth.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Armed with these tools and best practices, you can automate routine tasks while maintaining creative control. Begin integrating AI into your workflow today and watch your channel evolve efficiently.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    }
+  ]
+}
