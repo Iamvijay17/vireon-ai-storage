@@ -1,0 +1,152 @@
+{
+  "title": "Build AI Agents from Scratch: Python, LangGraph, CrewAI, MCP & OpenAI APIs",
+  "description": "A concise, step‑by‑step guide to constructing intelligent agents using Python and cutting‑edge frameworks such as LangGraph, CrewAI, MCP, and the OpenAI API. Ideal for developers and researchers who want a clear roadmap from fundamentals to deployment.",
+  "tags": [
+    "Python",
+    "LangGraph",
+    "CrewAI",
+    "MCP",
+    "OpenAI API",
+    "Artificial Intelligence",
+    "Agent Design"
+  ],
+  "thumbnailPrompt": "A sleek, modern illustration of a digital brain composed of interconnected code snippets in calming blues and greens, with the title text overlayed in clean white typography.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to AI Agents",
+      "subtitle": "What is an AI Agent?",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A stylized silhouette of a robot head against a soft blue gradient, surrounded by floating data nodes.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome. In this series we will build an AI agent from scratch using Python and modern libraries.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Python Foundations",
+      "subtitle": "Environment & Dependencies",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A clean terminal window showing pip install commands for LangGraph, CrewAI, and OpenAI SDK, with a calm green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "First, set up your Python environment. Install the required packages: LangGraph, CrewAI, MCP, and the OpenAI client library.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "LangGraph Basics",
+      "subtitle": "Defining Nodes & Edges",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "A diagram of a graph with labeled nodes representing tasks, connected by directed edges, rendered in soft blue lines.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "With LangGraph we model the agent’s workflow as a directed graph. Each node is a task and each edge defines control flow.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "CrewAI Integration",
+      "subtitle": "Coordinating Sub‑Agents",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "Illustration of multiple small robot icons collaborating around a central command node, set against a calming green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "CrewAI allows us to orchestrate several sub‑agents. We define roles and let them communicate through LangGraph nodes.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "MCP Configuration",
+      "subtitle": "Memory & Context Management",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A stylized memory bank icon with floating text snippets, overlaid on a light blue gradient.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The Memory Control Protocol (MCP) manages context across tasks. It ensures the agent retains relevant information between steps.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "OpenAI API Calls",
+      "subtitle": "Generating Responses",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "A code snippet showing an OpenAI ChatCompletion request, highlighted against a soft green background.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "audio": {
+        "text": "Finally, we leverage the OpenAI API to generate natural language responses and insights. The agent sends prompts and processes replies in real time.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Deployment & Testing",
+      "subtitle": "Running Your Agent",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A terminal running a Python script that outputs agent actions, with a calm blue backdrop.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Deploy your agent locally or to the cloud. Test its behavior by providing sample prompts and observing the workflow graph in action.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "title": "Conclusion & Next Steps",
+      "subtitle": "Expand Your Agent",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "A roadmap graphic showing extensions such as reinforcement learning, custom LLMs, and multi‑modal inputs, set against a light green background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "You now have a functional AI agent. Next, explore advanced topics like reinforcement learning, integrating custom models, or adding visual perception. Happy coding!",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    }
+  ]
+}
