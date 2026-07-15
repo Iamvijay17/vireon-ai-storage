@@ -1,0 +1,180 @@
+{
+  "title": "5 AI Tools That Everyone Will Be Using in 2026",
+  "description": "An educational overview of the five most influential artificial intelligence tools expected to become ubiquitous by 2026, presented in clear academic language and engaging visual storytelling.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction",
+      "subtitle": "Setting the Stage for 2026 AI",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "An abstract digital landscape with a subtle blue hue, featuring a glowing orbit of interconnected nodes",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene1.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Tool 1: Adaptive Learning Platform",
+      "subtitle": "Personalized Education at Scale",
+      "duration": 8,
+      "backgroundColor": "#C8E6C9",
+      "transition": "fade",
+      "imagePrompt": "A classroom interface displaying dynamic lesson plans tailored to individual learners, rendered in soft green tones",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene2.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Tool 2: Autonomous Workflow Optimizer",
+      "subtitle": "Streamlining Business Processes",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A sleek dashboard showing automated task flows, with icons moving smoothly across a calming blue interface",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene3.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Tool 3: Contextual Language Translator",
+      "subtitle": "Breaking Language Barriers",
+      "duration": 8,
+      "backgroundColor": "#C8E6C9",
+      "transition": "fade",
+      "imagePrompt": "A world map with real-time language translation bubbles in green, illustrating seamless global communication",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene4.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Tool 4: Predictive Health Companion",
+      "subtitle": "Proactive Wellness Management",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A serene health dashboard displaying predictive analytics for personalized wellness plans, in soothing blue tones",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene5.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Tool 5: Creative Content Generator",
+      "subtitle": "Automating Artistic Production",
+      "duration": 8,
+      "backgroundColor": "#C8E6C9",
+      "transition": "fade",
+      "imagePrompt": "An artistic studio interface with AI-generated visuals and music, rendered in calming green hues",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene6.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Conclusion",
+      "subtitle": "The Future Is Now",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A horizon of digital possibilities with a gentle blue glow, symbolizing progress",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "file": "C:\\Programs\\Video Generation\\vireon-ai\\backend\\jobs\\6a57529fc8a2328567ad005a\\audio\\scene7.mp3",
+        "duration": 0
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
