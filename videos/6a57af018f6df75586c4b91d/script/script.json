@@ -1,0 +1,117 @@
+{
+  "title": "YouTube Automation with AI",
+  "description": "An in‑depth exploration of how artificial intelligence can streamline the creation, optimisation and monetisation of YouTube channels. The video covers content ideation, script generation, video editing, thumbnail design, SEO, audience analytics and ethical considerations.",
+  "tags": [
+    "YouTube Automation",
+    "Artificial Intelligence",
+    "Content Creation",
+    "SEO",
+    "Video Editing",
+    "Analytics"
+  ],
+  "thumbnailPrompt": "A sleek futuristic workspace with a computer screen displaying a YouTube channel dashboard, surrounded by AI icons and calming blue-green hues, with the title text overlay in bold white font.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Introduction to YouTube Automation",
+      "subtitle": "Harnessing AI for Channel Growth",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A calm blue gradient background with a stylised AI brain icon and a play button, subtle white accents.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Welcome to our guide on YouTube Automation with Artificial Intelligence. Today we will explore how AI can transform every stage of content creation.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_en"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Ideation & Script Generation",
+      "subtitle": "From Prompt to Full Script",
+      "duration": 8,
+      "backgroundColor": "#F0FFF4",
+      "transition": "fade",
+      "imagePrompt": "A greenish background with a notebook open, AI-generated text appearing line by line, light blue highlights.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "First, let us examine how AI tools can generate compelling video ideas and produce polished scripts from simple prompts.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_en"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Automated Video Editing",
+      "subtitle": "Seamless Production Pipelines",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A white background with a timeline interface, AI icons indicating auto‑cut, colour grading and transitions.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Next, we demonstrate automated editing workflows that assemble footage, add effects, and generate finished videos in minutes.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_en"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Thumbnail & Metadata Design",
+      "subtitle": "Boost Click‑Through Rates",
+      "duration": 8,
+      "backgroundColor": "#F0FFF4",
+      "transition": "fade",
+      "imagePrompt": "A calming green backdrop featuring AI‑generated thumbnail mockups with high contrast and title overlays.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "AI can also design eye‑catching thumbnails, optimise titles, tags and descriptions to improve search visibility.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_en"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Analytics & Optimization",
+      "subtitle": "Data‑Driven Refinement",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "A blue background displaying analytics dashboards with charts, AI icons indicating trend analysis.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Finally, we explore how machine learning models analyse viewer behaviour and suggest content adjustments for higher engagement.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_en"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Ethical & Practical Considerations",
+      "subtitle": "Responsible Automation",
+      "duration": 8,
+      "backgroundColor": "#F0FFF4",
+      "transition": "fade",
+      "imagePrompt": "A white background with a balanced scale icon, gentle green hues, representing ethical AI use.",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "We conclude by discussing best practices for transparency, originality and compliance when automating YouTube workflows.",
+        "file": "",
+        "duration": 0,
+        "voice": "female_en"
+      }
+    }
+  ]
+}
