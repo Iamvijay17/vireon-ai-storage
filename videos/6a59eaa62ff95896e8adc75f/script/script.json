@@ -1,0 +1,156 @@
+{
+  "title": "The Golden Heart",
+  "description": "A conversational podcast-style video exploring the impact and stories behind The Golden Heart organization.",
+  "type": "podcast",
+  "tags": [
+    "podcast",
+    "charity",
+    "impact"
+  ],
+  "thumbnailPrompt": "Warm studio setting with dark purple background, subtle orange lighting, host silhouette holding a microphone",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to The Golden Heart",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A cozy podcast studio with warm orange lights and deep purple walls, a vintage microphone in front of the host's chair",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-042",
+      "elements": {
+        "title": "The Golden Heart",
+        "subtitle": "Stories that Change Lives",
+        "hostName": "Alex Rivera",
+        "caption": "Hey everyone, I’m Alex Rivera, and welcome to The Golden Heart podcast. Today we’re diving into how one heart can truly change the world."
+      },
+      "audio": {
+        "text": "Hey everyone, I’m Alex Rivera, and welcome to The Golden Heart podcast. Today we’re diving into how one heart can truly change the world.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Two people sitting across from each other in a warm studio, one with a gentle smile, the other holding a heart-shaped token",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-048",
+      "elements": {
+        "title": "",
+        "subtitle": "",
+        "quote": "\"When I first heard about The Golden Heart, I was skeptical. Now, seeing the kids smile, I know it’s real.\"",
+        "speaker": "Maya Patel"
+      },
+      "audio": {
+        "text": "\"When I first heard about The Golden Heart, I was skeptical. Now, seeing the kids smile, I know it’s real.\", Maya says.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A close-up of a handwritten quote on a parchment background with gold ink",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-031",
+      "elements": {
+        "quote": "The Golden Heart believes that every act of kindness is a seed for tomorrow.",
+        "author": "Founder Dr. Elena Ruiz",
+        "role": "Executive Director"
+      },
+      "audio": {
+        "text": "The Golden Heart believes that every act of kindness is a seed for tomorrow, says Founder Dr. Elena Ruiz, Executive Director.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-C"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Portrait of a young woman with a bright smile and a small golden heart pendant",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-039",
+      "elements": {
+        "name": "Lila Thompson",
+        "title": "Volunteer Coordinator",
+        "description": "Lila has been coordinating volunteer efforts for over five years, turning ideas into action.",
+        "image": ""
+      },
+      "audio": {
+        "text": "Meet Lila Thompson, our Volunteer Coordinator. She’s been turning ideas into action for over five years.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Infographic showing statistics: 1,200 kids served, $500K donated, 3,000 volunteers",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-036",
+      "elements": {
+        "title": "Impact Snapshot",
+        "subtitle": "Where the Golden Heart Makes a Difference",
+        "statistics": "• 1,200 children helped • $500k raised • 3,000 volunteers engaged",
+        "conclusion": "Every donation fuels hope and every volunteer writes a new chapter of compassion."
+      },
+      "audio": {
+        "text": "Here’s an impact snapshot: we’ve helped 1,200 children, raised $500k, and engaged 3,000 volunteers. Every donation fuels hope.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-D"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Join the Journey",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Host in studio looking directly at camera with a hopeful expression, warm orange glow around them",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-042",
+      "elements": {
+        "title": "The Golden Heart",
+        "subtitle": "Stories that Change Lives",
+        "hostName": "Alex Rivera",
+        "caption": "If you’re moved by these stories, consider donating or volunteering. Together, we can keep the golden hearts beating strong."
+      },
+      "audio": {
+        "text": "If you’re moved by these stories, consider donating or volunteering. Together, we can keep the golden hearts beating strong.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US-Wavenet-B"
+      }
+    }
+  ]
+}
