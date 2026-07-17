@@ -1,0 +1,249 @@
+{
+  "title": "🔥 Quick & Tasty Chicken Biryani in 45 Seconds!",
+  "description": "Learn how to whip up a mouth‑watering chicken biryani fast—perfect for busy cooks and flavor lovers alike. Follow the steps, grab your apron, and let’s get cooking!",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Ready for the BEST Chicken Biryani?",
+      "subtitle": "Fast‑Track Flavor!",
+      "duration": 7.52,
+      "backgroundColor": "#FF5733",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-044",
+      "elements": {
+        "title": "Ready for the BEST Chicken Biryani?",
+        "subtitle": "Fast‑Track Flavor!",
+        "body": "",
+        "profileImage": "",
+        "username": "",
+        "likes": "0",
+        "caption": "Hey food lovers, ready to cook the best chicken biryani in minutes? Let’s go!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene1.mp3",
+        "duration": 7.52
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Step 1: Marinate",
+      "subtitle": "Chicken + Spices = Magic",
+      "duration": 13.237333333333334,
+      "backgroundColor": "#FFC300",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-050",
+      "elements": {
+        "title": "Step 1: Marinate",
+        "subtitle": "Chicken + Spices = Magic",
+        "caption": "Marinade time! Mix chicken with yogurt, ginger‑garlic paste, turmeric, red chili powder, and a splash of lemon. Let it chill for 15 mins.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene2.mp3",
+        "duration": 13.237333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Step 2: Cook Rice",
+      "subtitle": "Perfectly Fluffy Basmati",
+      "duration": 6.474666666666667,
+      "backgroundColor": "#DAF7A6",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-051",
+      "elements": {
+        "title": "Step 2: Cook Rice",
+        "subtitle": "Perfectly Fluffy Basmati",
+        "image": "",
+        "metric": "",
+        "metricLabel": "",
+        "caption": "Boil basmati with a pinch of salt and bay leaf. Drain and set aside.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene3.mp3",
+        "duration": 6.474666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Step 3: Fry Onions",
+      "subtitle": "Crispy Gold",
+      "duration": 7.712,
+      "backgroundColor": "#FF8C00",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-052",
+      "elements": {
+        "title": "Step 3: Fry Onions",
+        "subtitle": "Crispy Gold",
+        "image": "",
+        "ingredients": [],
+        "caption": "Sauté sliced onions till golden. Add cumin, cardamom, and cloves for that aroma.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene4.mp3",
+        "duration": 7.712
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Step 4: Layer & Steam",
+      "subtitle": "Biryani Magic",
+      "duration": 12.288,
+      "backgroundColor": "#C70039",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-053",
+      "elements": {
+        "title": "Step 4: Layer & Steam",
+        "subtitle": "Biryani Magic",
+        "location": "",
+        "image": "",
+        "caption": "Layer marinated chicken, cooked rice, fried onions, fresh mint, and cilantro. Top with saffron milk and steam on low for 10 mins.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene5.mp3",
+        "duration": 12.288
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Step 5: Serve & Enjoy!",
+      "subtitle": "Taste the Bliss",
+      "duration": 7.904,
+      "backgroundColor": "#900C3F",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-016",
+      "elements": {
+        "images": [
+          {
+            "url": ""
+          }
+        ],
+        "caption": "Taste the Bliss"
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene6.mp3",
+        "duration": 7.904
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Like, Subscribe & Comment!",
+      "subtitle": "Got a favorite spice? Tell us below!",
+      "duration": 11.146666666666667,
+      "backgroundColor": "#581845",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-047",
+      "elements": {
+        "quote": "Like, Subscribe & Comment!",
+        "author": "",
+        "caption": "Enjoyed the recipe? Smash that like button, subscribe for more quick bites, and drop your spicy thoughts in comments!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a548ad3942de8cbb5f699/audio/scene7.mp3",
+        "duration": 11.146666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
