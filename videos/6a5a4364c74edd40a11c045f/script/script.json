@@ -1,0 +1,90 @@
+{
+  "title": "What is React?",
+  "description": "An introductory guide to the React JavaScript library, explaining its purpose, core concepts, and benefits for building interactive user interfaces.",
+  "type": "educational",
+  "tags": [
+    "React",
+    "JavaScript",
+    "Frontend",
+    "UI Development"
+  ],
+  "thumbnailPrompt": "A calm blue gradient background with a stylized React logo in white, surrounded by floating code snippets in light green. The composition conveys modern web development.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "What is React?",
+      "subtitle": "An Introduction to the JavaScript Library for Building UIs",
+      "duration": 8,
+      "backgroundColor": "#e0f7ff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "What is React?",
+        "subtitle": "An Introduction to the JavaScript Library for Building UIs",
+        "image": ""
+      },
+      "audio": {
+        "text": "Welcome! Today we’ll explore what React is and why it’s essential for modern web development.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "Core Concepts of React",
+      "subtitle": "Components, Virtual DOM, and JSX",
+      "duration": 8,
+      "backgroundColor": "#d0f4e6",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "Core Concepts of React",
+        "items": [
+          {
+            "text": "Components, Virtual DOM, and JSX",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "text": "React is a library that lets you build user interfaces with reusable components. It uses a virtual DOM to efficiently update the real browser DOM, and JSX allows you to write HTML-like syntax in JavaScript.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "end",
+      "title": "Key Takeaways",
+      "subtitle": "Why React Matters",
+      "duration": 8,
+      "backgroundColor": "#f0fff4",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaways",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "In summary, React simplifies UI development with reusable components, efficient rendering via the virtual DOM, and a declarative syntax. These features make it a powerful tool for building dynamic web applications.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    }
+  ]
+}
