@@ -1,0 +1,109 @@
+{
+  "title": "What is React?",
+  "description": "An introductory guide to the React JavaScript library, explaining its purpose, core concepts, and benefits for building interactive user interfaces.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "What is React?",
+      "subtitle": "An Introduction to the JavaScript Library for Building UIs",
+      "duration": 9.237333333333334,
+      "backgroundColor": "#e0f7ff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "What is React?",
+        "subtitle": "An Introduction to the JavaScript Library for Building UIs",
+        "image": ""
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4364c74edd40a11c045f/audio/scene1.mp3",
+        "duration": 9.237333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Core Concepts of React",
+      "subtitle": "Components, Virtual DOM, and JSX",
+      "duration": 19.37,
+      "backgroundColor": "#d0f4e6",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "Core Concepts of React",
+        "items": [
+          {
+            "text": "Components, Virtual DOM, and JSX",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4364c74edd40a11c045f/audio/scene2.mp3",
+        "duration": 19.37
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Key Takeaways",
+      "subtitle": "Why React Matters",
+      "duration": 20.138,
+      "backgroundColor": "#f0fff4",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaways",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4364c74edd40a11c045f/audio/scene3.mp3",
+        "duration": 20.138
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
