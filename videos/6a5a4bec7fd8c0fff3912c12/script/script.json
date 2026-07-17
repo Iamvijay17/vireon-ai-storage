@@ -1,0 +1,122 @@
+{
+  "title": "How to Make Biriyani in 20 Seconds!",
+  "description": "Quick, sizzling biriyani recipe—grab the steps and get cooking fast! Perfect for YouTube Shorts.",
+  "type": "youtube_shorts",
+  "tags": [
+    "biriyani",
+    "recipe",
+    "shorts",
+    "cooking",
+    "IndianFood"
+  ],
+  "thumbnailPrompt": "",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "Biriyani in 20 Seconds!",
+      "subtitle": "Ready to become a kitchen wizard? Let's go!",
+      "duration": 5,
+      "backgroundColor": "#FF5733",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-044",
+      "elements": {
+        "title": "Biriyani in 20 Seconds!",
+        "subtitle": "Ready to become a kitchen wizard? Let's go!",
+        "body": "",
+        "profileImage": "",
+        "username": "",
+        "likes": "0",
+        "caption": "Get ready to turn rice into gold—fast and flavorful!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Get ready to turn rice into gold—fast and flavorful!",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "",
+      "subtitle": "Step 1: Marinate the meat with yogurt, garlic, ginger & spices. Let it chill for 10 mins.",
+      "duration": 5,
+      "backgroundColor": "#C70039",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-out",
+      "animation": "",
+      "templateId": "template-050",
+      "elements": {
+        "title": "",
+        "subtitle": "Step 1: Marinate the meat with yogurt, garlic, ginger & spices. Let it chill for 10 mins.",
+        "caption": "First, marinate the meat—yogurt, garlic, ginger, and your favorite spices. 10 minutes is all you need.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "First, marinate the meat—yogurt, garlic, ginger, and your favorite spices. 10 minutes is all you need.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "content",
+      "title": "",
+      "subtitle": "Step 2: Fry onions till golden, add rice & a splash of saffron water. Layer with meat and simmer for 20 mins.",
+      "duration": 5,
+      "backgroundColor": "#900C3F",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-out",
+      "animation": "",
+      "templateId": "template-051",
+      "elements": {
+        "title": "",
+        "subtitle": "Step 2: Fry onions till golden, add rice & a splash of saffron water. Layer with meat and simmer for 20 mins.",
+        "image": "",
+        "metric": "",
+        "metricLabel": "",
+        "caption": "Sauté onions until golden, toss in rice and a splash of saffron water. Layer the marinated meat on top and simmer for 20 minutes.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Sauté onions until golden, toss in rice and a splash of saffron water. Layer the marinated meat on top and simmer for 20 minutes.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "end",
+      "title": "",
+      "subtitle": "Serve hot, sprinkle fresh cilantro—taste the victory!",
+      "duration": 5,
+      "backgroundColor": "#581845",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-047",
+      "elements": {
+        "quote": "",
+        "author": "",
+        "caption": "There you go—fluffy rice, tender meat, and a burst of flavor. Enjoy your biriyani masterpiece!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "There you go—fluffy rice, tender meat, and a burst of flavor. Enjoy your biriyani masterpiece!",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    }
+  ]
+}
