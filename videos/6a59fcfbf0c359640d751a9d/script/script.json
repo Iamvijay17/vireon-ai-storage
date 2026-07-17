@@ -1,0 +1,171 @@
+{
+  "title": "The Golden Heart",
+  "description": "An educational exploration of the concept of a golden heart—symbolism, cultural significance, and its role in literature and psychology.",
+  "type": "educational",
+  "tags": [
+    "literature",
+    "psychology",
+    "culture",
+    "symbolism"
+  ],
+  "thumbnailPrompt": "A serene illustration of a glowing golden heart surrounded by soft blue and green hues, evoking calmness and insight",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "The Golden Heart",
+      "subtitle": "Symbolism, Significance, & Impact",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "The Golden Heart",
+        "subtitle": "Symbolism, Significance, & Impact",
+        "image": ""
+      },
+      "audio": {
+        "text": "Welcome to our journey into the meaning of the golden heart.",
+        "file": "",
+        "duration": 0,
+        "voice": "neutral"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "Definition & Symbolism",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E8F5E9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "Definition & Symbolism",
+        "items": [
+          {
+            "text": "",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "text": "The term 'golden heart' refers to an individual or idea embodying generosity, compassion, and moral integrity. Gold’s enduring nature symbolizes timeless virtue.",
+        "file": "",
+        "duration": 0,
+        "voice": "neutral"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "content",
+      "title": "Cultural Perspectives",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#EDE7F6",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-013",
+      "elements": {
+        "title": "Cultural Perspectives",
+        "emoji": "🚀",
+        "steps": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "audio": {
+        "text": "Across cultures, a golden heart appears in folklore, religious texts, and modern media, often representing the pinnacle of human empathy.",
+        "file": "",
+        "duration": 0,
+        "voice": "neutral"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "slide",
+      "imagePrompt": "An AI-generated tranquil landscape with a radiant golden heart at its center, surrounded by gentle clouds and soft green trees",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-003",
+      "elements": {
+        "image": "",
+        "caption": "",
+        "label": "Featured"
+      },
+      "audio": {
+        "text": "Visualizing the concept helps internalize its significance.",
+        "file": "",
+        "duration": 0,
+        "voice": "neutral"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "content",
+      "title": "Psychological Impact",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#FFF3E0",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-027",
+      "elements": {
+        "title": "Psychological Impact",
+        "points": [
+          {
+            "text": "",
+            "icon": "✓"
+          }
+        ]
+      },
+      "audio": {
+        "text": "Research indicates that embodying a 'golden heart' mindset can enhance emotional resilience, foster prosocial behavior, and improve overall well-being.",
+        "file": "",
+        "duration": 0,
+        "voice": "neutral"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "end",
+      "title": "Key Takeaway",
+      "subtitle": "Cultivate Compassion to Shine Like Gold",
+      "duration": 8,
+      "backgroundColor": "#F1F8E9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaway",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "Remember: a golden heart is not merely symbolic—it can transform lives when nurtured in thought and action.",
+        "file": "",
+        "duration": 0,
+        "voice": "neutral"
+      }
+    }
+  ]
+}
