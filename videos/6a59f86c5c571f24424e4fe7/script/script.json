@@ -1,0 +1,163 @@
+{
+  "title": "The Golden Heart",
+  "description": "An educational video explaining the concept of the Golden Heart, its historical origins, symbolic meanings, and modern applications in psychology and culture.",
+  "type": "educational",
+  "tags": [
+    "Golden Heart",
+    "symbolism",
+    "psychology",
+    "history"
+  ],
+  "thumbnailPrompt": "A serene golden heart floating above a calm blue background with soft light rays",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "The Golden Heart",
+      "subtitle": "An Exploration of Symbolic Meaning",
+      "duration": 8,
+      "backgroundColor": "#e0f7ff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "The Golden Heart",
+        "subtitle": "An Exploration of Symbolic Meaning",
+        "image": ""
+      },
+      "audio": {
+        "text": "Welcome to our exploration of the Golden Heart, a symbol rich in history and meaning.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "Historical Roots",
+      "subtitle": "From Ancient Artifacts to Modern Icons",
+      "duration": 8,
+      "backgroundColor": "#d0f1e9",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "Historical Roots",
+        "items": [
+          {
+            "text": "From Ancient Artifacts to Modern Icons",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "text": "The Golden Heart first appeared in ancient artifacts, symbolizing divine love and protection. Over centuries, it evolved into a cultural icon across religions and societies.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "title": "Golden Heart Symbol",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "A detailed illustration of a golden heart surrounded by subtle floral patterns on a light blue background",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-003",
+      "elements": {
+        "image": "",
+        "caption": "",
+        "label": "Featured"
+      },
+      "audio": {
+        "text": "Notice the intricate design, which often incorporates elements of nature and geometry to emphasize harmony.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "content",
+      "title": "Psychological Significance",
+      "subtitle": "Heart as a Metaphor for Empathy",
+      "duration": 8,
+      "backgroundColor": "#e6f2d0",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-026",
+      "elements": {
+        "term": "",
+        "title": "Psychological Significance",
+        "definition": "Heart as a Metaphor for Empathy",
+        "example": ""
+      },
+      "audio": {
+        "text": "In psychology, the golden heart symbolizes empathy and altruism. It reminds us to nurture compassion within ourselves and others.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "title": "Modern Applications",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "A collage of modern logos and icons featuring golden hearts in healthcare, education, and community outreach programs on a white backdrop",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-003",
+      "elements": {
+        "image": "",
+        "caption": "",
+        "label": "Featured"
+      },
+      "audio": {
+        "text": "Today, the golden heart appears in branding for charities, health initiatives, and educational tools, reinforcing its message of care.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "end",
+      "title": "Key Takeaway",
+      "subtitle": "Embrace Compassion Through Symbolic Understanding",
+      "duration": 8,
+      "backgroundColor": "#c0e4ff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaway",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "The Golden Heart transcends time, reminding us that empathy and love are universal values. Thank you for watching.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    }
+  ]
+}
