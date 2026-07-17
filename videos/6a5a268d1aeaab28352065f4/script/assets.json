@@ -1,0 +1,93 @@
+{
+  "title": "The Lost Kingdom",
+  "description": "A short cinematic tale of a forgotten realm, its hidden magic, and the brave soul who restores hope.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "The Lost Kingdom",
+      "subtitle": "A Tale of Forgotten Glory",
+      "duration": 6.378666666666667,
+      "backgroundColor": "#0b1122",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a268d1aeaab28352065f4/audio/scene1.mp3",
+        "duration": 6.378666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "story",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "",
+      "subtitle": "",
+      "duration": 14.581333333333333,
+      "backgroundColor": "#1c3a5e",
+      "transition": "dissolve",
+      "imagePrompt": "",
+      "cameraMotion": "pan-left",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a268d1aeaab28352065f4/audio/scene2.mp3",
+        "duration": 14.581333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "story",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Hope Restored",
+      "subtitle": "",
+      "duration": 15.434666666666667,
+      "backgroundColor": "#4a6f94",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a268d1aeaab28352065f4/audio/scene3.mp3",
+        "duration": 15.434666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "story",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
