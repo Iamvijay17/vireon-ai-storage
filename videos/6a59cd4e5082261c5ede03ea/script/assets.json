@@ -1,0 +1,147 @@
+{
+  "title": "The Honest Little Rabbit",
+  "description": "A cozy podcast-style video exploring the charming tale of The Honest Little Rabbit, featuring lively dialogue, expert insights, and a warm studio vibe.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to the Rabbit Corner",
+      "subtitle": "",
+      "duration": 12,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "a cozy podcast studio with dark purple walls, warm orange accents, a microphone and headphones on a wooden desk",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cd4e5082261c5ede03ea/audio/scene1.mp3",
+        "duration": 12
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Meet Our Guest",
+      "subtitle": "A Bunny Expert Shares Insight",
+      "duration": 12.288,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "profile picture of a friendly rabbit expert, wearing glasses, holding a book, with a soft orange background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cd4e5082261c5ede03ea/audio/scene2.mp3",
+        "duration": 12.288
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Expert Quote",
+      "subtitle": "",
+      "duration": 11.616,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "close-up of a handwritten quote on parchment with rabbit paw print watermark",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cd4e5082261c5ede03ea/audio/scene3.mp3",
+        "duration": 11.616
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Case Study: The Rabbit's Journey",
+      "subtitle": "How Small Acts Make Big Impact",
+      "duration": 13.237333333333334,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "illustration of the rabbit helping other animals in a forest, with statistics displayed as floating text bubbles",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cd4e5082261c5ede03ea/audio/scene4.mp3",
+        "duration": 13.237333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Wrap-Up and Takeaway",
+      "subtitle": "",
+      "duration": 11.146666666666667,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "a warm sunset over a peaceful meadow with a rabbit silhouette, dark purple sky fading into orange glow",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cd4e5082261c5ede03ea/audio/scene5.mp3",
+        "duration": 11.146666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
