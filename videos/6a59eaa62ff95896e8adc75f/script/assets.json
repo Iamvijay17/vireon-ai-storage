@@ -1,0 +1,174 @@
+{
+  "title": "The Golden Heart",
+  "description": "A conversational podcast-style video exploring the impact and stories behind The Golden Heart organization.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to The Golden Heart",
+      "subtitle": "",
+      "duration": 13.429333333333334,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A cozy podcast studio with warm orange lights and deep purple walls, a vintage microphone in front of the host's chair",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59eaa62ff95896e8adc75f/audio/scene1.mp3",
+        "duration": 13.429333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "",
+      "subtitle": "",
+      "duration": 11.530666666666667,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Two people sitting across from each other in a warm studio, one with a gentle smile, the other holding a heart-shaped token",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59eaa62ff95896e8adc75f/audio/scene2.mp3",
+        "duration": 11.530666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "",
+      "subtitle": "",
+      "duration": 11.904,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A close-up of a handwritten quote on a parchment background with gold ink",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59eaa62ff95896e8adc75f/audio/scene3.mp3",
+        "duration": 11.904
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "",
+      "subtitle": "",
+      "duration": 10.090666666666667,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Portrait of a young woman with a bright smile and a small golden heart pendant",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59eaa62ff95896e8adc75f/audio/scene4.mp3",
+        "duration": 10.090666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "",
+      "subtitle": "",
+      "duration": 12.384,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Infographic showing statistics: 1,200 kids served, $500K donated, 3,000 volunteers",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59eaa62ff95896e8adc75f/audio/scene5.mp3",
+        "duration": 12.384
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Join the Journey",
+      "subtitle": "",
+      "duration": 12,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Host in studio looking directly at camera with a hopeful expression, warm orange glow around them",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59eaa62ff95896e8adc75f/audio/scene6.mp3",
+        "duration": 12
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
