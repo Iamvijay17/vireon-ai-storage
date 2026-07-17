@@ -1,0 +1,174 @@
+{
+  "title": "What Is React?",
+  "description": "An introductory guide explaining the core concepts of React, its purpose, and how it simplifies building user interfaces.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "What Is React?",
+      "subtitle": "A Modern JavaScript Library for Building UIs",
+      "duration": 11.616,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a289b1aeaab28352065fe/audio/scene1.mp3",
+        "duration": 11.616
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Declarative Programming",
+      "subtitle": "Write What the UI Should Look Like",
+      "duration": 14.954666666666666,
+      "backgroundColor": "#f1f8e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a289b1aeaab28352065fe/audio/scene2.mp3",
+        "duration": 14.954666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Component Tree",
+      "subtitle": "Visualizing UI as Nested Components",
+      "duration": 17.183333333333334,
+      "backgroundColor": "#ffffff",
+      "transition": "slide",
+      "imagePrompt": "A calm green background with a simple tree diagram of nested rectangles labeled Component, illustrating React component hierarchy",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a289b1aeaab28352065fe/audio/scene3.mp3",
+        "duration": 17.183333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Virtual DOM",
+      "subtitle": "Efficient Rendering Engine",
+      "duration": 21.375333333333334,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a289b1aeaab28352065fe/audio/scene4.mp3",
+        "duration": 21.375333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "JSX Syntax",
+      "subtitle": "JavaScript + HTML in One File",
+      "duration": 14.869333333333334,
+      "backgroundColor": "#f1f8e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a289b1aeaab28352065fe/audio/scene5.mp3",
+        "duration": 14.869333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Key Takeaway",
+      "subtitle": "React Simplifies UI Development",
+      "duration": 14.773333333333333,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a289b1aeaab28352065fe/audio/scene6.mp3",
+        "duration": 14.773333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
