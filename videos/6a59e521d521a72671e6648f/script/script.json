@@ -1,0 +1,132 @@
+{
+  "title": "Sharing Makes Everyone Happy",
+  "description": "A warm podcast-style video that explores how simple acts of sharing bring joy to all involved.",
+  "tags": [
+    "sharing",
+    "happiness",
+    "community",
+    "podcast"
+  ],
+  "thumbnailPrompt": "A cozy studio with warm orange lighting, a dark purple backdrop, two microphones in front of a host and guest smiling together.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Studio interior with dark purple walls, warm orange spotlights, a podcast microphone on a stand, a cozy chair.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-042",
+      "elements": {
+        "title": "Sharing Makes Everyone Happy",
+        "subtitle": "Episode 1: The Joy of Giving",
+        "hostName": "Alex",
+        "caption": "Hey everyone, welcome to our first episode! Today we’re diving into why sharing—whether it’s food, ideas, or time—makes us all happier."
+      },
+      "audio": {
+        "text": "Hey everyone, welcome to our first episode! Today we’re diving into why sharing—whether it’s food, ideas, or time—makes us all happier.",
+        "file": "",
+        "duration": 0,
+        "voice": "Alex"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Interview setup with two microphones, a warm orange backdrop, Alex and guest smiling.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-048",
+      "elements": {
+        "title": "",
+        "subtitle": "",
+        "quote": "\"When I share my lunch, the person who eats it smiles, and that smile lights up my day.\"",
+        "speaker": "Jamie"
+      },
+      "audio": {
+        "text": "\"When I share my lunch, the person who eats it smiles, and that smile lights up my day.\"",
+        "file": "",
+        "duration": 0,
+        "voice": "Jamie"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Close-up of a handwritten note, warm lighting, purple background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-031",
+      "elements": {
+        "quote": "\"Sharing is the language of empathy.\"",
+        "author": "Dr. Maya Patel",
+        "role": "Psychologist"
+      },
+      "audio": {
+        "text": "\"Sharing is the language of empathy.\" Dr. Maya Patel, psychologist.",
+        "file": "",
+        "duration": 0,
+        "voice": "Narrator"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Portrait of a young woman with a bright smile, warm orange lighting.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-039",
+      "elements": {
+        "name": "Lena Rodriguez",
+        "title": "Community Leader",
+        "description": "She organizes monthly food drives and shares her own meals with neighbors, spreading joy one bite at a time.",
+        "image": ""
+      },
+      "audio": {
+        "text": "Meet Lena Rodriguez, community leader who spreads joy one bite at a time by sharing her meals.",
+        "file": "",
+        "duration": 0,
+        "voice": "Alex"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Graphical representation of statistics: smiling faces, heart icons, warm purple background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-036",
+      "elements": {
+        "title": "The Numbers Behind Sharing",
+        "subtitle": "Why it matters",
+        "statistics": "Studies show a 20% increase in overall happiness when people share regularly.",
+        "conclusion": "So keep sharing—your joy multiplies!"
+      },
+      "audio": {
+        "text": "Studies show a 20% increase in overall happiness when people share regularly. Keep sharing—your joy multiplies!",
+        "file": "",
+        "duration": 0,
+        "voice": "Alex"
+      }
+    }
+  ]
+}
