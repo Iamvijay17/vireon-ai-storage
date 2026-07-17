@@ -1,0 +1,116 @@
+{
+  "title": "Hotel Check-In Conversation",
+  "description": "A relaxed, conversational podcast-style video that walks listeners through a typical hotel check-in dialogue, highlighting key phrases and cultural nuances for travelers.",
+  "tags": [
+    "travel",
+    "hotel",
+    "conversation",
+    "English",
+    "vocabulary"
+  ],
+  "thumbnailPrompt": "A cozy hotel lobby with warm lighting, a friendly receptionist greeting a guest, soft pastel background, cinematic look",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to the Lobby",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Hotel lobby interior, warm orange lighting, receptionist desk with a smile",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "Hey everyone! Today we’re stepping into a hotel lobby. Let’s hear what the receptionist says when you walk in.",
+        "file": "",
+        "duration": 0,
+        "voice": "male"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Greeting and ID",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Receptionist asking for ID, guest handing over passport",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "\"Good afternoon! Can I see your ID, please?\" says the receptionist. Remember to keep a friendly tone.",
+        "file": "",
+        "duration": 0,
+        "voice": "male"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Reservation Details",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Receptionist typing on keyboard, guest nodding",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "The receptionist checks your reservation. \"I see you’re booked under Smith for a double room.\" Make sure to confirm the dates and room type.",
+        "file": "",
+        "duration": 0,
+        "voice": "male"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Room Key & Amenities",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Receptionist handing a keycard, showing amenities list",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "\"Here’s your keycard. Breakfast is at 7 AM in the lounge, and we have free Wi‑Fi. Anything else I can help you with?\"",
+        "file": "",
+        "duration": 0,
+        "voice": "male"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Ask About Check-Out Time",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Guest asking about check-out time, receptionist smiling",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "If you need a late check‑out, just ask. \"What’s the check‑out time?\" The staff will let you know if they can accommodate.",
+        "file": "",
+        "duration": 0,
+        "voice": "male"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Final Goodbyes",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Receptionist waving goodbye, guest walking away into lobby",
+      "cameraMotion": "static",
+      "animation": "",
+      "audio": {
+        "text": "All set! The receptionist says, \"Enjoy your stay and let us know if you need anything. Have a great day!\" And that’s it—check‑in complete.",
+        "file": "",
+        "duration": 0,
+        "voice": "male"
+      }
+    }
+  ]
+}
