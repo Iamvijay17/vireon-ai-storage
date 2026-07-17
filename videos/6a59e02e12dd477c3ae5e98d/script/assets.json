@@ -1,0 +1,147 @@
+{
+  "title": "The Dinosaur Who Loved Ice Cream",
+  "description": "A playful podcast-style video where we explore the quirky tale of a dinosaur who adored ice cream, featuring interviews, expert quotes, and fun facts.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to DinoDelights!",
+      "subtitle": "",
+      "duration": 19.562,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Studio set with a cozy podcast desk, warm orange lights, and a dark purple backdrop. A microphone sits on the table.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e02e12dd477c3ae5e98d/audio/scene1.mp3",
+        "duration": 19.562
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Meet Dr. Lila Stone, Paleoculinary Expert",
+      "subtitle": "",
+      "duration": 14.773333333333333,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "An animated profile spotlight of Dr. Lila Stone with a lab coat and dinosaur bones in the background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e02e12dd477c3ae5e98d/audio/scene2.mp3",
+        "duration": 14.773333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "\"Ice Cream Was the First Sweet Treat!\"",
+      "subtitle": "",
+      "duration": 14.954666666666666,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "An expert quote overlay with a stylized dinosaur silhouette in the background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e02e12dd477c3ae5e98d/audio/scene3.mp3",
+        "duration": 14.954666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Interview with Dino Fan: Timmy",
+      "subtitle": "",
+      "duration": 14.389333333333333,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "An interview scene with a child wearing a dinosaur costume, holding a toy ice cream cone.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e02e12dd477c3ae5e98d/audio/scene4.mp3",
+        "duration": 14.389333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "The Dino Ice Cream Experiment",
+      "subtitle": "",
+      "duration": 21.36466666666667,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A case study layout with a graph showing dinosaur ice cream consumption stats and a conclusion box.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e02e12dd477c3ae5e98d/audio/scene5.mp3",
+        "duration": 21.36466666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
