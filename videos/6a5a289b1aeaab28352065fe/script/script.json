@@ -1,0 +1,166 @@
+{
+  "title": "What Is React?",
+  "description": "An introductory guide explaining the core concepts of React, its purpose, and how it simplifies building user interfaces.",
+  "type": "educational",
+  "tags": [
+    "React",
+    "JavaScript",
+    "Web Development"
+  ],
+  "thumbnailPrompt": "A calm blue background with abstract lines forming a web page layout, minimalistic style",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "What Is React?",
+      "subtitle": "A Modern JavaScript Library for Building UIs",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "What Is React?",
+        "subtitle": "A Modern JavaScript Library for Building UIs",
+        "image": ""
+      },
+      "audio": {
+        "text": "Welcome to our quick guide on React, a popular library that helps developers create dynamic and responsive web interfaces.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "Declarative Programming",
+      "subtitle": "Write What the UI Should Look Like",
+      "duration": 8,
+      "backgroundColor": "#f1f8e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "Declarative Programming",
+        "items": [
+          {
+            "text": "Write What the UI Should Look Like",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "text": "React uses a declarative style, meaning you describe what the user interface should appear as for any given state, and React handles the updates efficiently.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "title": "Component Tree",
+      "subtitle": "Visualizing UI as Nested Components",
+      "duration": 8,
+      "backgroundColor": "#ffffff",
+      "transition": "slide",
+      "imagePrompt": "A calm green background with a simple tree diagram of nested rectangles labeled Component, illustrating React component hierarchy",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-003",
+      "elements": {
+        "image": "",
+        "caption": "Visualizing UI as Nested Components",
+        "label": "Featured"
+      },
+      "audio": {
+        "text": "React components are the building blocks of your application. Each component encapsulates its own logic and UI, allowing you to compose complex interfaces from small, reusable pieces.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "content",
+      "title": "Virtual DOM",
+      "subtitle": "Efficient Rendering Engine",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-026",
+      "elements": {
+        "term": "",
+        "title": "Virtual DOM",
+        "definition": "Efficient Rendering Engine",
+        "example": ""
+      },
+      "audio": {
+        "text": "Instead of manipulating the real browser DOM directly, React maintains a lightweight virtual representation. When state changes, it calculates the minimal set of updates and applies them to the actual DOM, boosting performance.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "content",
+      "title": "JSX Syntax",
+      "subtitle": "JavaScript + HTML in One File",
+      "duration": 8,
+      "backgroundColor": "#f1f8e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-027",
+      "elements": {
+        "title": "JSX Syntax",
+        "points": [
+          {
+            "text": "JavaScript + HTML in One File",
+            "icon": "✓"
+          }
+        ]
+      },
+      "audio": {
+        "text": "React introduces JSX, a syntax extension that lets you write HTML-like tags inside JavaScript. This makes component templates clearer and more maintainable.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "end",
+      "title": "Key Takeaway",
+      "subtitle": "React Simplifies UI Development",
+      "duration": 8,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaway",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "In summary, React is a declarative library that uses components, a virtual DOM, and JSX to make building dynamic web interfaces efficient and maintainable.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    }
+  ]
+}
