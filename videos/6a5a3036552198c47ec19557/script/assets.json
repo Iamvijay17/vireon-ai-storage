@@ -1,0 +1,174 @@
+{
+  "title": "What is n8n?",
+  "description": "An introductory guide to the open‑source workflow automation tool n8n, covering its purpose, core features, and how it compares to other solutions.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "What is n8n?",
+      "subtitle": "",
+      "duration": 7.424,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a3036552198c47ec19557/audio/scene1.mp3",
+        "duration": 7.424
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Open-Source Workflow Automation",
+      "subtitle": "",
+      "duration": 12.576,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a3036552198c47ec19557/audio/scene2.mp3",
+        "duration": 12.576
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Node-Based Design",
+      "subtitle": "",
+      "duration": 11.242666666666667,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a3036552198c47ec19557/audio/scene3.mp3",
+        "duration": 11.242666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Extensibility & Security",
+      "subtitle": "",
+      "duration": 10.378666666666666,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a3036552198c47ec19557/audio/scene4.mp3",
+        "duration": 10.378666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Community & Ecosystem",
+      "subtitle": "",
+      "duration": 10.090666666666667,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a3036552198c47ec19557/audio/scene5.mp3",
+        "duration": 10.090666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Key Takeaway",
+      "subtitle": "",
+      "duration": 9.621333333333334,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a3036552198c47ec19557/audio/scene6.mp3",
+        "duration": 9.621333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
