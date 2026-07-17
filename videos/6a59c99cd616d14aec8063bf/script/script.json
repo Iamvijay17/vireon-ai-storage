@@ -1,0 +1,109 @@
+{
+  "title": "Booking a Hotel Room: A Quick Guide",
+  "description": "Join our friendly hosts as they walk you through the simple steps of booking a hotel room— from choosing dates to final confirmation. Perfect for travelers new to online reservations or anyone needing a refresher!",
+  "tags": [
+    "travel",
+    "hotelbooking",
+    "tutorial",
+    "podcast",
+    "english"
+  ],
+  "thumbnailPrompt": "A cozy studio with warm orange lighting, two people chatting over a laptop on a plush sofa, text overlay: \"Booking a Hotel Room\" in stylish font.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A dimly lit studio with a dark purple backdrop and warm orange accents, two hosts seated on a sofa facing the camera.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Hey everyone! Welcome back to our travel podcast. Today we’re diving into how to book a hotel room without any hassle.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Step 1: Pick Your Dates",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "A close‑up of a laptop screen showing a calendar with dates highlighted, a coffee mug in the corner.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "First things first—choose your travel dates. Open your favorite booking site or app and pick the check‑in and check‑out days that fit your itinerary.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Step 2: Filter & Compare",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Screen split showing two hotel listings side by side with price tags, star ratings, and a filter panel on the left.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Next, use filters to narrow down options—price range, amenities, or location. Compare a few rooms, read reviews, and make sure it meets your needs.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Step 3: Read the Fine Print",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "A hand scrolling through a hotel policy page on a tablet, highlighting cancellation terms.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Before you hit confirm, read the fine print. Check cancellation policies, extra fees, and any room restrictions to avoid surprises later.",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Step 4: Confirm & Celebrate",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A celebratory scene with confetti animation over a laptop screen showing a booking confirmation page.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "All set! Hit that confirm button, enter your payment details, and you’re booked. Grab the confirmation email—your travel adventure starts soon!",
+        "file": "",
+        "duration": 0,
+        "voice": "female"
+      }
+    }
+  ]
+}
