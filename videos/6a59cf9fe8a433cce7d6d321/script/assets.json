@@ -1,0 +1,147 @@
+{
+  "title": "The Honest Little Rabbit",
+  "description": "A conversational podcast-style video exploring the heartwarming story of The Honest Little Rabbit, blending interview snippets, expert insights, and a touch of storytelling.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to the Rabbit Podcast",
+      "subtitle": "Let’s hop into today’s tale",
+      "duration": 19.935333333333332,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "studio setup with dark purple walls, warm orange spotlight, a vintage microphone and a small rabbit plush on a table",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cf9fe8a433cce7d6d321/audio/scene1.mp3",
+        "duration": 19.935333333333332
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Meet Our Guest",
+      "subtitle": "A curious rabbit expert",
+      "duration": 12.48,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "interview set with two chairs, a warm orange lamp, a small rabbit figurine on the table, dark purple backdrop",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cf9fe8a433cce7d6d321/audio/scene2.mp3",
+        "duration": 12.48
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "A Wise Word",
+      "subtitle": "",
+      "duration": 12.48,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "close-up of a handwritten quote on parchment with rabbit illustration, warm orange glow",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cf9fe8a433cce7d6d321/audio/scene3.mp3",
+        "duration": 12.48
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Spotlight on The Honest Little Rabbit",
+      "subtitle": "Who’s this brave bunny?",
+      "duration": 14.954666666666666,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "profile spotlight with a small rabbit standing proudly, studio background dark purple, warm orange lighting",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cf9fe8a433cce7d6d321/audio/scene4.mp3",
+        "duration": 14.954666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Case Study Wrap-Up",
+      "subtitle": "What we learned",
+      "duration": 12.48,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "case study chart with warm orange bars, dark purple background, rabbit paw icons",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59cf9fe8a433cce7d6d321/audio/scene5.mp3",
+        "duration": 12.48
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
