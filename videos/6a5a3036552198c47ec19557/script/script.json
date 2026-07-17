@@ -1,0 +1,172 @@
+{
+  "title": "What is n8n?",
+  "description": "An introductory guide to the open‑source workflow automation tool n8n, covering its purpose, core features, and how it compares to other solutions.",
+  "type": "educational",
+  "tags": [
+    "automation",
+    "open-source",
+    "workflow",
+    "integration"
+  ],
+  "thumbnailPrompt": "A sleek, modern illustration of a flowchart with interconnected nodes in blue and green hues, symbolizing automation processes, against a clean white background",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "What is n8n?",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "What is n8n?",
+        "subtitle": "",
+        "image": ""
+      },
+      "audio": {
+        "text": "Welcome to our quick guide on n8n, the open‑source workflow automation tool.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "Open-Source Workflow Automation",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "Open-Source Workflow Automation",
+        "items": [
+          {
+            "text": "",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "text": "n8n is a free, self-hosted platform that lets you automate repetitive tasks by connecting various services through visual workflows.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "content",
+      "title": "Node-Based Design",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-013",
+      "elements": {
+        "title": "Node-Based Design",
+        "emoji": "🚀",
+        "steps": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "audio": {
+        "text": "Workflows are built from nodes—each representing an action or trigger. You link nodes to define data flow and logic.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "content",
+      "title": "Extensibility & Security",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-026",
+      "elements": {
+        "term": "",
+        "title": "Extensibility & Security",
+        "definition": "",
+        "example": ""
+      },
+      "audio": {
+        "text": "With a plugin system, you can add custom integrations. Self-hosting gives full control over data and privacy.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "content",
+      "title": "Community & Ecosystem",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#E0F7FA",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-027",
+      "elements": {
+        "title": "Community & Ecosystem",
+        "points": [
+          {
+            "text": "",
+            "icon": "✓"
+          }
+        ]
+      },
+      "audio": {
+        "text": "An active community shares nodes, templates, and tutorials, making it easy to start automating right away.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "end",
+      "title": "Key Takeaway",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#FFFFFF",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaway",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "n8n empowers users to create powerful, secure automation workflows without code—on their own terms.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    }
+  ]
+}
