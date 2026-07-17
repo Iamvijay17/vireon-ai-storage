@@ -1,0 +1,142 @@
+{
+  "title": "Booking a Hotel Room: A Quick Guide",
+  "description": "Join our friendly hosts as they walk you through the simple steps of booking a hotel room— from choosing dates to final confirmation. Perfect for travelers new to online reservations or anyone needing a refresher!",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome",
+      "subtitle": "",
+      "duration": 11.434666666666667,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A dimly lit studio with a dark purple backdrop and warm orange accents, two hosts seated on a sofa facing the camera.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59c99cd616d14aec8063bf/audio/scene1.mp3",
+        "duration": 11.434666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Step 1: Pick Your Dates",
+      "subtitle": "",
+      "duration": 14.773333333333333,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "A close‑up of a laptop screen showing a calendar with dates highlighted, a coffee mug in the corner.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59c99cd616d14aec8063bf/audio/scene2.mp3",
+        "duration": 14.773333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Step 2: Filter & Compare",
+      "subtitle": "",
+      "duration": 14.197333333333333,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Screen split showing two hotel listings side by side with price tags, star ratings, and a filter panel on the left.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59c99cd616d14aec8063bf/audio/scene3.mp3",
+        "duration": 14.197333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Step 3: Read the Fine Print",
+      "subtitle": "",
+      "duration": 13.056,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "A hand scrolling through a hotel policy page on a tablet, highlighting cancellation terms.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59c99cd616d14aec8063bf/audio/scene4.mp3",
+        "duration": 13.056
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Step 4: Confirm & Celebrate",
+      "subtitle": "",
+      "duration": 14.005333333333333,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "A celebratory scene with confetti animation over a laptop screen showing a booking confirmation page.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59c99cd616d14aec8063bf/audio/scene5.mp3",
+        "duration": 14.005333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
