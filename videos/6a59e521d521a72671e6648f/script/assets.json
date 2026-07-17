@@ -1,0 +1,147 @@
+{
+  "title": "Sharing Makes Everyone Happy",
+  "description": "A warm podcast-style video that explores how simple acts of sharing bring joy to all involved.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "",
+      "subtitle": "",
+      "duration": 13.621333333333334,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Studio interior with dark purple walls, warm orange spotlights, a podcast microphone on a stand, a cozy chair.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e521d521a72671e6648f/audio/scene1.mp3",
+        "duration": 13.621333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "",
+      "subtitle": "",
+      "duration": 8.373333333333333,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Interview setup with two microphones, a warm orange backdrop, Alex and guest smiling.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e521d521a72671e6648f/audio/scene2.mp3",
+        "duration": 8.373333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "",
+      "subtitle": "",
+      "duration": 6.378666666666667,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Close-up of a handwritten note, warm lighting, purple background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e521d521a72671e6648f/audio/scene3.mp3",
+        "duration": 6.378666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "",
+      "subtitle": "",
+      "duration": 8.949333333333334,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Portrait of a young woman with a bright smile, warm orange lighting.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e521d521a72671e6648f/audio/scene4.mp3",
+        "duration": 8.949333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "",
+      "subtitle": "",
+      "duration": 10.762666666666666,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Graphical representation of statistics: smiling faces, heart icons, warm purple background.",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59e521d521a72671e6648f/audio/scene5.mp3",
+        "duration": 10.762666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
