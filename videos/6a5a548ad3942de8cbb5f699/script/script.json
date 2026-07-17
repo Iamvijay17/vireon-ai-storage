@@ -1,0 +1,203 @@
+{
+  "title": "🔥 Quick & Tasty Chicken Biryani in 45 Seconds!",
+  "description": "Learn how to whip up a mouth‑watering chicken biryani fast—perfect for busy cooks and flavor lovers alike. Follow the steps, grab your apron, and let’s get cooking!",
+  "type": "youtube_shorts",
+  "tags": [
+    "ChickenBiryani",
+    "QuickRecipes",
+    "Foodie",
+    "CookingTips",
+    "Delicious"
+  ],
+  "thumbnailPrompt": "A vibrant plate of golden chicken biryani with steam rising, surrounded by colorful spices in a bright kitchen setting.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "Ready for the BEST Chicken Biryani?",
+      "subtitle": "Fast‑Track Flavor!",
+      "duration": 6,
+      "backgroundColor": "#FF5733",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-044",
+      "elements": {
+        "title": "Ready for the BEST Chicken Biryani?",
+        "subtitle": "Fast‑Track Flavor!",
+        "body": "",
+        "profileImage": "",
+        "username": "",
+        "likes": "0",
+        "caption": "Hey food lovers, ready to cook the best chicken biryani in minutes? Let’s go!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Hey food lovers, ready to cook the best chicken biryani in minutes? Let’s go!",
+        "file": "",
+        "duration": 0,
+        "voice": "energetic"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "Step 1: Marinate",
+      "subtitle": "Chicken + Spices = Magic",
+      "duration": 6,
+      "backgroundColor": "#FFC300",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-050",
+      "elements": {
+        "title": "Step 1: Marinate",
+        "subtitle": "Chicken + Spices = Magic",
+        "caption": "Marinade time! Mix chicken with yogurt, ginger‑garlic paste, turmeric, red chili powder, and a splash of lemon. Let it chill for 15 mins.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Marinade time! Mix chicken with yogurt, ginger‑garlic paste, turmeric, red chili powder, and a splash of lemon. Let it chill for 15 mins.",
+        "file": "",
+        "duration": 0,
+        "voice": "cheerful"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "content",
+      "title": "Step 2: Cook Rice",
+      "subtitle": "Perfectly Fluffy Basmati",
+      "duration": 6,
+      "backgroundColor": "#DAF7A6",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-051",
+      "elements": {
+        "title": "Step 2: Cook Rice",
+        "subtitle": "Perfectly Fluffy Basmati",
+        "image": "",
+        "metric": "",
+        "metricLabel": "",
+        "caption": "Boil basmati with a pinch of salt and bay leaf. Drain and set aside.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Boil basmati with a pinch of salt and bay leaf. Drain and set aside.",
+        "file": "",
+        "duration": 0,
+        "voice": "informative"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "content",
+      "title": "Step 3: Fry Onions",
+      "subtitle": "Crispy Gold",
+      "duration": 6,
+      "backgroundColor": "#FF8C00",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-052",
+      "elements": {
+        "title": "Step 3: Fry Onions",
+        "subtitle": "Crispy Gold",
+        "image": "",
+        "ingredients": [],
+        "caption": "Sauté sliced onions till golden. Add cumin, cardamom, and cloves for that aroma.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Sauté sliced onions till golden. Add cumin, cardamom, and cloves for that aroma.",
+        "file": "",
+        "duration": 0,
+        "voice": "excited"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "content",
+      "title": "Step 4: Layer & Steam",
+      "subtitle": "Biryani Magic",
+      "duration": 6,
+      "backgroundColor": "#C70039",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-053",
+      "elements": {
+        "title": "Step 4: Layer & Steam",
+        "subtitle": "Biryani Magic",
+        "location": "",
+        "image": "",
+        "caption": "Layer marinated chicken, cooked rice, fried onions, fresh mint, and cilantro. Top with saffron milk and steam on low for 10 mins.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Layer marinated chicken, cooked rice, fried onions, fresh mint, and cilantro. Top with saffron milk and steam on low for 10 mins.",
+        "file": "",
+        "duration": 0,
+        "voice": "energetic"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "content",
+      "title": "Step 5: Serve & Enjoy!",
+      "subtitle": "Taste the Bliss",
+      "duration": 6,
+      "backgroundColor": "#900C3F",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-016",
+      "elements": {
+        "images": [
+          {
+            "url": ""
+          }
+        ],
+        "caption": "Taste the Bliss"
+      },
+      "audio": {
+        "text": "Fluff up, garnish with fried onions and nuts. Serve hot—deliciousness guaranteed!",
+        "file": "",
+        "duration": 0,
+        "voice": "enthusiastic"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "end",
+      "title": "Like, Subscribe & Comment!",
+      "subtitle": "Got a favorite spice? Tell us below!",
+      "duration": 6,
+      "backgroundColor": "#581845",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-047",
+      "elements": {
+        "quote": "Like, Subscribe & Comment!",
+        "author": "",
+        "caption": "Enjoyed the recipe? Smash that like button, subscribe for more quick bites, and drop your spicy thoughts in comments!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "Enjoyed the recipe? Smash that like button, subscribe for more quick bites, and drop your spicy thoughts in comments!",
+        "file": "",
+        "duration": 0,
+        "voice": "friendly"
+      }
+    }
+  ]
+}
