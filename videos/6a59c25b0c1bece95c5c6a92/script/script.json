@@ -1,0 +1,127 @@
+{
+  "title": "Booking a Hotel Room: A Quick Guide",
+  "description": "Join our friendly hosts as they walk you through the simple steps of booking a hotel room, from choosing dates to securing the best deal. Perfect for travelers new to online reservations!",
+  "tags": [
+    "travel",
+    "hotel booking",
+    "tutorial",
+    "language learning"
+  ],
+  "thumbnailPrompt": "A cozy studio set with warm orange lighting, a laptop open on a desk showing a hotel booking website, and two hosts smiling at the camera.",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome!",
+      "subtitle": "Let’s get started.",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Host 1 in a relaxed pose holding a coffee cup, Host 2 with a laptop open showing a hotel booking site.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Hey there! I’m Maya and this is Alex. Today we’re going to show you how easy it is to book a hotel room online. Ready?",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Step 1: Pick Your Dates",
+      "subtitle": "When are you traveling?",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Close-up of a calendar on the laptop screen with dates highlighted.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "First, decide when you’ll be there. Just click on the check-in and check-out dates. It’s as simple as that!",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Step 2: Search Hotels",
+      "subtitle": "Find your spot.",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Laptop screen showing a list of hotels with photos and ratings.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Now hit search. You’ll see all the options—look at the star rating, price, and reviews to pick what fits you best.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Step 3: Check Room Options",
+      "subtitle": "Choose your comfort.",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Room types displayed with icons for single, double, suite, and amenities like Wi-Fi, breakfast.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Click on a hotel to see room choices. Notice the bed type, view, and extras like free breakfast or parking. Pick what matters most!",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Step 4: Secure Your Booking",
+      "subtitle": "Pay with confidence.",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "Credit card details being entered on a secure website, lock icon visible.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "Add your room to the cart, enter payment info, and confirm. Make sure you see the booking confirmation email—keep it handy!",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Wrap Up",
+      "subtitle": "All set!",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "Hosts smiling at camera, laptop open with a confirmed reservation page.",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "text": "And that’s it—your room is booked! If you have any questions, drop them in the comments. Safe travels and see you next time!",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    }
+  ]
+}
