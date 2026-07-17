@@ -1,0 +1,174 @@
+{
+  "title": "The Golden Heart",
+  "description": "An educational video explaining the concept of the Golden Heart, its historical origins, symbolic meanings, and modern applications in psychology and culture.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "The Golden Heart",
+      "subtitle": "An Exploration of Symbolic Meaning",
+      "duration": 8.096,
+      "backgroundColor": "#e0f7ff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59f86c5c571f24424e4fe7/audio/scene1.mp3",
+        "duration": 8.096
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Historical Roots",
+      "subtitle": "From Ancient Artifacts to Modern Icons",
+      "duration": 16.490666666666666,
+      "backgroundColor": "#d0f1e9",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59f86c5c571f24424e4fe7/audio/scene2.mp3",
+        "duration": 16.490666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Golden Heart Symbol",
+      "subtitle": "",
+      "duration": 10.186666666666667,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "A detailed illustration of a golden heart surrounded by subtle floral patterns on a light blue background",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59f86c5c571f24424e4fe7/audio/scene3.mp3",
+        "duration": 10.186666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Psychological Significance",
+      "subtitle": "Heart as a Metaphor for Empathy",
+      "duration": 12.288,
+      "backgroundColor": "#e6f2d0",
+      "transition": "slide",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59f86c5c571f24424e4fe7/audio/scene4.mp3",
+        "duration": 12.288
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Modern Applications",
+      "subtitle": "",
+      "duration": 12.768,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "A collage of modern logos and icons featuring golden hearts in healthcare, education, and community outreach programs on a white backdrop",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59f86c5c571f24424e4fe7/audio/scene5.mp3",
+        "duration": 12.768
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Key Takeaway",
+      "subtitle": "Embrace Compassion Through Symbolic Understanding",
+      "duration": 10.858666666666666,
+      "backgroundColor": "#c0e4ff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "",
+      "elements": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a59f86c5c571f24424e4fe7/audio/scene6.mp3",
+        "duration": 10.858666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
