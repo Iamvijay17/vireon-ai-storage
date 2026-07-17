@@ -1,0 +1,147 @@
+{
+  "title": "How to Make Biriyani in 20 Seconds!",
+  "description": "Quick, sizzling biriyani recipe—grab the steps and get cooking fast! Perfect for YouTube Shorts.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Biriyani in 20 Seconds!",
+      "subtitle": "Ready to become a kitchen wizard? Let's go!",
+      "duration": 5.1306666666666665,
+      "backgroundColor": "#FF5733",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-044",
+      "elements": {
+        "title": "Biriyani in 20 Seconds!",
+        "subtitle": "Ready to become a kitchen wizard? Let's go!",
+        "body": "",
+        "profileImage": "",
+        "username": "",
+        "likes": "0",
+        "caption": "Get ready to turn rice into gold—fast and flavorful!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4bec7fd8c0fff3912c12/audio/scene1.mp3",
+        "duration": 5.1306666666666665
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "",
+      "subtitle": "Step 1: Marinate the meat with yogurt, garlic, ginger & spices. Let it chill for 10 mins.",
+      "duration": 9.898666666666667,
+      "backgroundColor": "#C70039",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-out",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-050",
+      "elements": {
+        "title": "",
+        "subtitle": "Step 1: Marinate the meat with yogurt, garlic, ginger & spices. Let it chill for 10 mins.",
+        "caption": "First, marinate the meat—yogurt, garlic, ginger, and your favorite spices. 10 minutes is all you need.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4bec7fd8c0fff3912c12/audio/scene2.mp3",
+        "duration": 9.898666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "",
+      "subtitle": "Step 2: Fry onions till golden, add rice & a splash of saffron water. Layer with meat and simmer for 20 mins.",
+      "duration": 12.384,
+      "backgroundColor": "#900C3F",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-out",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-051",
+      "elements": {
+        "title": "",
+        "subtitle": "Step 2: Fry onions till golden, add rice & a splash of saffron water. Layer with meat and simmer for 20 mins.",
+        "image": "",
+        "metric": "",
+        "metricLabel": "",
+        "caption": "Sauté onions until golden, toss in rice and a splash of saffron water. Layer the marinated meat on top and simmer for 20 minutes.",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4bec7fd8c0fff3912c12/audio/scene3.mp3",
+        "duration": 12.384
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "",
+      "subtitle": "Serve hot, sprinkle fresh cilantro—taste the victory!",
+      "duration": 9.141333333333334,
+      "backgroundColor": "#581845",
+      "transition": "zoom",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-047",
+      "elements": {
+        "quote": "",
+        "author": "",
+        "caption": "There you go—fluffy rice, tender meat, and a burst of flavor. Enjoy your biriyani masterpiece!",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5a4bec7fd8c0fff3912c12/audio/scene4.mp3",
+        "duration": 9.141333333333334
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "youtube_shorts",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
