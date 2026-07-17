@@ -1,0 +1,129 @@
+{
+  "title": "The Honest Little Rabbit",
+  "description": "A conversational podcast-style video exploring the heartwarming story of The Honest Little Rabbit, blending interview snippets, expert insights, and a touch of storytelling.",
+  "tags": [
+    "podcast",
+    "rabbit",
+    "storytelling"
+  ],
+  "thumbnailPrompt": "a cozy studio setting with warm orange lighting, dark purple backdrop, a small rabbit illustration in center, microphone on table",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Welcome to the Rabbit Podcast",
+      "subtitle": "Let’s hop into today’s tale",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "studio setup with dark purple walls, warm orange spotlight, a vintage microphone and a small rabbit plush on a table",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-042",
+      "elements": {
+        "title": "Welcome to the Rabbit Podcast",
+        "subtitle": "Let’s hop into today’s tale"
+      },
+      "audio": {
+        "text": "Hey listeners! Welcome back to the Rabbit Podcast. Today we’re diving into the charming story of The Honest Little Rabbit. Stay tuned for a cozy chat with our special guest and some expert wisdom along the way.",
+        "file": "",
+        "duration": 0,
+        "voice": "female-english"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "title": "Meet Our Guest",
+      "subtitle": "A curious rabbit expert",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "interview set with two chairs, a warm orange lamp, a small rabbit figurine on the table, dark purple backdrop",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-048",
+      "elements": {
+        "title": "Meet Our Guest",
+        "subtitle": "A curious rabbit expert",
+        "quote": "I’ve spent years studying how honesty shapes tiny paws and big hearts.",
+        "speaker": "Dr. Lily Hare"
+      },
+      "audio": {
+        "text": "Joining us today is Dr. Lily Hare, a renowned rabbit behaviorist. She’ll share why honesty matters even for our smallest friends.",
+        "file": "",
+        "duration": 0,
+        "voice": "male-english"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "title": "A Wise Word",
+      "subtitle": "",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "close-up of a handwritten quote on parchment with rabbit illustration, warm orange glow",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-031",
+      "elements": {
+        "quote": "Honesty is the softest hop that keeps the forest bright.",
+        "author": "Elder Rabbit",
+        "role": "Forest Sage"
+      },
+      "audio": {
+        "text": "Here’s a timeless nugget from our forest sage: ‘Honesty is the softest hop that keeps the forest bright.’ Let that settle in.",
+        "file": "",
+        "duration": 0,
+        "voice": "female-english"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Spotlight on The Honest Little Rabbit",
+      "subtitle": "Who’s this brave bunny?",
+      "duration": 10,
+      "backgroundColor": "#FF8C00",
+      "transition": "fade",
+      "imagePrompt": "profile spotlight with a small rabbit standing proudly, studio background dark purple, warm orange lighting",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-039",
+      "elements": {
+        "name": "The Honest Little Rabbit",
+        "title": "Brave Storyteller",
+        "description": "A tiny rabbit who teaches honesty through simple acts of kindness and truth.",
+        "image": "rabbit-profile.jpg"
+      },
+      "audio": {
+        "text": "Let’s shine the spotlight on our hero: The Honest Little Rabbit. This small bunny reminds us that even a single truthful step can ripple across the forest.",
+        "file": "",
+        "duration": 0,
+        "voice": "male-english"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "title": "Case Study Wrap-Up",
+      "subtitle": "What we learned",
+      "duration": 10,
+      "backgroundColor": "#4B0082",
+      "transition": "fade",
+      "imagePrompt": "case study chart with warm orange bars, dark purple background, rabbit paw icons",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-036",
+      "elements": {
+        "title": "Case Study Wrap-Up",
+        "subtitle": "Honesty’s Impact on the Forest",
+        "statistics": "50% increase in trust among forest animals; 30% more cooperative hunts",
+        "conclusion": "Even the smallest honest act can strengthen community bonds."
+      },
+      "audio": {
+        "text": "To wrap up, our case study shows that honesty boosts trust and cooperation by significant margins. Keep hopping forward with truth!",
+        "file": "",
+        "duration": 0,
+        "voice": "female-english"
+      }
+    }
+  ]
+}
