@@ -1,0 +1,88 @@
+{
+  "title": "The Lost Kingdom",
+  "description": "A short cinematic tale of a forgotten realm, its hidden magic, and the brave soul who restores hope.",
+  "type": "story",
+  "tags": [
+    "fantasy",
+    "adventure",
+    "myth"
+  ],
+  "thumbnailPrompt": "a misty ancient kingdom crumbling under stars",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "The Lost Kingdom",
+      "subtitle": "A Tale of Forgotten Glory",
+      "duration": 8,
+      "backgroundColor": "#0b1122",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-019",
+      "elements": {
+        "title": "The Lost Kingdom",
+        "subtitle": "A Tale of Forgotten Glory",
+        "image": "",
+        "cta": ""
+      },
+      "audio": {
+        "text": "In the hush of twilight, legends whisper of a kingdom lost to time.",
+        "file": "",
+        "duration": 0,
+        "voice": "narrator_male_female"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#1c3a5e",
+      "transition": "dissolve",
+      "imagePrompt": "",
+      "cameraMotion": "pan-left",
+      "animation": "",
+      "templateId": "template-020",
+      "elements": {
+        "title": "",
+        "subtitle": "",
+        "body": "",
+        "image": "",
+        "label": ""
+      },
+      "audio": {
+        "text": "Amara, a wandering scholar, discovers the forgotten citadel. She feels the pulse of dormant magic beneath crumbling stones, and vows to awaken its heart.",
+        "file": "",
+        "duration": 0,
+        "voice": "narrator_male_female"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "end",
+      "title": "Hope Restored",
+      "subtitle": "",
+      "duration": 8,
+      "backgroundColor": "#4a6f94",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Hope Restored",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "With the kingdom's heart rekindled, Amara steps into dawn. The lost realm sings anew, teaching that even forgotten worlds can rise when courage lights their path.",
+        "file": "",
+        "duration": 0,
+        "voice": "narrator_male_female"
+      }
+    }
+  ]
+}
