@@ -1,0 +1,288 @@
+{
+  "title": "What is React?",
+  "description": "An introductory guide to the JavaScript library React, explaining its purpose, core concepts, and how it transforms web development.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "What is React?",
+      "subtitle": "An Introduction to the JavaScript Library",
+      "duration": 6.8373333333333335,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "What is React?",
+        "subtitle": "An Introduction to the JavaScript Library",
+        "image": ""
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene1.mp3",
+        "duration": 6.8373333333333335
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "React Defined",
+      "subtitle": "A Library for Building User Interfaces",
+      "duration": 11.306666666666667,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "React Defined",
+        "items": [
+          {
+            "text": "A Library for Building User Interfaces",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene2.mp3",
+        "duration": 11.306666666666667
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "content",
+      "title": "Component Architecture",
+      "subtitle": "The Building Blocks of React Apps",
+      "duration": 12.053333333333333,
+      "backgroundColor": "#e8f5e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-013",
+      "elements": {
+        "title": "Component Architecture",
+        "emoji": "🚀",
+        "steps": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene3.mp3",
+        "duration": 12.053333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "Virtual DOM in Action",
+      "subtitle": "",
+      "duration": 15.658,
+      "backgroundColor": "#f1f8e9",
+      "transition": "slide",
+      "imagePrompt": "Illustration of a virtual DOM tree updating faster than the real browser DOM, with arrows showing efficient diffing and patching.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-003",
+      "elements": {
+        "image": "",
+        "caption": "",
+        "label": "Featured"
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene4.mp3",
+        "duration": 15.658
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "content",
+      "title": "State and Props",
+      "subtitle": "Managing Data Flow",
+      "duration": 14.666,
+      "backgroundColor": "#e3f2fd",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-027",
+      "elements": {
+        "title": "State and Props",
+        "points": [
+          {
+            "text": "Managing Data Flow",
+            "icon": "✓"
+          }
+        ]
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene5.mp3",
+        "duration": 14.666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "content",
+      "title": "JSX Syntax",
+      "subtitle": "JavaScript + XML",
+      "duration": 13.130666666666666,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-032",
+      "elements": {
+        "title": "JSX Syntax",
+        "subtitle": "JavaScript + XML",
+        "steps": [
+          {
+            "num": 1,
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene6.mp3",
+        "duration": 13.130666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "content",
+      "title": "Ecosystem Highlights",
+      "subtitle": "Tools & Libraries",
+      "duration": 14.527333333333333,
+      "backgroundColor": "#e8f5e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-041",
+      "elements": {
+        "title": "Ecosystem Highlights",
+        "subtitle": "Tools & Libraries",
+        "caption": "Tools & Libraries",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene7.mp3",
+        "duration": 14.527333333333333
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "sceneType": "end",
+      "title": "Key Takeaways",
+      "subtitle": "",
+      "duration": 14.634666666666666,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaways",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a5b8d406795fdbeb3093f53/audio/scene8.mp3",
+        "duration": 14.634666666666666
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "educational",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
