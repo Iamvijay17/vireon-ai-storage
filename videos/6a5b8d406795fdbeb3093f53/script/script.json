@@ -1,0 +1,226 @@
+{
+  "title": "What is React?",
+  "description": "An introductory guide to the JavaScript library React, explaining its purpose, core concepts, and how it transforms web development.",
+  "type": "educational",
+  "tags": [
+    "React",
+    "JavaScript",
+    "Web Development",
+    "Frontend"
+  ],
+  "thumbnailPrompt": "A modern laptop screen displaying a colorful React logo with code snippets floating around, set against a soft blue gradient background",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "title",
+      "title": "What is React?",
+      "subtitle": "An Introduction to the JavaScript Library",
+      "duration": 0,
+      "backgroundColor": "#e0f7fa",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-001",
+      "elements": {
+        "title": "What is React?",
+        "subtitle": "An Introduction to the JavaScript Library",
+        "image": ""
+      },
+      "audio": {
+        "text": "Welcome! In this video, we’ll explore what React is and why it’s a cornerstone of modern web development.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "content",
+      "title": "React Defined",
+      "subtitle": "A Library for Building User Interfaces",
+      "duration": 0,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-009",
+      "elements": {
+        "title": "React Defined",
+        "items": [
+          {
+            "text": "A Library for Building User Interfaces",
+            "icon": "✅"
+          }
+        ]
+      },
+      "audio": {
+        "text": "React is an open‑source JavaScript library created by Facebook. It focuses on building reusable UI components, enabling developers to create interactive applications efficiently.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "content",
+      "title": "Component Architecture",
+      "subtitle": "The Building Blocks of React Apps",
+      "duration": 0,
+      "backgroundColor": "#e8f5e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-013",
+      "elements": {
+        "title": "Component Architecture",
+        "emoji": "🚀",
+        "steps": [
+          {
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "audio": {
+        "text": "In React, everything is a component—a self‑contained piece of UI that manages its own state and renders based on data. Components can be nested, composed, and reused across an application.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "Virtual DOM in Action",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#f1f8e9",
+      "transition": "slide",
+      "imagePrompt": "Illustration of a virtual DOM tree updating faster than the real browser DOM, with arrows showing efficient diffing and patching.",
+      "cameraMotion": "zoom-in",
+      "animation": "",
+      "templateId": "template-003",
+      "elements": {
+        "image": "",
+        "caption": "",
+        "label": "Featured"
+      },
+      "audio": {
+        "text": "React introduces the Virtual DOM—a lightweight copy of the actual DOM. When component data changes, React updates this virtual representation first, then calculates the minimal set of changes needed to sync the real DOM, resulting in faster rendering.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "content",
+      "title": "State and Props",
+      "subtitle": "Managing Data Flow",
+      "duration": 0,
+      "backgroundColor": "#e3f2fd",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-027",
+      "elements": {
+        "title": "State and Props",
+        "points": [
+          {
+            "text": "Managing Data Flow",
+            "icon": "✓"
+          }
+        ]
+      },
+      "audio": {
+        "text": "Components receive data through props—read‑only inputs from parent components. They manage internal state, which can change over time and trigger re-renders. This clear separation simplifies debugging and reasoning about UI behavior.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "content",
+      "title": "JSX Syntax",
+      "subtitle": "JavaScript + XML",
+      "duration": 0,
+      "backgroundColor": "#ffffff",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-032",
+      "elements": {
+        "title": "JSX Syntax",
+        "subtitle": "JavaScript + XML",
+        "steps": [
+          {
+            "num": 1,
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "audio": {
+        "text": "React uses JSX, a syntax extension that allows developers to write HTML-like tags directly in JavaScript. Under the hood, JSX compiles to standard React function calls, blending structure and logic seamlessly.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "content",
+      "title": "Ecosystem Highlights",
+      "subtitle": "Tools & Libraries",
+      "duration": 0,
+      "backgroundColor": "#e8f5e9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-041",
+      "elements": {
+        "title": "Ecosystem Highlights",
+        "subtitle": "Tools & Libraries",
+        "caption": "Tools & Libraries",
+        "captionTimestamps": null
+      },
+      "audio": {
+        "text": "React’s ecosystem includes powerful tools such as React Router for navigation, Redux or Context API for state management, and Next.js for server‑side rendering. These tools extend React’s capabilities to full‑stack development.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "sceneType": "end",
+      "title": "Key Takeaways",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#c8e6c9",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-006",
+      "elements": {
+        "quote": "Key Takeaways",
+        "author": "",
+        "authorTitle": ""
+      },
+      "audio": {
+        "text": "To recap: React is a component‑based library that uses the Virtual DOM, state and props for data flow, JSX for expressive syntax, and a vibrant ecosystem of tools. It empowers developers to build fast, maintainable user interfaces.",
+        "file": "",
+        "duration": 0,
+        "voice": "en-US"
+      }
+    }
+  ]
+}
