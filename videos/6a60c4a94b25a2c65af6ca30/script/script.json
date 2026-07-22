@@ -1,0 +1,195 @@
+{
+  "title": "The Science of Habit Formation",
+  "description": "A lively chat about how habits form, the brain behind it, and practical tips to build lasting routines.",
+  "type": "podcast",
+  "tags": [
+    "habits",
+    "neuroscience",
+    "self improvement"
+  ],
+  "thumbnailPrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Hey everyone, welcome to another episode where we dive into the science of habit formation!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Hey everyone, welcome to another episode where we dive into the science of habit formation!",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ryan"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for having me! I’m excited to unpack how our brains lock in behaviors.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks for having me! I’m excited to unpack how our brains lock in behaviors.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Serena"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So what’s the first thing that happens when we start a new habit?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "So what’s the first thing that happens when we start a new habit?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ryan"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It starts with cue and craving—our brain’s way of signaling a need. Once we act, dopamine fires up the reward loop.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It starts with cue and craving—our brain’s way of signaling a need. Once we act, dopamine fires up the reward loop.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Serena"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly! And that loop is what makes habits stick. Any real-world examples?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Exactly! And that loop is what makes habits stick. Any real-world examples?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ryan"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sure—think of someone who drinks coffee right after waking. The cue is the alarm, craving is caffeine, and over weeks it becomes automatic.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Sure—think of someone who drinks coffee right after waking. The cue is the alarm, craving is caffeine, and over weeks it becomes automatic.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Serena"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Great insights! Thanks for sharing, and thanks to listeners—keep experimenting with your habits!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Great insights! Thanks for sharing, and thanks to listeners—keep experimenting with your habits!",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ryan"
+      }
+    }
+  ]
+}
