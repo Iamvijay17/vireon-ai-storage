@@ -1,0 +1,199 @@
+{
+  "title": "Test Topic for Verification",
+  "description": "A lively chat about the intricacies of test topic for verification.",
+  "type": "podcast",
+  "tags": [
+    "test topic",
+    "verification",
+    "podcast"
+  ],
+  "thumbnailPrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Hey everyone, welcome back to the show! Today we’re diving into test topic for verification.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Hey everyone, welcome back to the show! Today we’re diving into test topic for verification.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks! It’s great to be here—let’s get into the nitty-gritty of how verification works.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks! It’s great to be here—let’s get into the nitty-gritty of how verification works.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Can you explain the core principles behind test topic for verification?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Can you explain the core principles behind test topic for verification?",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sure thing—it's all about ensuring data integrity through systematic checks and balances. We use a mix of automated scripts and human oversight.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Sure thing—it's all about ensuring data integrity through systematic checks and balances. We use a mix of automated scripts and human oversight.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "That sounds complex. How do you keep the process user-friendly?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "That sounds complex. How do you keep the process user-friendly?",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "content",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "We design intuitive dashboards and provide clear documentation—so anyone can spot an issue in a glance.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": {
+        "content": [
+          "We design intuitive dashboards and provide clear documentation—so anyone can spot an issue in a glance."
+        ]
+      },
+      "audio": {
+        "text": "We design intuitive dashboards and provide clear documentation—so anyone can spot an issue in a glance.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for sharing those insights! That wraps up our episode—stay curious and keep verifying.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks for sharing those insights! That wraps up our episode—stay curious and keep verifying.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    }
+  ]
+}
