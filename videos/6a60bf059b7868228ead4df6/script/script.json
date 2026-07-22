@@ -1,0 +1,200 @@
+{
+  "title": "The Future of Artificial Intelligence",
+  "description": "A lively chat about where AI is headed, its impact on society, and the ethical questions we face.",
+  "type": "podcast",
+  "tags": [
+    "AI",
+    "technology",
+    "future"
+  ],
+  "thumbnailPrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Hey everyone, welcome to the show! Today we’re diving into the future of artificial intelligence with our special guest.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Hey everyone, welcome to the show! Today we’re diving into the future of artificial intelligence with our special guest.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for having me! It’s exciting to think about how AI is evolving beyond what we imagined a decade ago.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks for having me! It’s exciting to think about how AI is evolving beyond what we imagined a decade ago.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Let’s start with the basics—what do you think is the next big leap in AI technology?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Let’s start with the basics—what do you think is the next big leap in AI technology?",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I’m betting on multimodal models that can seamlessly blend vision, language, and even sound. That opens up truly immersive experiences.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "I’m betting on multimodal models that can seamlessly blend vision, language, and even sound. That opens up truly immersive experiences.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sounds incredible! But with great power comes responsibility—what ethical hurdles do we need to tackle?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Sounds incredible! But with great power comes responsibility—what ethical hurdles do we need to tackle?",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "content",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Transparency and bias are top priorities. We need clear accountability so people trust AI decisions in critical fields like healthcare.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": {
+        "content": [
+          "Transparency and bias are top priorities.",
+          "We need clear accountability so people trust AI decisions in critical fields like healthcare."
+        ]
+      },
+      "audio": {
+        "text": "Transparency and bias are top priorities. We need clear accountability so people trust AI decisions in critical fields like healthcare.",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for those insights—this has been a great conversation. Stay curious and see you next time!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks for those insights—this has been a great conversation. Stay curious and see you next time!",
+        "file": "",
+        "duration": 0,
+        "voice": ""
+      }
+    }
+  ]
+}
