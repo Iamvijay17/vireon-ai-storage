@@ -1,0 +1,718 @@
+{
+  "title": "Test Topic for Verification",
+  "description": "A lively chat about the intricacies of test topic for verification.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.256875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Hey everyone, welcome back to the show! Today we’re diving into test topic for verification.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene1.mp3",
+        "duration": 5.256875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.736875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks! It’s great to be here—let’s get into the nitty-gritty of how verification works.",
+        "captionTimestamps": [
+          {
+            "word": "Thanks!",
+            "start": 0,
+            "end": 0.4
+          },
+          {
+            "word": "It's",
+            "start": 0.72,
+            "end": 0.98
+          },
+          {
+            "word": "great",
+            "start": 0.98,
+            "end": 1.3
+          },
+          {
+            "word": "to",
+            "start": 1.3,
+            "end": 1.52
+          },
+          {
+            "word": "be",
+            "start": 1.52,
+            "end": 1.74
+          },
+          {
+            "word": "here!",
+            "start": 1.74,
+            "end": 2.1
+          },
+          {
+            "word": "Let's",
+            "start": 2.54,
+            "end": 2.88
+          },
+          {
+            "word": "get",
+            "start": 2.88,
+            "end": 3.02
+          },
+          {
+            "word": "into",
+            "start": 3.02,
+            "end": 3.32
+          },
+          {
+            "word": "the",
+            "start": 3.32,
+            "end": 3.46
+          },
+          {
+            "word": "nitty",
+            "start": 3.46,
+            "end": 3.64
+          },
+          {
+            "word": "gritty",
+            "start": 3.64,
+            "end": 4.04
+          },
+          {
+            "word": "of",
+            "start": 4.04,
+            "end": 4.22
+          },
+          {
+            "word": "how",
+            "start": 4.22,
+            "end": 4.38
+          },
+          {
+            "word": "verification",
+            "start": 4.38,
+            "end": 4.9
+          },
+          {
+            "word": "works.",
+            "start": 4.9,
+            "end": 5.46
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene2.mp3",
+        "duration": 5.736875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.056875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Can you explain the core principles behind test topic for verification?",
+        "captionTimestamps": [
+          {
+            "word": "Can",
+            "start": 0,
+            "end": 0.24
+          },
+          {
+            "word": "you",
+            "start": 0.24,
+            "end": 0.46
+          },
+          {
+            "word": "explain",
+            "start": 0.46,
+            "end": 1.14
+          },
+          {
+            "word": "the",
+            "start": 1.14,
+            "end": 1.62
+          },
+          {
+            "word": "core",
+            "start": 1.62,
+            "end": 2.22
+          },
+          {
+            "word": "principles",
+            "start": 2.22,
+            "end": 2.98
+          },
+          {
+            "word": "behind",
+            "start": 2.98,
+            "end": 3.54
+          },
+          {
+            "word": "test",
+            "start": 3.54,
+            "end": 4.24
+          },
+          {
+            "word": "topic",
+            "start": 4.24,
+            "end": 4.7
+          },
+          {
+            "word": "for",
+            "start": 4.7,
+            "end": 4.96
+          },
+          {
+            "word": "verification?",
+            "start": 4.96,
+            "end": 5.64
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene3.mp3",
+        "duration": 6.056875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 10.296875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sure thing—it's all about ensuring data integrity through systematic checks and balances. We use a mix of automated scripts and human oversight.",
+        "captionTimestamps": [
+          {
+            "word": "Sure",
+            "start": 0,
+            "end": 0.32
+          },
+          {
+            "word": "thing,",
+            "start": 0.32,
+            "end": 0.66
+          },
+          {
+            "word": "it's",
+            "start": 1.08,
+            "end": 1.42
+          },
+          {
+            "word": "all",
+            "start": 1.42,
+            "end": 1.64
+          },
+          {
+            "word": "about",
+            "start": 1.64,
+            "end": 1.98
+          },
+          {
+            "word": "ensuring",
+            "start": 1.98,
+            "end": 2.48
+          },
+          {
+            "word": "data",
+            "start": 2.48,
+            "end": 2.84
+          },
+          {
+            "word": "integrity",
+            "start": 2.84,
+            "end": 3.52
+          },
+          {
+            "word": "through",
+            "start": 3.52,
+            "end": 3.9
+          },
+          {
+            "word": "systematic",
+            "start": 3.9,
+            "end": 4.44
+          },
+          {
+            "word": "checks",
+            "start": 4.44,
+            "end": 4.84
+          },
+          {
+            "word": "and",
+            "start": 4.84,
+            "end": 5.06
+          },
+          {
+            "word": "balances.",
+            "start": 5.06,
+            "end": 5.54
+          },
+          {
+            "word": "We",
+            "start": 6.02,
+            "end": 6.2
+          },
+          {
+            "word": "use",
+            "start": 6.2,
+            "end": 6.66
+          },
+          {
+            "word": "a",
+            "start": 6.66,
+            "end": 6.9
+          },
+          {
+            "word": "mix",
+            "start": 6.9,
+            "end": 7.18
+          },
+          {
+            "word": "of",
+            "start": 7.18,
+            "end": 7.54
+          },
+          {
+            "word": "automated",
+            "start": 7.54,
+            "end": 8.14
+          },
+          {
+            "word": "scripts",
+            "start": 8.14,
+            "end": 8.62
+          },
+          {
+            "word": "and",
+            "start": 8.62,
+            "end": 9.24
+          },
+          {
+            "word": "human",
+            "start": 9.24,
+            "end": 9.6
+          },
+          {
+            "word": "oversight.",
+            "start": 9.6,
+            "end": 10.18
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene4.mp3",
+        "duration": 10.296875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.376875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "That sounds complex. How do you keep the process user-friendly?",
+        "captionTimestamps": [
+          {
+            "word": "That",
+            "start": 0,
+            "end": 0.32
+          },
+          {
+            "word": "sounds",
+            "start": 0.32,
+            "end": 1.26
+          },
+          {
+            "word": "complex.",
+            "start": 1.26,
+            "end": 2.18
+          },
+          {
+            "word": "How",
+            "start": 3.18,
+            "end": 3.64
+          },
+          {
+            "word": "do",
+            "start": 3.64,
+            "end": 3.76
+          },
+          {
+            "word": "you",
+            "start": 3.76,
+            "end": 3.92
+          },
+          {
+            "word": "keep",
+            "start": 3.92,
+            "end": 4.22
+          },
+          {
+            "word": "the",
+            "start": 4.22,
+            "end": 4.44
+          },
+          {
+            "word": "process",
+            "start": 4.44,
+            "end": 5.02
+          },
+          {
+            "word": "user",
+            "start": 5.02,
+            "end": 5.7
+          },
+          {
+            "word": "friendly?",
+            "start": 5.7,
+            "end": 6.16
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene5.mp3",
+        "duration": 6.376875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "content",
+      "title": "",
+      "subtitle": "",
+      "duration": 8.136875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "We design intuitive dashboards and provide clear documentation—so anyone can spot an issue in a glance.",
+        "captionTimestamps": [
+          {
+            "word": "We",
+            "start": 0,
+            "end": 0.28
+          },
+          {
+            "word": "design",
+            "start": 0.28,
+            "end": 0.64
+          },
+          {
+            "word": "intuitive",
+            "start": 0.64,
+            "end": 1.28
+          },
+          {
+            "word": "dashboards",
+            "start": 1.28,
+            "end": 2.18
+          },
+          {
+            "word": "and",
+            "start": 2.18,
+            "end": 2.42
+          },
+          {
+            "word": "provide",
+            "start": 2.42,
+            "end": 2.8
+          },
+          {
+            "word": "clear",
+            "start": 2.8,
+            "end": 3.3
+          },
+          {
+            "word": "documentation",
+            "start": 3.3,
+            "end": 4.28
+          },
+          {
+            "word": "so",
+            "start": 4.28,
+            "end": 5.3
+          },
+          {
+            "word": "anyone",
+            "start": 5.3,
+            "end": 6.16
+          },
+          {
+            "word": "can",
+            "start": 6.16,
+            "end": 6.38
+          },
+          {
+            "word": "spot",
+            "start": 6.38,
+            "end": 6.72
+          },
+          {
+            "word": "an",
+            "start": 6.72,
+            "end": 6.9
+          },
+          {
+            "word": "issue",
+            "start": 6.9,
+            "end": 7.18
+          },
+          {
+            "word": "in",
+            "start": 7.18,
+            "end": 7.34
+          },
+          {
+            "word": "a",
+            "start": 7.34,
+            "end": 7.44
+          },
+          {
+            "word": "glance.",
+            "start": 7.44,
+            "end": 7.78
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": {
+        "content": [
+          "We design intuitive dashboards and provide clear documentation—so anyone can spot an issue in a glance."
+        ]
+      },
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene6.mp3",
+        "duration": 8.136875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 7.496875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for sharing those insights! That wraps up our episode—stay curious and keep verifying.",
+        "captionTimestamps": [
+          {
+            "word": "Thanks",
+            "start": 0,
+            "end": 0.28
+          },
+          {
+            "word": "for",
+            "start": 0.28,
+            "end": 0.42
+          },
+          {
+            "word": "sharing",
+            "start": 0.42,
+            "end": 0.76
+          },
+          {
+            "word": "those",
+            "start": 0.76,
+            "end": 0.96
+          },
+          {
+            "word": "insights,",
+            "start": 0.96,
+            "end": 1.44
+          },
+          {
+            "word": "that",
+            "start": 2.24,
+            "end": 3.26
+          },
+          {
+            "word": "wraps",
+            "start": 3.26,
+            "end": 4.04
+          },
+          {
+            "word": "up",
+            "start": 4.04,
+            "end": 4.24
+          },
+          {
+            "word": "our",
+            "start": 4.24,
+            "end": 4.36
+          },
+          {
+            "word": "episode,",
+            "start": 4.36,
+            "end": 4.8
+          },
+          {
+            "word": "stay",
+            "start": 5.22,
+            "end": 5.48
+          },
+          {
+            "word": "curious",
+            "start": 5.48,
+            "end": 5.94
+          },
+          {
+            "word": "and",
+            "start": 5.94,
+            "end": 6.46
+          },
+          {
+            "word": "keep",
+            "start": 6.46,
+            "end": 6.74
+          },
+          {
+            "word": "verifying.",
+            "start": 6.74,
+            "end": 7.28
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c0bfdeb609128a1147f4/audio/scene7.mp3",
+        "duration": 7.496875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
