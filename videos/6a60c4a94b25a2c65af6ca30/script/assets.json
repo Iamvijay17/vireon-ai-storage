@@ -118,7 +118,118 @@
       "templateId": "template-061",
       "elements": {
         "caption": "It starts with cue and craving—our brain’s way of signaling a need. Once we act, dopamine fires up the reward loop.",
-        "captionTimestamps": null,
+        "captionTimestamps": [
+          {
+            "word": "It",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "starts",
+            "start": 0.16,
+            "end": 0.46
+          },
+          {
+            "word": "with",
+            "start": 0.46,
+            "end": 0.78
+          },
+          {
+            "word": "Q",
+            "start": 0.78,
+            "end": 1.08
+          },
+          {
+            "word": "and",
+            "start": 1.08,
+            "end": 1.48
+          },
+          {
+            "word": "craving,",
+            "start": 1.48,
+            "end": 1.9
+          },
+          {
+            "word": "our",
+            "start": 2.42,
+            "end": 2.56
+          },
+          {
+            "word": "brain's",
+            "start": 2.56,
+            "end": 3.12
+          },
+          {
+            "word": "way",
+            "start": 3.12,
+            "end": 3.32
+          },
+          {
+            "word": "of",
+            "start": 3.32,
+            "end": 3.66
+          },
+          {
+            "word": "signaling",
+            "start": 3.66,
+            "end": 4.22
+          },
+          {
+            "word": "a",
+            "start": 4.22,
+            "end": 4.5
+          },
+          {
+            "word": "need.",
+            "start": 4.5,
+            "end": 4.9
+          },
+          {
+            "word": "Once",
+            "start": 5.42,
+            "end": 5.72
+          },
+          {
+            "word": "we",
+            "start": 5.72,
+            "end": 5.94
+          },
+          {
+            "word": "act,",
+            "start": 5.94,
+            "end": 6.34
+          },
+          {
+            "word": "dopamine",
+            "start": 6.88,
+            "end": 7.12
+          },
+          {
+            "word": "fires",
+            "start": 7.12,
+            "end": 7.76
+          },
+          {
+            "word": "up",
+            "start": 7.76,
+            "end": 8.08
+          },
+          {
+            "word": "the",
+            "start": 8.08,
+            "end": 8.24
+          },
+          {
+            "word": "reward",
+            "start": 8.24,
+            "end": 8.56
+          },
+          {
+            "word": "loop.",
+            "start": 8.56,
+            "end": 8.9
+          }
+        ],
         "speakerLabel": "Guest"
       },
       "scene_meta": null,
