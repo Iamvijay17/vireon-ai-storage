@@ -1,0 +1,243 @@
+{
+  "title": "The Science of Habit Formation",
+  "description": "A lively chat about how habits form, the brain behind it, and practical tips to build lasting routines.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.416875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Hey everyone, welcome to another episode where we dive into the science of habit formation!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene1.mp3",
+        "duration": 5.416875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.536875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for having me! I’m excited to unpack how our brains lock in behaviors.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene2.mp3",
+        "duration": 6.536875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.616875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So what’s the first thing that happens when we start a new habit?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene3.mp3",
+        "duration": 4.616875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 9.096875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It starts with cue and craving—our brain’s way of signaling a need. Once we act, dopamine fires up the reward loop.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene4.mp3",
+        "duration": 9.096875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 7.736875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly! And that loop is what makes habits stick. Any real-world examples?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene5.mp3",
+        "duration": 7.736875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 10.696875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sure—think of someone who drinks coffee right after waking. The cue is the alarm, craving is caffeine, and over weeks it becomes automatic.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene6.mp3",
+        "duration": 10.696875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.696875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=1920&h=1080&fit=crop",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Great insights! Thanks for sharing, and thanks to listeners—keep experimenting with your habits!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/6a60c4a94b25a2c65af6ca30/audio/scene7.mp3",
+        "duration": 6.696875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
