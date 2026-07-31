@@ -1,0 +1,195 @@
+{
+  "title": "Introduce Yourself: A Conversation on Making Great First Impressions",
+  "description": "A quick, lively chat about the art of introducing yourself in everyday life and professional settings.",
+  "type": "podcast",
+  "tags": [
+    "intro",
+    "communication",
+    "first impressions"
+  ],
+  "thumbnailPrompt": "",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Hey everyone, welcome to the show! Today we’re diving into how to introduce yourself like a pro.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Hey everyone, welcome to the show! Today we’re diving into how to introduce yourself like a pro.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Eric"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks! I’ve spent years coaching people on that exact moment when they say their name and make a connection.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks! I’ve spent years coaching people on that exact moment when they say their name and make a connection.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "What’s the first thing you notice when someone introduces themselves?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "What’s the first thing you notice when someone introduces themselves?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Eric"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I look for confidence and a bit of curiosity. A clear name, a friendly smile—those are the signals that say ‘I’m approachable.’",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "I look for confidence and a bit of curiosity. A clear name, a friendly smile—those are the signals that say ‘I’m approachable.’",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Got it. Any quick tips for people who feel nervous?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Got it. Any quick tips for people who feel nervous?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Eric"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Practice a short “elevator pitch” in front of a mirror. Keep it under 30 seconds—name, role, one fun fact—and then just breathe.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Practice a short “elevator pitch” in front of a mirror. Keep it under 30 seconds—name, role, one fun fact—and then just breathe.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract shapes, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for those gems! That’s all we have time for today—stay curious and keep introducing yourself with confidence.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks for those gems! That’s all we have time for today—stay curious and keep introducing yourself with confidence.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Eric"
+      }
+    }
+  ]
+}
