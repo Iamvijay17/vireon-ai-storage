@@ -1,0 +1,3129 @@
+{
+  "title": "A Day in My Life: The Creative Routine",
+  "description": "Joining us today is Sarah, an acclaimed architect, who gives us an intimate look into her demanding yet creative daily routine.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.776875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Welcome back to the podcast! Today we have such a treat; we're talking about 'A Day in My Life.'",
+        "captionTimestamps": [
+          {
+            "word": "Welcome",
+            "start": 0,
+            "end": 0.34
+          },
+          {
+            "word": "back",
+            "start": 0.34,
+            "end": 0.62
+          },
+          {
+            "word": "to",
+            "start": 0.62,
+            "end": 0.84
+          },
+          {
+            "word": "the",
+            "start": 0.84,
+            "end": 0.92
+          },
+          {
+            "word": "podcast.",
+            "start": 0.92,
+            "end": 1.4
+          },
+          {
+            "word": "Today",
+            "start": 2.12,
+            "end": 2.36
+          },
+          {
+            "word": "we",
+            "start": 2.36,
+            "end": 2.72
+          },
+          {
+            "word": "have",
+            "start": 2.72,
+            "end": 2.96
+          },
+          {
+            "word": "such",
+            "start": 2.96,
+            "end": 3.42
+          },
+          {
+            "word": "a",
+            "start": 3.42,
+            "end": 3.64
+          },
+          {
+            "word": "treat.",
+            "start": 3.64,
+            "end": 4
+          },
+          {
+            "word": "We're",
+            "start": 4.44,
+            "end": 4.58
+          },
+          {
+            "word": "talking",
+            "start": 4.58,
+            "end": 4.9
+          },
+          {
+            "word": "about",
+            "start": 4.9,
+            "end": 5.2
+          },
+          {
+            "word": "a",
+            "start": 5.2,
+            "end": 5.48
+          },
+          {
+            "word": "day",
+            "start": 5.48,
+            "end": 5.8
+          },
+          {
+            "word": "in",
+            "start": 5.8,
+            "end": 6.08
+          },
+          {
+            "word": "my",
+            "start": 6.08,
+            "end": 6.28
+          },
+          {
+            "word": "life.",
+            "start": 6.28,
+            "end": 6.66
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene1.mp3",
+        "duration": 6.776875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.936875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "With Sarah, an incredible architect. Sarah, thanks so much for joining us.",
+        "captionTimestamps": [
+          {
+            "word": "with",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "Sarah,",
+            "start": 0.22,
+            "end": 0.54
+          },
+          {
+            "word": "an",
+            "start": 1.02,
+            "end": 1.08
+          },
+          {
+            "word": "incredible",
+            "start": 1.08,
+            "end": 1.64
+          },
+          {
+            "word": "architect.",
+            "start": 1.64,
+            "end": 2.24
+          },
+          {
+            "word": "Sarah,",
+            "start": 2.98,
+            "end": 3.3
+          },
+          {
+            "word": "thanks",
+            "start": 3.46,
+            "end": 3.62
+          },
+          {
+            "word": "so",
+            "start": 3.62,
+            "end": 3.88
+          },
+          {
+            "word": "much",
+            "start": 3.88,
+            "end": 4.12
+          },
+          {
+            "word": "for",
+            "start": 4.12,
+            "end": 4.22
+          },
+          {
+            "word": "joining",
+            "start": 4.22,
+            "end": 4.5
+          },
+          {
+            "word": "us.",
+            "start": 4.5,
+            "end": 4.8
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene2.mp3",
+        "duration": 4.936875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.616875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for having me! It's genuinely fun to talk about this.",
+        "captionTimestamps": [
+          {
+            "word": "Thanks",
+            "start": 0.98,
+            "end": 1.42
+          },
+          {
+            "word": "for",
+            "start": 1.42,
+            "end": 1.64
+          },
+          {
+            "word": "having",
+            "start": 1.64,
+            "end": 1.88
+          },
+          {
+            "word": "me.",
+            "start": 1.88,
+            "end": 2.1
+          },
+          {
+            "word": "It's",
+            "start": 2.54,
+            "end": 2.8
+          },
+          {
+            "word": "genuinely",
+            "start": 2.8,
+            "end": 3.16
+          },
+          {
+            "word": "fun",
+            "start": 3.16,
+            "end": 3.58
+          },
+          {
+            "word": "to",
+            "start": 3.58,
+            "end": 3.74
+          },
+          {
+            "word": "talk",
+            "start": 3.74,
+            "end": 3.94
+          },
+          {
+            "word": "about",
+            "start": 3.94,
+            "end": 4.16
+          },
+          {
+            "word": "this.",
+            "start": 4.16,
+            "end": 4.38
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene3.mp3",
+        "duration": 4.616875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.736875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So, people are so curious about what a typical day is like when you're designing big buildings.",
+        "captionTimestamps": [
+          {
+            "word": "So,",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "people",
+            "start": 0.5,
+            "end": 0.74
+          },
+          {
+            "word": "are",
+            "start": 0.74,
+            "end": 0.94
+          },
+          {
+            "word": "so",
+            "start": 0.94,
+            "end": 1.2
+          },
+          {
+            "word": "curious",
+            "start": 1.2,
+            "end": 1.82
+          },
+          {
+            "word": "about",
+            "start": 1.82,
+            "end": 2.26
+          },
+          {
+            "word": "what",
+            "start": 2.26,
+            "end": 2.44
+          },
+          {
+            "word": "a",
+            "start": 2.44,
+            "end": 2.56
+          },
+          {
+            "word": "typical",
+            "start": 2.56,
+            "end": 2.86
+          },
+          {
+            "word": "day",
+            "start": 2.86,
+            "end": 3.28
+          },
+          {
+            "word": "is",
+            "start": 3.28,
+            "end": 3.58
+          },
+          {
+            "word": "like",
+            "start": 3.58,
+            "end": 3.82
+          },
+          {
+            "word": "when",
+            "start": 3.82,
+            "end": 4.14
+          },
+          {
+            "word": "you're",
+            "start": 4.14,
+            "end": 4.32
+          },
+          {
+            "word": "designing",
+            "start": 4.32,
+            "end": 4.68
+          },
+          {
+            "word": "big",
+            "start": 4.68,
+            "end": 5
+          },
+          {
+            "word": "buildings.",
+            "start": 5,
+            "end": 5.42
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene4.mp3",
+        "duration": 5.736875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 3.256875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Does your day start early? What's the first thing you do?",
+        "captionTimestamps": [
+          {
+            "word": "Did",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "your",
+            "start": 0.16,
+            "end": 0.28
+          },
+          {
+            "word": "day",
+            "start": 0.28,
+            "end": 0.4
+          },
+          {
+            "word": "start",
+            "start": 0.4,
+            "end": 0.62
+          },
+          {
+            "word": "early?",
+            "start": 0.62,
+            "end": 1.02
+          },
+          {
+            "word": "What's",
+            "start": 1.66,
+            "end": 2.06
+          },
+          {
+            "word": "the",
+            "start": 2.06,
+            "end": 2.18
+          },
+          {
+            "word": "first",
+            "start": 2.18,
+            "end": 2.46
+          },
+          {
+            "word": "thing",
+            "start": 2.46,
+            "end": 2.68
+          },
+          {
+            "word": "you",
+            "start": 2.68,
+            "end": 2.84
+          },
+          {
+            "word": "do?",
+            "start": 2.84,
+            "end": 3.04
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene5.mp3",
+        "duration": 3.256875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.536875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Oh yeah, I'm an early riser. I usually wake up around 6:30 AM.",
+        "captionTimestamps": [
+          {
+            "word": "Oh",
+            "start": 0,
+            "end": 0.3
+          },
+          {
+            "word": "yeah,",
+            "start": 0.3,
+            "end": 0.72
+          },
+          {
+            "word": "I'm",
+            "start": 1.06,
+            "end": 1.24
+          },
+          {
+            "word": "an",
+            "start": 1.24,
+            "end": 1.34
+          },
+          {
+            "word": "early",
+            "start": 1.34,
+            "end": 1.62
+          },
+          {
+            "word": "riser.",
+            "start": 1.62,
+            "end": 2.14
+          },
+          {
+            "word": "I",
+            "start": 2.32,
+            "end": 2.4
+          },
+          {
+            "word": "usually",
+            "start": 2.4,
+            "end": 2.68
+          },
+          {
+            "word": "wake",
+            "start": 2.68,
+            "end": 2.96
+          },
+          {
+            "word": "up",
+            "start": 2.96,
+            "end": 3.08
+          },
+          {
+            "word": "around",
+            "start": 3.08,
+            "end": 3.32
+          },
+          {
+            "word": "6",
+            "start": 3.32,
+            "end": 3.58
+          },
+          {
+            "word": ".30",
+            "start": 3.58,
+            "end": 3.94
+          },
+          {
+            "word": "a",
+            "start": 3.94,
+            "end": 4.12
+          },
+          {
+            "word": ".m.",
+            "start": 4.12,
+            "end": 4.38
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene6.mp3",
+        "duration": 4.536875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.056875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "The very first thing I do is walk and listen to a podcast. It helps me clear my head.",
+        "captionTimestamps": [
+          {
+            "word": "The",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "very",
+            "start": 0.18,
+            "end": 0.48
+          },
+          {
+            "word": "first",
+            "start": 0.48,
+            "end": 0.88
+          },
+          {
+            "word": "thing",
+            "start": 0.88,
+            "end": 1.06
+          },
+          {
+            "word": "I",
+            "start": 1.06,
+            "end": 1.22
+          },
+          {
+            "word": "do",
+            "start": 1.22,
+            "end": 1.46
+          },
+          {
+            "word": "is",
+            "start": 1.46,
+            "end": 1.76
+          },
+          {
+            "word": "walk",
+            "start": 1.76,
+            "end": 2.06
+          },
+          {
+            "word": "and",
+            "start": 2.06,
+            "end": 2.32
+          },
+          {
+            "word": "listen",
+            "start": 2.32,
+            "end": 2.62
+          },
+          {
+            "word": "to",
+            "start": 2.62,
+            "end": 2.86
+          },
+          {
+            "word": "a",
+            "start": 2.86,
+            "end": 2.98
+          },
+          {
+            "word": "podcast.",
+            "start": 2.98,
+            "end": 3.6
+          },
+          {
+            "word": "It",
+            "start": 4.26,
+            "end": 4.5
+          },
+          {
+            "word": "helps",
+            "start": 4.5,
+            "end": 4.76
+          },
+          {
+            "word": "me",
+            "start": 4.76,
+            "end": 4.98
+          },
+          {
+            "word": "clear",
+            "start": 4.98,
+            "end": 5.3
+          },
+          {
+            "word": "my",
+            "start": 5.3,
+            "end": 5.54
+          },
+          {
+            "word": "head.",
+            "start": 5.54,
+            "end": 5.86
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene7.mp3",
+        "duration": 6.056875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.416875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Wow, so the physical movement helps with creative thinking. I love that tip.",
+        "captionTimestamps": [
+          {
+            "word": "Wow.",
+            "start": 0,
+            "end": 0.3
+          },
+          {
+            "word": "So",
+            "start": 0.82,
+            "end": 1.06
+          },
+          {
+            "word": "the",
+            "start": 1.06,
+            "end": 1.18
+          },
+          {
+            "word": "physical",
+            "start": 1.18,
+            "end": 1.56
+          },
+          {
+            "word": "movement",
+            "start": 1.56,
+            "end": 2.08
+          },
+          {
+            "word": "helps",
+            "start": 2.08,
+            "end": 2.46
+          },
+          {
+            "word": "with",
+            "start": 2.46,
+            "end": 2.72
+          },
+          {
+            "word": "creative",
+            "start": 2.72,
+            "end": 3.18
+          },
+          {
+            "word": "thinking.",
+            "start": 3.18,
+            "end": 3.62
+          },
+          {
+            "word": "I",
+            "start": 4.3,
+            "end": 4.46
+          },
+          {
+            "word": "love",
+            "start": 4.46,
+            "end": 4.76
+          },
+          {
+            "word": "that",
+            "start": 4.76,
+            "end": 5
+          },
+          {
+            "word": "tip.",
+            "start": 5,
+            "end": 5.28
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene8.mp3",
+        "duration": 5.416875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 9,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.176875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It really does. It gets the blood flowing and helps me transition into a creative headspace.",
+        "captionTimestamps": [
+          {
+            "word": "It",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "really",
+            "start": 0.18,
+            "end": 0.48
+          },
+          {
+            "word": "does.",
+            "start": 0.48,
+            "end": 0.82
+          },
+          {
+            "word": "It",
+            "start": 1.24,
+            "end": 1.34
+          },
+          {
+            "word": "gets",
+            "start": 1.34,
+            "end": 1.5
+          },
+          {
+            "word": "the",
+            "start": 1.5,
+            "end": 1.72
+          },
+          {
+            "word": "blood",
+            "start": 1.72,
+            "end": 1.92
+          },
+          {
+            "word": "flowing",
+            "start": 1.92,
+            "end": 2.32
+          },
+          {
+            "word": "and",
+            "start": 2.32,
+            "end": 2.54
+          },
+          {
+            "word": "helps",
+            "start": 2.54,
+            "end": 2.76
+          },
+          {
+            "word": "me",
+            "start": 2.76,
+            "end": 2.94
+          },
+          {
+            "word": "transition",
+            "start": 2.94,
+            "end": 3.44
+          },
+          {
+            "word": "into",
+            "start": 3.44,
+            "end": 3.78
+          },
+          {
+            "word": "a",
+            "start": 3.78,
+            "end": 3.94
+          },
+          {
+            "word": "creative",
+            "start": 3.94,
+            "end": 4.28
+          },
+          {
+            "word": "headspace.",
+            "start": 4.28,
+            "end": 4.84
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene9.mp3",
+        "duration": 5.176875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 10,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 3.896875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "And then what happens once you get to the office? Is it right into work?",
+        "captionTimestamps": [
+          {
+            "word": "And",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "then",
+            "start": 0.14,
+            "end": 0.24
+          },
+          {
+            "word": "what",
+            "start": 0.24,
+            "end": 0.4
+          },
+          {
+            "word": "happens",
+            "start": 0.4,
+            "end": 0.7
+          },
+          {
+            "word": "once",
+            "start": 0.7,
+            "end": 1.22
+          },
+          {
+            "word": "you",
+            "start": 1.22,
+            "end": 1.42
+          },
+          {
+            "word": "get",
+            "start": 1.42,
+            "end": 1.52
+          },
+          {
+            "word": "to",
+            "start": 1.52,
+            "end": 1.64
+          },
+          {
+            "word": "the",
+            "start": 1.64,
+            "end": 1.74
+          },
+          {
+            "word": "office,",
+            "start": 1.74,
+            "end": 2.2
+          },
+          {
+            "word": "is",
+            "start": 2.68,
+            "end": 2.82
+          },
+          {
+            "word": "it",
+            "start": 2.82,
+            "end": 2.92
+          },
+          {
+            "word": "right",
+            "start": 2.92,
+            "end": 3.14
+          },
+          {
+            "word": "into",
+            "start": 3.14,
+            "end": 3.38
+          },
+          {
+            "word": "work?",
+            "start": 3.38,
+            "end": 3.66
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene10.mp3",
+        "duration": 3.896875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 11,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.336875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Not exactly. I build in a slow start. Coffee and reading are non-negotiable.",
+        "captionTimestamps": [
+          {
+            "word": "Not",
+            "start": 0,
+            "end": 0.48
+          },
+          {
+            "word": "exactly.",
+            "start": 0.48,
+            "end": 1.1
+          },
+          {
+            "word": "I",
+            "start": 1.6,
+            "end": 1.68
+          },
+          {
+            "word": "build",
+            "start": 1.68,
+            "end": 1.92
+          },
+          {
+            "word": "in",
+            "start": 1.92,
+            "end": 2.1
+          },
+          {
+            "word": "a",
+            "start": 2.1,
+            "end": 2.2
+          },
+          {
+            "word": "slow",
+            "start": 2.2,
+            "end": 2.44
+          },
+          {
+            "word": "start.",
+            "start": 2.44,
+            "end": 2.9
+          },
+          {
+            "word": "Coffee",
+            "start": 3.42,
+            "end": 3.72
+          },
+          {
+            "word": "and",
+            "start": 3.72,
+            "end": 3.9
+          },
+          {
+            "word": "reading",
+            "start": 3.9,
+            "end": 4.12
+          },
+          {
+            "word": "are",
+            "start": 4.12,
+            "end": 4.32
+          },
+          {
+            "word": "non",
+            "start": 4.32,
+            "end": 4.54
+          },
+          {
+            "word": "-negotiable.",
+            "start": 4.54,
+            "end": 5.18
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene11.mp3",
+        "duration": 5.336875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 12,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.016875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I feel like every creative person needs a ritual to start the day. What does that look like?",
+        "captionTimestamps": [
+          {
+            "word": "I",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "feel",
+            "start": 0.14,
+            "end": 0.26
+          },
+          {
+            "word": "like",
+            "start": 0.26,
+            "end": 0.44
+          },
+          {
+            "word": "every",
+            "start": 0.44,
+            "end": 0.82
+          },
+          {
+            "word": "creative",
+            "start": 0.82,
+            "end": 1.26
+          },
+          {
+            "word": "person",
+            "start": 1.26,
+            "end": 1.74
+          },
+          {
+            "word": "needs",
+            "start": 1.74,
+            "end": 2.02
+          },
+          {
+            "word": "a",
+            "start": 2.02,
+            "end": 2.22
+          },
+          {
+            "word": "ritual",
+            "start": 2.22,
+            "end": 2.62
+          },
+          {
+            "word": "to",
+            "start": 2.62,
+            "end": 2.82
+          },
+          {
+            "word": "start",
+            "start": 2.82,
+            "end": 3.12
+          },
+          {
+            "word": "the",
+            "start": 3.12,
+            "end": 3.34
+          },
+          {
+            "word": "day.",
+            "start": 3.34,
+            "end": 3.58
+          },
+          {
+            "word": "What",
+            "start": 4.08,
+            "end": 4.24
+          },
+          {
+            "word": "does",
+            "start": 4.24,
+            "end": 4.34
+          },
+          {
+            "word": "that",
+            "start": 4.34,
+            "end": 4.48
+          },
+          {
+            "word": "look",
+            "start": 4.48,
+            "end": 4.68
+          },
+          {
+            "word": "like?",
+            "start": 4.68,
+            "end": 4.92
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene12.mp3",
+        "duration": 5.016875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 13,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.896875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Mine is really about disconnecting first. No emails, no client calls for the first hour.",
+        "captionTimestamps": [
+          {
+            "word": "Mine",
+            "start": 0,
+            "end": 0.38
+          },
+          {
+            "word": "is",
+            "start": 0.38,
+            "end": 0.68
+          },
+          {
+            "word": "really",
+            "start": 0.68,
+            "end": 1.06
+          },
+          {
+            "word": "about",
+            "start": 1.06,
+            "end": 1.3
+          },
+          {
+            "word": "this",
+            "start": 1.3,
+            "end": 1.48
+          },
+          {
+            "word": "connecting",
+            "start": 1.48,
+            "end": 1.86
+          },
+          {
+            "word": "first.",
+            "start": 1.86,
+            "end": 2.26
+          },
+          {
+            "word": "No",
+            "start": 2.86,
+            "end": 2.96
+          },
+          {
+            "word": "emails,",
+            "start": 2.96,
+            "end": 3.42
+          },
+          {
+            "word": "no",
+            "start": 3.76,
+            "end": 3.86
+          },
+          {
+            "word": "client",
+            "start": 3.86,
+            "end": 4.24
+          },
+          {
+            "word": "calls",
+            "start": 4.24,
+            "end": 4.62
+          },
+          {
+            "word": "for",
+            "start": 4.62,
+            "end": 4.94
+          },
+          {
+            "word": "the",
+            "start": 4.94,
+            "end": 5.04
+          },
+          {
+            "word": "first",
+            "start": 5.04,
+            "end": 5.32
+          },
+          {
+            "word": "hour.",
+            "start": 5.32,
+            "end": 5.64
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene13.mp3",
+        "duration": 5.896875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 14,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.416875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "That makes so much sense. It sounds like you prioritize deep work time early on.",
+        "captionTimestamps": [
+          {
+            "word": "That",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "makes",
+            "start": 0.16,
+            "end": 0.34
+          },
+          {
+            "word": "so",
+            "start": 0.34,
+            "end": 0.74
+          },
+          {
+            "word": "much",
+            "start": 0.74,
+            "end": 1.04
+          },
+          {
+            "word": "sense.",
+            "start": 1.04,
+            "end": 1.5
+          },
+          {
+            "word": "It",
+            "start": 2.12,
+            "end": 2.24
+          },
+          {
+            "word": "sounds",
+            "start": 2.24,
+            "end": 2.5
+          },
+          {
+            "word": "like",
+            "start": 2.5,
+            "end": 2.7
+          },
+          {
+            "word": "you",
+            "start": 2.7,
+            "end": 2.88
+          },
+          {
+            "word": "prioritized",
+            "start": 2.88,
+            "end": 3.76
+          },
+          {
+            "word": "deep",
+            "start": 3.76,
+            "end": 3.94
+          },
+          {
+            "word": "work",
+            "start": 3.94,
+            "end": 4.22
+          },
+          {
+            "word": "time",
+            "start": 4.22,
+            "end": 4.5
+          },
+          {
+            "word": "early",
+            "start": 4.5,
+            "end": 4.88
+          },
+          {
+            "word": "on.",
+            "start": 4.88,
+            "end": 5.24
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene14.mp3",
+        "duration": 5.416875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 15,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.616875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly. I use that time for sketching or just messing around with ideas before the demands start coming in.",
+        "captionTimestamps": [
+          {
+            "word": "Exactly!",
+            "start": 0,
+            "end": 0.72
+          },
+          {
+            "word": "I",
+            "start": 1.52,
+            "end": 1.62
+          },
+          {
+            "word": "use",
+            "start": 1.62,
+            "end": 1.8
+          },
+          {
+            "word": "that",
+            "start": 1.8,
+            "end": 2
+          },
+          {
+            "word": "time",
+            "start": 2,
+            "end": 2.22
+          },
+          {
+            "word": "for",
+            "start": 2.22,
+            "end": 2.42
+          },
+          {
+            "word": "sketching",
+            "start": 2.42,
+            "end": 2.92
+          },
+          {
+            "word": "or",
+            "start": 2.92,
+            "end": 3.2
+          },
+          {
+            "word": "just",
+            "start": 3.2,
+            "end": 3.5
+          },
+          {
+            "word": "messing",
+            "start": 3.5,
+            "end": 3.9
+          },
+          {
+            "word": "around",
+            "start": 3.9,
+            "end": 4.24
+          },
+          {
+            "word": "with",
+            "start": 4.24,
+            "end": 4.46
+          },
+          {
+            "word": "ideas",
+            "start": 4.46,
+            "end": 4.78
+          },
+          {
+            "word": "before",
+            "start": 4.78,
+            "end": 5.14
+          },
+          {
+            "word": "the",
+            "start": 5.14,
+            "end": 5.34
+          },
+          {
+            "word": "demand",
+            "start": 5.34,
+            "end": 5.54
+          },
+          {
+            "word": "start",
+            "start": 5.54,
+            "end": 5.88
+          },
+          {
+            "word": "coming",
+            "start": 5.88,
+            "end": 6.18
+          },
+          {
+            "word": "in.",
+            "start": 6.18,
+            "end": 6.44
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene15.mp3",
+        "duration": 6.616875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 16,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 3.336875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "And when you get to the collaborative part of your day—meeting with people?",
+        "captionTimestamps": [
+          {
+            "word": "And",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "when",
+            "start": 0.14,
+            "end": 0.24
+          },
+          {
+            "word": "you",
+            "start": 0.24,
+            "end": 0.36
+          },
+          {
+            "word": "get",
+            "start": 0.36,
+            "end": 0.52
+          },
+          {
+            "word": "to",
+            "start": 0.52,
+            "end": 0.66
+          },
+          {
+            "word": "the",
+            "start": 0.66,
+            "end": 0.76
+          },
+          {
+            "word": "collaborative",
+            "start": 0.76,
+            "end": 1.2
+          },
+          {
+            "word": "part",
+            "start": 1.2,
+            "end": 1.52
+          },
+          {
+            "word": "of",
+            "start": 1.52,
+            "end": 1.66
+          },
+          {
+            "word": "your",
+            "start": 1.66,
+            "end": 1.78
+          },
+          {
+            "word": "day,",
+            "start": 1.78,
+            "end": 2.02
+          },
+          {
+            "word": "meeting",
+            "start": 2.4,
+            "end": 2.6
+          },
+          {
+            "word": "with",
+            "start": 2.6,
+            "end": 2.84
+          },
+          {
+            "word": "people?",
+            "start": 2.84,
+            "end": 3.1
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene16.mp3",
+        "duration": 3.336875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 17,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.216875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Those meetings are usually where the friction happens. It’s about mediating creative ideas.",
+        "captionTimestamps": [
+          {
+            "word": "Those",
+            "start": 0,
+            "end": 0.32
+          },
+          {
+            "word": "meetings",
+            "start": 0.32,
+            "end": 0.76
+          },
+          {
+            "word": "are",
+            "start": 0.76,
+            "end": 1.06
+          },
+          {
+            "word": "usually",
+            "start": 1.06,
+            "end": 1.46
+          },
+          {
+            "word": "where",
+            "start": 1.46,
+            "end": 1.68
+          },
+          {
+            "word": "the",
+            "start": 1.68,
+            "end": 1.82
+          },
+          {
+            "word": "friction",
+            "start": 1.82,
+            "end": 2.2
+          },
+          {
+            "word": "happens.",
+            "start": 2.2,
+            "end": 2.88
+          },
+          {
+            "word": "It's",
+            "start": 3.62,
+            "end": 3.84
+          },
+          {
+            "word": "about",
+            "start": 3.84,
+            "end": 4.08
+          },
+          {
+            "word": "mediating",
+            "start": 4.08,
+            "end": 4.64
+          },
+          {
+            "word": "creative",
+            "start": 4.64,
+            "end": 5.18
+          },
+          {
+            "word": "ideas.",
+            "start": 5.18,
+            "end": 5.72
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene17.mp3",
+        "duration": 6.216875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 18,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.616875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So you have to be a good facilitator as much as a designer? That's huge.",
+        "captionTimestamps": [
+          {
+            "word": "So",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "you",
+            "start": 0.18,
+            "end": 0.28
+          },
+          {
+            "word": "have",
+            "start": 0.28,
+            "end": 0.34
+          },
+          {
+            "word": "to",
+            "start": 0.34,
+            "end": 0.44
+          },
+          {
+            "word": "be",
+            "start": 0.44,
+            "end": 0.56
+          },
+          {
+            "word": "a",
+            "start": 0.56,
+            "end": 0.68
+          },
+          {
+            "word": "good",
+            "start": 0.68,
+            "end": 0.84
+          },
+          {
+            "word": "facilitator",
+            "start": 0.84,
+            "end": 1.58
+          },
+          {
+            "word": "as",
+            "start": 1.58,
+            "end": 1.76
+          },
+          {
+            "word": "much",
+            "start": 1.76,
+            "end": 1.94
+          },
+          {
+            "word": "as",
+            "start": 1.94,
+            "end": 2.14
+          },
+          {
+            "word": "a",
+            "start": 2.14,
+            "end": 2.22
+          },
+          {
+            "word": "designer?",
+            "start": 2.22,
+            "end": 2.64
+          },
+          {
+            "word": "That's",
+            "start": 3.4,
+            "end": 3.76
+          },
+          {
+            "word": "huge!",
+            "start": 3.76,
+            "end": 4.12
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene18.mp3",
+        "duration": 4.616875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 19,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 7.656875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Absolutely. It’s less about having the best idea and more about helping people see the potential in different ideas.",
+        "captionTimestamps": [
+          {
+            "word": "Absolutely,",
+            "start": 0,
+            "end": 0.72
+          },
+          {
+            "word": "it's",
+            "start": 1.48,
+            "end": 1.78
+          },
+          {
+            "word": "less",
+            "start": 1.78,
+            "end": 1.92
+          },
+          {
+            "word": "about",
+            "start": 1.92,
+            "end": 2.24
+          },
+          {
+            "word": "having",
+            "start": 2.24,
+            "end": 2.58
+          },
+          {
+            "word": "the",
+            "start": 2.58,
+            "end": 2.78
+          },
+          {
+            "word": "best",
+            "start": 2.78,
+            "end": 3
+          },
+          {
+            "word": "idea",
+            "start": 3,
+            "end": 3.52
+          },
+          {
+            "word": "and",
+            "start": 3.52,
+            "end": 3.94
+          },
+          {
+            "word": "more",
+            "start": 3.94,
+            "end": 4.28
+          },
+          {
+            "word": "about",
+            "start": 4.28,
+            "end": 4.56
+          },
+          {
+            "word": "helping",
+            "start": 4.56,
+            "end": 4.94
+          },
+          {
+            "word": "people",
+            "start": 4.94,
+            "end": 5.3
+          },
+          {
+            "word": "see",
+            "start": 5.3,
+            "end": 5.64
+          },
+          {
+            "word": "the",
+            "start": 5.64,
+            "end": 5.84
+          },
+          {
+            "word": "potential",
+            "start": 5.84,
+            "end": 6.4
+          },
+          {
+            "word": "in",
+            "start": 6.4,
+            "end": 6.66
+          },
+          {
+            "word": "different",
+            "start": 6.66,
+            "end": 6.98
+          },
+          {
+            "word": "ideas.",
+            "start": 6.98,
+            "end": 7.4
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene19.mp3",
+        "duration": 7.656875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 20,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.376875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "What about the afternoon slump? Do you have any tricks to power through that?",
+        "captionTimestamps": [
+          {
+            "word": "What",
+            "start": 0,
+            "end": 0.2
+          },
+          {
+            "word": "about",
+            "start": 0.2,
+            "end": 0.36
+          },
+          {
+            "word": "the",
+            "start": 0.36,
+            "end": 0.54
+          },
+          {
+            "word": "afternoon",
+            "start": 0.54,
+            "end": 0.92
+          },
+          {
+            "word": "slump?",
+            "start": 0.92,
+            "end": 1.48
+          },
+          {
+            "word": "Do",
+            "start": 1.98,
+            "end": 2.06
+          },
+          {
+            "word": "you",
+            "start": 2.06,
+            "end": 2.16
+          },
+          {
+            "word": "have",
+            "start": 2.16,
+            "end": 2.3
+          },
+          {
+            "word": "any",
+            "start": 2.3,
+            "end": 2.44
+          },
+          {
+            "word": "tricks",
+            "start": 2.44,
+            "end": 2.76
+          },
+          {
+            "word": "to",
+            "start": 2.76,
+            "end": 3
+          },
+          {
+            "word": "power",
+            "start": 3,
+            "end": 3.36
+          },
+          {
+            "word": "through",
+            "start": 3.36,
+            "end": 3.66
+          },
+          {
+            "word": "that?",
+            "start": 3.66,
+            "end": 3.9
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene20.mp3",
+        "duration": 4.376875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 21,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.376875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I try to get outside for a proper walk. Even fifteen minutes makes a massive difference.",
+        "captionTimestamps": [
+          {
+            "word": "I",
+            "start": 0,
+            "end": 0.26
+          },
+          {
+            "word": "try",
+            "start": 0.26,
+            "end": 0.56
+          },
+          {
+            "word": "to",
+            "start": 0.56,
+            "end": 0.68
+          },
+          {
+            "word": "get",
+            "start": 0.68,
+            "end": 0.82
+          },
+          {
+            "word": "outside",
+            "start": 0.82,
+            "end": 1.16
+          },
+          {
+            "word": "for",
+            "start": 1.16,
+            "end": 1.54
+          },
+          {
+            "word": "a",
+            "start": 1.54,
+            "end": 1.72
+          },
+          {
+            "word": "proper",
+            "start": 1.72,
+            "end": 2
+          },
+          {
+            "word": "walk,",
+            "start": 2,
+            "end": 2.44
+          },
+          {
+            "word": "even",
+            "start": 3,
+            "end": 3.32
+          },
+          {
+            "word": "15",
+            "start": 3.32,
+            "end": 3.96
+          },
+          {
+            "word": "minutes",
+            "start": 3.96,
+            "end": 4.46
+          },
+          {
+            "word": "makes",
+            "start": 4.46,
+            "end": 4.74
+          },
+          {
+            "word": "a",
+            "start": 4.74,
+            "end": 4.94
+          },
+          {
+            "word": "massive",
+            "start": 4.94,
+            "end": 5.34
+          },
+          {
+            "word": "difference.",
+            "start": 5.34,
+            "end": 5.96
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene21.mp3",
+        "duration": 6.376875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 22,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.536875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It’s amazing how much we underestimate the power of just stepping away from a desk.",
+        "captionTimestamps": [
+          {
+            "word": "It's",
+            "start": 0,
+            "end": 0.2
+          },
+          {
+            "word": "amazing",
+            "start": 0.2,
+            "end": 0.58
+          },
+          {
+            "word": "how",
+            "start": 0.58,
+            "end": 0.8
+          },
+          {
+            "word": "much",
+            "start": 0.8,
+            "end": 1
+          },
+          {
+            "word": "we",
+            "start": 1,
+            "end": 1.12
+          },
+          {
+            "word": "underestimate",
+            "start": 1.12,
+            "end": 1.66
+          },
+          {
+            "word": "the",
+            "start": 1.66,
+            "end": 2
+          },
+          {
+            "word": "power",
+            "start": 2,
+            "end": 2.3
+          },
+          {
+            "word": "of",
+            "start": 2.3,
+            "end": 2.48
+          },
+          {
+            "word": "just",
+            "start": 2.48,
+            "end": 2.7
+          },
+          {
+            "word": "stepping",
+            "start": 2.7,
+            "end": 3.32
+          },
+          {
+            "word": "away",
+            "start": 3.32,
+            "end": 3.66
+          },
+          {
+            "word": "from",
+            "start": 3.66,
+            "end": 3.9
+          },
+          {
+            "word": "a",
+            "start": 3.9,
+            "end": 4.02
+          },
+          {
+            "word": "desk.",
+            "start": 4.02,
+            "end": 4.38
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene22.mp3",
+        "duration": 4.536875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 23,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.856875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It resets the brain. By the time I get back to the desk, my perspective is totally different.",
+        "captionTimestamps": [
+          {
+            "word": "It",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "resets",
+            "start": 0.18,
+            "end": 0.66
+          },
+          {
+            "word": "the",
+            "start": 0.66,
+            "end": 0.96
+          },
+          {
+            "word": "brain.",
+            "start": 0.96,
+            "end": 1.26
+          },
+          {
+            "word": "By",
+            "start": 2.04,
+            "end": 2.18
+          },
+          {
+            "word": "the",
+            "start": 2.18,
+            "end": 2.32
+          },
+          {
+            "word": "time",
+            "start": 2.32,
+            "end": 2.58
+          },
+          {
+            "word": "I",
+            "start": 2.58,
+            "end": 2.78
+          },
+          {
+            "word": "get",
+            "start": 2.78,
+            "end": 2.94
+          },
+          {
+            "word": "back",
+            "start": 2.94,
+            "end": 3.16
+          },
+          {
+            "word": "to",
+            "start": 3.16,
+            "end": 3.38
+          },
+          {
+            "word": "the",
+            "start": 3.38,
+            "end": 3.54
+          },
+          {
+            "word": "desk,",
+            "start": 3.54,
+            "end": 3.92
+          },
+          {
+            "word": "my",
+            "start": 4.36,
+            "end": 4.58
+          },
+          {
+            "word": "perspective",
+            "start": 4.58,
+            "end": 5.12
+          },
+          {
+            "word": "is",
+            "start": 5.12,
+            "end": 5.46
+          },
+          {
+            "word": "totally",
+            "start": 5.46,
+            "end": 6.1
+          },
+          {
+            "word": "different.",
+            "start": 6.1,
+            "end": 6.6
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene23.mp3",
+        "duration": 6.856875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 24,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 4.616875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "What about winding down? Do you have a specific evening routine to decompress?",
+        "captionTimestamps": [
+          {
+            "word": "What",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "about",
+            "start": 0.18,
+            "end": 0.32
+          },
+          {
+            "word": "winding",
+            "start": 0.32,
+            "end": 0.68
+          },
+          {
+            "word": "down?",
+            "start": 0.68,
+            "end": 1.02
+          },
+          {
+            "word": "Do",
+            "start": 1.94,
+            "end": 2.06
+          },
+          {
+            "word": "you",
+            "start": 2.06,
+            "end": 2.16
+          },
+          {
+            "word": "have",
+            "start": 2.16,
+            "end": 2.28
+          },
+          {
+            "word": "a",
+            "start": 2.28,
+            "end": 2.36
+          },
+          {
+            "word": "specific",
+            "start": 2.36,
+            "end": 2.76
+          },
+          {
+            "word": "evening",
+            "start": 2.76,
+            "end": 3.2
+          },
+          {
+            "word": "routine",
+            "start": 3.2,
+            "end": 3.62
+          },
+          {
+            "word": "to",
+            "start": 3.62,
+            "end": 3.86
+          },
+          {
+            "word": "decompress?",
+            "start": 3.86,
+            "end": 4.42
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene24.mp3",
+        "duration": 4.616875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 25,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.976875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I try to avoid screens completely for an hour before bed. I read physical books or just cook.",
+        "captionTimestamps": [
+          {
+            "word": "I",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "tried",
+            "start": 0.18,
+            "end": 0.38
+          },
+          {
+            "word": "to",
+            "start": 0.38,
+            "end": 0.6
+          },
+          {
+            "word": "avoid",
+            "start": 0.6,
+            "end": 0.88
+          },
+          {
+            "word": "screens",
+            "start": 0.88,
+            "end": 1.3
+          },
+          {
+            "word": "completely",
+            "start": 1.3,
+            "end": 1.92
+          },
+          {
+            "word": "for",
+            "start": 1.92,
+            "end": 2.26
+          },
+          {
+            "word": "an",
+            "start": 2.26,
+            "end": 2.42
+          },
+          {
+            "word": "hour",
+            "start": 2.42,
+            "end": 2.7
+          },
+          {
+            "word": "before",
+            "start": 2.7,
+            "end": 3.02
+          },
+          {
+            "word": "bed.",
+            "start": 3.02,
+            "end": 3.28
+          },
+          {
+            "word": "I",
+            "start": 3.9,
+            "end": 4
+          },
+          {
+            "word": "read",
+            "start": 4,
+            "end": 4.2
+          },
+          {
+            "word": "physical",
+            "start": 4.2,
+            "end": 4.68
+          },
+          {
+            "word": "books",
+            "start": 4.68,
+            "end": 5.06
+          },
+          {
+            "word": "or",
+            "start": 5.06,
+            "end": 5.34
+          },
+          {
+            "word": "just",
+            "start": 5.34,
+            "end": 5.6
+          },
+          {
+            "word": "cook.",
+            "start": 5.6,
+            "end": 5.84
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene25.mp3",
+        "duration": 5.976875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 26,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.136875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sarah, this has been such an incredible look into your world. Thank you so much for sharing your day with us.",
+        "captionTimestamps": [
+          {
+            "word": "Sarah,",
+            "start": 0,
+            "end": 0.34
+          },
+          {
+            "word": "this",
+            "start": 0.8,
+            "end": 1.02
+          },
+          {
+            "word": "has",
+            "start": 1.02,
+            "end": 1.14
+          },
+          {
+            "word": "been",
+            "start": 1.14,
+            "end": 1.28
+          },
+          {
+            "word": "such",
+            "start": 1.28,
+            "end": 1.72
+          },
+          {
+            "word": "an",
+            "start": 1.72,
+            "end": 1.9
+          },
+          {
+            "word": "incredible",
+            "start": 1.9,
+            "end": 2.38
+          },
+          {
+            "word": "look",
+            "start": 2.38,
+            "end": 2.64
+          },
+          {
+            "word": "into",
+            "start": 2.64,
+            "end": 2.92
+          },
+          {
+            "word": "your",
+            "start": 2.92,
+            "end": 3.06
+          },
+          {
+            "word": "world.",
+            "start": 3.06,
+            "end": 3.4
+          },
+          {
+            "word": "Thank",
+            "start": 3.9,
+            "end": 4.18
+          },
+          {
+            "word": "you",
+            "start": 4.18,
+            "end": 4.36
+          },
+          {
+            "word": "so",
+            "start": 4.36,
+            "end": 4.56
+          },
+          {
+            "word": "much",
+            "start": 4.56,
+            "end": 4.78
+          },
+          {
+            "word": "for",
+            "start": 4.78,
+            "end": 4.88
+          },
+          {
+            "word": "sharing",
+            "start": 4.88,
+            "end": 5.2
+          },
+          {
+            "word": "your",
+            "start": 5.2,
+            "end": 5.38
+          },
+          {
+            "word": "day",
+            "start": 5.38,
+            "end": 5.56
+          },
+          {
+            "word": "with",
+            "start": 5.56,
+            "end": 5.72
+          },
+          {
+            "word": "us.",
+            "start": 5.72,
+            "end": 5.96
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene26.mp3",
+        "duration": 6.136875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 27,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.096875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "My pleasure! I hope it inspires some of you to build better routines.",
+        "captionTimestamps": [
+          {
+            "word": "My",
+            "start": 0,
+            "end": 0.42
+          },
+          {
+            "word": "pleasure.",
+            "start": 0.42,
+            "end": 1.14
+          },
+          {
+            "word": "I",
+            "start": 1.8,
+            "end": 2.06
+          },
+          {
+            "word": "hope",
+            "start": 2.06,
+            "end": 2.3
+          },
+          {
+            "word": "it",
+            "start": 2.3,
+            "end": 2.46
+          },
+          {
+            "word": "inspires",
+            "start": 2.46,
+            "end": 2.8
+          },
+          {
+            "word": "some",
+            "start": 2.8,
+            "end": 3.22
+          },
+          {
+            "word": "of",
+            "start": 3.22,
+            "end": 3.36
+          },
+          {
+            "word": "you",
+            "start": 3.36,
+            "end": 3.46
+          },
+          {
+            "word": "to",
+            "start": 3.46,
+            "end": 3.62
+          },
+          {
+            "word": "build",
+            "start": 3.62,
+            "end": 3.8
+          },
+          {
+            "word": "better",
+            "start": 3.8,
+            "end": 4.14
+          },
+          {
+            "word": "routines.",
+            "start": 4.14,
+            "end": 4.6
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene27.mp3",
+        "duration": 5.096875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 28,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.176875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "https://cdn.pixabay.com/photo/2024/04/11/02/58/ai-generated-8689062_1280.png",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Listeners, remember to check out Sarah's work. And thank you all for tuning in!",
+        "captionTimestamps": [
+          {
+            "word": "Listeners,",
+            "start": 0,
+            "end": 0.6
+          },
+          {
+            "word": "remember",
+            "start": 0.9,
+            "end": 1.3
+          },
+          {
+            "word": "to",
+            "start": 1.3,
+            "end": 1.5
+          },
+          {
+            "word": "check",
+            "start": 1.5,
+            "end": 1.68
+          },
+          {
+            "word": "out",
+            "start": 1.68,
+            "end": 2
+          },
+          {
+            "word": "Sarah's",
+            "start": 2,
+            "end": 2.52
+          },
+          {
+            "word": "work",
+            "start": 2.52,
+            "end": 2.78
+          },
+          {
+            "word": "and",
+            "start": 2.78,
+            "end": 3.4
+          },
+          {
+            "word": "thank",
+            "start": 3.4,
+            "end": 3.66
+          },
+          {
+            "word": "you",
+            "start": 3.66,
+            "end": 3.94
+          },
+          {
+            "word": "all",
+            "start": 3.94,
+            "end": 4.12
+          },
+          {
+            "word": "for",
+            "start": 4.12,
+            "end": 4.32
+          },
+          {
+            "word": "tuning",
+            "start": 4.32,
+            "end": 4.66
+          },
+          {
+            "word": "in.",
+            "start": 4.66,
+            "end": 4.96
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-JE645WGG/audio/scene28.mp3",
+        "duration": 5.176875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
