@@ -1,0 +1,431 @@
+{
+  "title": "Deriving Scene Count for Timing Tests",
+  "description": "A deep dive into the methodology behind using an 8-minute duration test to accurately verify scene count derivation in technical media production.",
+  "type": "podcast",
+  "tags": [
+    "podcast",
+    "audio engineering",
+    "media tech",
+    "scene counting",
+    "duration testing"
+  ],
+  "thumbnailPrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Welcome back. Today we’re tackling something really niche: verifying scene count derivation using an 8-minute duration test.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Welcome back. Today we’re tackling something really niche: verifying scene count derivation using an 8-minute duration test.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It sounds hyper-specific, but at its core, it’s about ensuring consistency. We’re basically measuring rhythm and pacing against a known time frame.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It sounds hyper-specific, but at its core, it’s about ensuring consistency. We’re basically measuring rhythm and pacing against a known time frame.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Right. So when you say 'derivation,' are we talking about a specific formula or methodology that ties the duration to the count?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Right. So when you say 'derivation,' are we talking about a specific formula or methodology that ties the duration to the count?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly. The process requires establishing an average scene length, which is then calculated by dividing the total duration—our 8 minutes—by the expected number of scenes.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Exactly. The process requires establishing an average scene length, which is then calculated by dividing the total duration—our 8 minutes—by the expected number of scenes.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "But doesn't the complexity of a scene factor into that average? Is it just a simple division?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "But doesn't the complexity of a scene factor into that average? Is it just a simple division?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Not necessarily. You have to factor in the perceived effort or cognitive load for each scene type. A montage is different from a scripted interview segment.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Not necessarily. You have to factor in the perceived effort or cognitive load for each scene type. A montage is different from a scripted interview segment.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So you’re essentially adjusting the variable based on genre? That adds a layer of subjective judgment to an objective measurement.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "So you’re essentially adjusting the variable based on genre? That adds a layer of subjective judgment to an objective measurement.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It is subjective, but that’s where the testing comes in. By running multiple 8-minute samples across various genres, you build an empirical model to minimize bias.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It is subjective, but that’s where the testing comes in. By running multiple 8-minute samples across various genres, you build an empirical model to minimize bias.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 9,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I find that fascinating. Does this process work if the content is heavily dialogue-driven versus soundscape-heavy?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "I find that fascinating. Does this process work if the content is heavily dialogue-driven versus soundscape-heavy?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 10,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It shifts the variables dramatically. Dialogue-heavy content tends to have shorter scene derivations per unit of time compared to visual soundscapes.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It shifts the variables dramatically. Dialogue-heavy content tends to have shorter scene derivations per unit of time compared to visual soundscapes.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 11,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So the derivation isn't just about counting; it’s really about modeling pacing for a specific medium.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "So the derivation isn't just about counting; it’s really about modeling pacing for a specific medium.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 12,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly. It’s predictive analysis. You use the 8-minute test to validate whether your proposed scene count is artistically and technically sound for the audience.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Exactly. It’s predictive analysis. You use the 8-minute test to validate whether your proposed scene count is artistically and technically sound for the audience.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 13,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Wow. It sounds like this methodology is crucial for maintaining a professional standard across various production houses.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Wow. It sounds like this methodology is crucial for maintaining a professional standard across various production houses.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 14,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It is. Rigor in timing prevents the listener from getting lost or bored. The numbers have to reflect the human experience.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It is. Rigor in timing prevents the listener from getting lost or bored. The numbers have to reflect the human experience.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Dylan"
+      }
+    },
+    {
+      "sceneNumber": 15,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "This has been incredibly insightful. So we’ve covered everything from basic division to modeling cognitive load.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "This has been incredibly insightful. So we’ve covered everything from basic division to modeling cognitive load.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 16,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks so much for breaking down the science of podcast pacing with me today. Until next time!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks so much for breaking down the science of podcast pacing with me today. Until next time!",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    }
+  ]
+}
