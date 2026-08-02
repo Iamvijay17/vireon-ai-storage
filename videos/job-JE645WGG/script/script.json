@@ -1,0 +1,742 @@
+{
+  "title": "A Day in My Life: The Creative Routine",
+  "description": "Joining us today is Sarah, an acclaimed architect, who gives us an intimate look into her demanding yet creative daily routine.",
+  "type": "podcast",
+  "tags": [
+    "daily life",
+    "career insights",
+    "routine",
+    "creativity"
+  ],
+  "thumbnailPrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Welcome back to the podcast! Today we have such a treat; we're talking about 'A Day in My Life.'",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Welcome back to the podcast! Today we have such a treat; we're talking about 'A Day in My Life.'",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "With Sarah, an incredible architect. Sarah, thanks so much for joining us.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "With Sarah, an incredible architect. Sarah, thanks so much for joining us.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks for having me! It's genuinely fun to talk about this.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Thanks for having me! It's genuinely fun to talk about this.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So, people are so curious about what a typical day is like when you're designing big buildings.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "So, people are so curious about what a typical day is like when you're designing big buildings.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Does your day start early? What's the first thing you do?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Does your day start early? What's the first thing you do?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Oh yeah, I'm an early riser. I usually wake up around 6:30 AM.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Oh yeah, I'm an early riser. I usually wake up around 6:30 AM.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "The very first thing I do is walk and listen to a podcast. It helps me clear my head.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "The very first thing I do is walk and listen to a podcast. It helps me clear my head.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Wow, so the physical movement helps with creative thinking. I love that tip.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Wow, so the physical movement helps with creative thinking. I love that tip.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 9,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It really does. It gets the blood flowing and helps me transition into a creative headspace.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It really does. It gets the blood flowing and helps me transition into a creative headspace.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 10,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "And then what happens once you get to the office? Is it right into work?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "And then what happens once you get to the office? Is it right into work?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 11,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Not exactly. I build in a slow start. Coffee and reading are non-negotiable.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Not exactly. I build in a slow start. Coffee and reading are non-negotiable.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 12,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I feel like every creative person needs a ritual to start the day. What does that look like?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "I feel like every creative person needs a ritual to start the day. What does that look like?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 13,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Mine is really about disconnecting first. No emails, no client calls for the first hour.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Mine is really about disconnecting first. No emails, no client calls for the first hour.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 14,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "That makes so much sense. It sounds like you prioritize deep work time early on.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "That makes so much sense. It sounds like you prioritize deep work time early on.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 15,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly. I use that time for sketching or just messing around with ideas before the demands start coming in.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Exactly. I use that time for sketching or just messing around with ideas before the demands start coming in.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 16,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "And when you get to the collaborative part of your day—meeting with people?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "And when you get to the collaborative part of your day—meeting with people?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 17,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Those meetings are usually where the friction happens. It’s about mediating creative ideas.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Those meetings are usually where the friction happens. It’s about mediating creative ideas.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 18,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So you have to be a good facilitator as much as a designer? That's huge.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "So you have to be a good facilitator as much as a designer? That's huge.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 19,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Absolutely. It’s less about having the best idea and more about helping people see the potential in different ideas.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Absolutely. It’s less about having the best idea and more about helping people see the potential in different ideas.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 20,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "What about the afternoon slump? Do you have any tricks to power through that?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "What about the afternoon slump? Do you have any tricks to power through that?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 21,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I try to get outside for a proper walk. Even fifteen minutes makes a massive difference.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "I try to get outside for a proper walk. Even fifteen minutes makes a massive difference.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 22,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It’s amazing how much we underestimate the power of just stepping away from a desk.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It’s amazing how much we underestimate the power of just stepping away from a desk.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 23,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It resets the brain. By the time I get back to the desk, my perspective is totally different.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "It resets the brain. By the time I get back to the desk, my perspective is totally different.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 24,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "What about winding down? Do you have a specific evening routine to decompress?",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "What about winding down? Do you have a specific evening routine to decompress?",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 25,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I try to avoid screens completely for an hour before bed. I read physical books or just cook.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "I try to avoid screens completely for an hour before bed. I read physical books or just cook.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 26,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Sarah, this has been such an incredible look into your world. Thank you so much for sharing your day with us.",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Sarah, this has been such an incredible look into your world. Thank you so much for sharing your day with us.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    },
+    {
+      "sceneNumber": 27,
+      "sceneType": "image",
+      "speaker": "guest",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "My pleasure! I hope it inspires some of you to build better routines.",
+        "captionTimestamps": null,
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "My pleasure! I hope it inspires some of you to build better routines.",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Ono_anna"
+      }
+    },
+    {
+      "sceneNumber": 28,
+      "sceneType": "image",
+      "speaker": "host",
+      "title": "",
+      "subtitle": "",
+      "duration": 0,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "warm studio lighting, abstract geometric shapes in earthy tones (terracotta, sage green), no readable text, soft focus background",
+      "cameraMotion": "static",
+      "animation": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Listeners, remember to check out Sarah's work. And thank you all for tuning in!",
+        "captionTimestamps": null,
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "text": "Listeners, remember to check out Sarah's work. And thank you all for tuning in!",
+        "file": "",
+        "duration": 0,
+        "voice": "custom:Aiden"
+      }
+    }
+  ]
+}
