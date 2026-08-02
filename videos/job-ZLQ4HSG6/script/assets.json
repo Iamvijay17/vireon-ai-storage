@@ -1,0 +1,2216 @@
+{
+  "title": "Deriving Scene Count for Timing Tests",
+  "description": "A deep dive into the methodology behind using an 8-minute duration test to accurately verify scene count derivation in technical media production.",
+  "resolution": "1920x1080",
+  "aspectRatio": "16:9",
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 8.536875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Welcome back. Today we’re tackling something really niche: verifying scene count derivation using an 8-minute duration test.",
+        "captionTimestamps": [
+          {
+            "word": "Welcome",
+            "start": 0,
+            "end": 0.26
+          },
+          {
+            "word": "back.",
+            "start": 0.26,
+            "end": 0.54
+          },
+          {
+            "word": "Today,",
+            "start": 1.18,
+            "end": 1.4
+          },
+          {
+            "word": "we're",
+            "start": 1.6,
+            "end": 1.86
+          },
+          {
+            "word": "tackling",
+            "start": 1.86,
+            "end": 2.24
+          },
+          {
+            "word": "something",
+            "start": 2.24,
+            "end": 2.74
+          },
+          {
+            "word": "really",
+            "start": 2.74,
+            "end": 3.32
+          },
+          {
+            "word": "niche,",
+            "start": 3.32,
+            "end": 3.8
+          },
+          {
+            "word": "verifying",
+            "start": 4.36,
+            "end": 4.82
+          },
+          {
+            "word": "scene",
+            "start": 4.82,
+            "end": 5.28
+          },
+          {
+            "word": "count",
+            "start": 5.28,
+            "end": 5.72
+          },
+          {
+            "word": "derivation",
+            "start": 5.72,
+            "end": 6.4
+          },
+          {
+            "word": "using",
+            "start": 6.4,
+            "end": 6.8
+          },
+          {
+            "word": "an",
+            "start": 6.8,
+            "end": 7.02
+          },
+          {
+            "word": "8",
+            "start": 7.02,
+            "end": 7.38
+          },
+          {
+            "word": "-minute",
+            "start": 7.38,
+            "end": 7.56
+          },
+          {
+            "word": "duration",
+            "start": 7.56,
+            "end": 8.06
+          },
+          {
+            "word": "test.",
+            "start": 8.06,
+            "end": 8.34
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene1.mp3",
+        "duration": 8.536875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 2,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 9.336875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It sounds hyper-specific, but at its core, it’s about ensuring consistency. We’re basically measuring rhythm and pacing against a known time frame.",
+        "captionTimestamps": [
+          {
+            "word": "It",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "sounds",
+            "start": 0.14,
+            "end": 0.5
+          },
+          {
+            "word": "hyper",
+            "start": 0.5,
+            "end": 0.86
+          },
+          {
+            "word": "-specific,",
+            "start": 0.86,
+            "end": 1.32
+          },
+          {
+            "word": "but",
+            "start": 1.32,
+            "end": 1.68
+          },
+          {
+            "word": "at",
+            "start": 1.68,
+            "end": 1.92
+          },
+          {
+            "word": "its",
+            "start": 1.92,
+            "end": 2.14
+          },
+          {
+            "word": "core,",
+            "start": 2.14,
+            "end": 2.46
+          },
+          {
+            "word": "it's",
+            "start": 2.84,
+            "end": 2.98
+          },
+          {
+            "word": "about",
+            "start": 2.98,
+            "end": 3.18
+          },
+          {
+            "word": "ensuring",
+            "start": 3.18,
+            "end": 3.64
+          },
+          {
+            "word": "consistency.",
+            "start": 3.64,
+            "end": 4.52
+          },
+          {
+            "word": "We're",
+            "start": 5.02,
+            "end": 5.42
+          },
+          {
+            "word": "basically",
+            "start": 5.42,
+            "end": 5.88
+          },
+          {
+            "word": "measuring",
+            "start": 5.88,
+            "end": 6.32
+          },
+          {
+            "word": "rhythm",
+            "start": 6.32,
+            "end": 6.8
+          },
+          {
+            "word": "and",
+            "start": 6.8,
+            "end": 7.1
+          },
+          {
+            "word": "pacing",
+            "start": 7.1,
+            "end": 7.52
+          },
+          {
+            "word": "against",
+            "start": 7.52,
+            "end": 8.06
+          },
+          {
+            "word": "the",
+            "start": 8.06,
+            "end": 8.3
+          },
+          {
+            "word": "known",
+            "start": 8.3,
+            "end": 8.58
+          },
+          {
+            "word": "time",
+            "start": 8.58,
+            "end": 8.98
+          },
+          {
+            "word": "frame.",
+            "start": 8.98,
+            "end": 9.3
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene2.mp3",
+        "duration": 9.336875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 3,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 8.616875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Right. So when you say 'derivation,' are we talking about a specific formula or methodology that ties the duration to the count?",
+        "captionTimestamps": [
+          {
+            "word": "Right.",
+            "start": 0,
+            "end": 0.26
+          },
+          {
+            "word": "So",
+            "start": 0.82,
+            "end": 0.9
+          },
+          {
+            "word": "when",
+            "start": 0.9,
+            "end": 1.08
+          },
+          {
+            "word": "you",
+            "start": 1.08,
+            "end": 1.2
+          },
+          {
+            "word": "say",
+            "start": 1.2,
+            "end": 1.46
+          },
+          {
+            "word": "derivation,",
+            "start": 1.46,
+            "end": 2.32
+          },
+          {
+            "word": "are",
+            "start": 2.48,
+            "end": 2.62
+          },
+          {
+            "word": "we",
+            "start": 2.62,
+            "end": 2.72
+          },
+          {
+            "word": "talking",
+            "start": 2.72,
+            "end": 3.02
+          },
+          {
+            "word": "about",
+            "start": 3.02,
+            "end": 3.34
+          },
+          {
+            "word": "a",
+            "start": 3.34,
+            "end": 3.44
+          },
+          {
+            "word": "specific",
+            "start": 3.44,
+            "end": 3.86
+          },
+          {
+            "word": "formula",
+            "start": 3.86,
+            "end": 4.48
+          },
+          {
+            "word": "or",
+            "start": 4.48,
+            "end": 4.92
+          },
+          {
+            "word": "methodology",
+            "start": 4.92,
+            "end": 5.66
+          },
+          {
+            "word": "that",
+            "start": 5.66,
+            "end": 6.5
+          },
+          {
+            "word": "ties",
+            "start": 6.5,
+            "end": 7.02
+          },
+          {
+            "word": "the",
+            "start": 7.02,
+            "end": 7.26
+          },
+          {
+            "word": "duration",
+            "start": 7.26,
+            "end": 7.76
+          },
+          {
+            "word": "to",
+            "start": 7.76,
+            "end": 8.02
+          },
+          {
+            "word": "the",
+            "start": 8.02,
+            "end": 8.1
+          },
+          {
+            "word": "count?",
+            "start": 8.1,
+            "end": 8.48
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene3.mp3",
+        "duration": 8.616875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 4,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 11.096875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly. The process requires establishing an average scene length, which is then calculated by dividing the total duration—our 8 minutes—by the expected number of scenes.",
+        "captionTimestamps": [
+          {
+            "word": "Exactly.",
+            "start": 0,
+            "end": 0.36
+          },
+          {
+            "word": "The",
+            "start": 1.02,
+            "end": 1.12
+          },
+          {
+            "word": "process",
+            "start": 1.12,
+            "end": 1.52
+          },
+          {
+            "word": "requires",
+            "start": 1.52,
+            "end": 1.98
+          },
+          {
+            "word": "establishing",
+            "start": 1.98,
+            "end": 2.86
+          },
+          {
+            "word": "an",
+            "start": 2.86,
+            "end": 3.06
+          },
+          {
+            "word": "average",
+            "start": 3.06,
+            "end": 3.5
+          },
+          {
+            "word": "scene",
+            "start": 3.5,
+            "end": 3.94
+          },
+          {
+            "word": "length,",
+            "start": 3.94,
+            "end": 4.28
+          },
+          {
+            "word": "which",
+            "start": 4.58,
+            "end": 4.8
+          },
+          {
+            "word": "is",
+            "start": 4.8,
+            "end": 4.96
+          },
+          {
+            "word": "then",
+            "start": 4.96,
+            "end": 5.2
+          },
+          {
+            "word": "calculated",
+            "start": 5.2,
+            "end": 5.84
+          },
+          {
+            "word": "by",
+            "start": 5.84,
+            "end": 6.2
+          },
+          {
+            "word": "dividing",
+            "start": 6.2,
+            "end": 6.6
+          },
+          {
+            "word": "the",
+            "start": 6.6,
+            "end": 6.86
+          },
+          {
+            "word": "total",
+            "start": 6.86,
+            "end": 7.16
+          },
+          {
+            "word": "duration.",
+            "start": 7.16,
+            "end": 7.62
+          },
+          {
+            "word": "Our",
+            "start": 8.24,
+            "end": 8.5
+          },
+          {
+            "word": "8",
+            "start": 8.5,
+            "end": 8.82
+          },
+          {
+            "word": "minutes",
+            "start": 8.82,
+            "end": 9.16
+          },
+          {
+            "word": "by",
+            "start": 9.16,
+            "end": 9.5
+          },
+          {
+            "word": "the",
+            "start": 9.5,
+            "end": 9.68
+          },
+          {
+            "word": "expected",
+            "start": 9.68,
+            "end": 10.18
+          },
+          {
+            "word": "number",
+            "start": 10.18,
+            "end": 10.58
+          },
+          {
+            "word": "of",
+            "start": 10.58,
+            "end": 10.82
+          },
+          {
+            "word": "C.",
+            "start": 10.82,
+            "end": 10.98
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene4.mp3",
+        "duration": 11.096875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 5,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.176875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "But doesn't the complexity of a scene factor into that average? Is it just a simple division?",
+        "captionTimestamps": [
+          {
+            "word": "But",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "doesn't",
+            "start": 0.14,
+            "end": 0.48
+          },
+          {
+            "word": "the",
+            "start": 0.48,
+            "end": 0.58
+          },
+          {
+            "word": "complexity",
+            "start": 0.58,
+            "end": 1.26
+          },
+          {
+            "word": "of",
+            "start": 1.26,
+            "end": 1.56
+          },
+          {
+            "word": "a",
+            "start": 1.56,
+            "end": 1.64
+          },
+          {
+            "word": "scene",
+            "start": 1.64,
+            "end": 1.86
+          },
+          {
+            "word": "factor",
+            "start": 1.86,
+            "end": 2.3
+          },
+          {
+            "word": "into",
+            "start": 2.3,
+            "end": 2.56
+          },
+          {
+            "word": "that",
+            "start": 2.56,
+            "end": 2.78
+          },
+          {
+            "word": "average?",
+            "start": 2.78,
+            "end": 3.08
+          },
+          {
+            "word": "Is",
+            "start": 3.62,
+            "end": 3.76
+          },
+          {
+            "word": "it",
+            "start": 3.76,
+            "end": 3.86
+          },
+          {
+            "word": "just",
+            "start": 3.86,
+            "end": 4.02
+          },
+          {
+            "word": "a",
+            "start": 4.02,
+            "end": 4.2
+          },
+          {
+            "word": "simple",
+            "start": 4.2,
+            "end": 4.52
+          },
+          {
+            "word": "division?",
+            "start": 4.52,
+            "end": 4.86
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene5.mp3",
+        "duration": 5.176875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 6,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 12.936875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Not necessarily. You have to factor in the perceived effort or cognitive load for each scene type. A montage is different from a scripted interview segment.",
+        "captionTimestamps": [
+          {
+            "word": "Not",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "necessarily,",
+            "start": 0.22,
+            "end": 0.98
+          },
+          {
+            "word": "you",
+            "start": 1.6,
+            "end": 1.7
+          },
+          {
+            "word": "have",
+            "start": 1.7,
+            "end": 1.94
+          },
+          {
+            "word": "to",
+            "start": 1.94,
+            "end": 2.2
+          },
+          {
+            "word": "factor",
+            "start": 2.2,
+            "end": 2.66
+          },
+          {
+            "word": "in",
+            "start": 2.66,
+            "end": 3.04
+          },
+          {
+            "word": "the",
+            "start": 3.04,
+            "end": 3.36
+          },
+          {
+            "word": "perceived",
+            "start": 3.36,
+            "end": 3.88
+          },
+          {
+            "word": "effort",
+            "start": 3.88,
+            "end": 4.5
+          },
+          {
+            "word": "or",
+            "start": 4.5,
+            "end": 5.06
+          },
+          {
+            "word": "cognitive",
+            "start": 5.06,
+            "end": 5.6
+          },
+          {
+            "word": "load",
+            "start": 5.6,
+            "end": 6.32
+          },
+          {
+            "word": "for",
+            "start": 6.32,
+            "end": 7.08
+          },
+          {
+            "word": "each",
+            "start": 7.08,
+            "end": 7.42
+          },
+          {
+            "word": "sin",
+            "start": 7.42,
+            "end": 7.78
+          },
+          {
+            "word": "type.",
+            "start": 7.78,
+            "end": 8.3
+          },
+          {
+            "word": "A",
+            "start": 8.88,
+            "end": 8.98
+          },
+          {
+            "word": "montage",
+            "start": 8.98,
+            "end": 9.4
+          },
+          {
+            "word": "is",
+            "start": 9.4,
+            "end": 9.88
+          },
+          {
+            "word": "different",
+            "start": 9.88,
+            "end": 10.28
+          },
+          {
+            "word": "from",
+            "start": 10.28,
+            "end": 10.72
+          },
+          {
+            "word": "a",
+            "start": 10.72,
+            "end": 11.02
+          },
+          {
+            "word": "scripted",
+            "start": 11.02,
+            "end": 11.74
+          },
+          {
+            "word": "interview",
+            "start": 11.74,
+            "end": 12.22
+          },
+          {
+            "word": "segment.",
+            "start": 12.22,
+            "end": 12.76
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene6.mp3",
+        "duration": 12.936875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 7,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 7.496875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So you’re essentially adjusting the variable based on genre? That adds a layer of subjective judgment to an objective measurement.",
+        "captionTimestamps": [
+          {
+            "word": "So",
+            "start": 0,
+            "end": 0.18
+          },
+          {
+            "word": "you're",
+            "start": 0.18,
+            "end": 0.32
+          },
+          {
+            "word": "essentially",
+            "start": 0.32,
+            "end": 0.76
+          },
+          {
+            "word": "adjusting",
+            "start": 0.76,
+            "end": 1.26
+          },
+          {
+            "word": "the",
+            "start": 1.26,
+            "end": 1.5
+          },
+          {
+            "word": "variable",
+            "start": 1.5,
+            "end": 1.9
+          },
+          {
+            "word": "based",
+            "start": 1.9,
+            "end": 2.36
+          },
+          {
+            "word": "on",
+            "start": 2.36,
+            "end": 2.56
+          },
+          {
+            "word": "genre",
+            "start": 2.56,
+            "end": 2.96
+          },
+          {
+            "word": "that",
+            "start": 2.96,
+            "end": 3.8
+          },
+          {
+            "word": "adds",
+            "start": 3.8,
+            "end": 4.24
+          },
+          {
+            "word": "a",
+            "start": 4.24,
+            "end": 4.4
+          },
+          {
+            "word": "layer",
+            "start": 4.4,
+            "end": 4.68
+          },
+          {
+            "word": "of",
+            "start": 4.68,
+            "end": 4.88
+          },
+          {
+            "word": "subjective",
+            "start": 4.88,
+            "end": 5.38
+          },
+          {
+            "word": "judgment",
+            "start": 5.38,
+            "end": 5.9
+          },
+          {
+            "word": "to",
+            "start": 5.9,
+            "end": 6.22
+          },
+          {
+            "word": "an",
+            "start": 6.22,
+            "end": 6.34
+          },
+          {
+            "word": "objective",
+            "start": 6.34,
+            "end": 6.76
+          },
+          {
+            "word": "measurement.",
+            "start": 6.76,
+            "end": 7.3
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene7.mp3",
+        "duration": 7.496875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 8,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 8.936875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It is subjective, but that’s where the testing comes in. By running multiple 8-minute samples across various genres, you build an empirical model to minimize bias.",
+        "captionTimestamps": [
+          {
+            "word": "It",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "is",
+            "start": 0.14,
+            "end": 0.24
+          },
+          {
+            "word": "subjective,",
+            "start": 0.24,
+            "end": 0.72
+          },
+          {
+            "word": "but",
+            "start": 1.16,
+            "end": 1.26
+          },
+          {
+            "word": "that's",
+            "start": 1.26,
+            "end": 1.54
+          },
+          {
+            "word": "where",
+            "start": 1.54,
+            "end": 1.68
+          },
+          {
+            "word": "the",
+            "start": 1.68,
+            "end": 1.8
+          },
+          {
+            "word": "testing",
+            "start": 1.8,
+            "end": 2.08
+          },
+          {
+            "word": "comes",
+            "start": 2.08,
+            "end": 2.36
+          },
+          {
+            "word": "in.",
+            "start": 2.36,
+            "end": 2.6
+          },
+          {
+            "word": "By",
+            "start": 3.22,
+            "end": 3.34
+          },
+          {
+            "word": "running",
+            "start": 3.34,
+            "end": 3.54
+          },
+          {
+            "word": "multiple",
+            "start": 3.54,
+            "end": 3.84
+          },
+          {
+            "word": "8",
+            "start": 3.84,
+            "end": 4.28
+          },
+          {
+            "word": "-minute",
+            "start": 4.28,
+            "end": 4.46
+          },
+          {
+            "word": "samples",
+            "start": 4.46,
+            "end": 4.86
+          },
+          {
+            "word": "across",
+            "start": 4.86,
+            "end": 5.24
+          },
+          {
+            "word": "various",
+            "start": 5.24,
+            "end": 5.74
+          },
+          {
+            "word": "genres,",
+            "start": 5.74,
+            "end": 6.14
+          },
+          {
+            "word": "you",
+            "start": 6.68,
+            "end": 6.8
+          },
+          {
+            "word": "build",
+            "start": 6.8,
+            "end": 6.98
+          },
+          {
+            "word": "an",
+            "start": 6.98,
+            "end": 7.16
+          },
+          {
+            "word": "empirical",
+            "start": 7.16,
+            "end": 7.48
+          },
+          {
+            "word": "model",
+            "start": 7.48,
+            "end": 7.9
+          },
+          {
+            "word": "to",
+            "start": 7.9,
+            "end": 8.12
+          },
+          {
+            "word": "minimize",
+            "start": 8.12,
+            "end": 8.4
+          },
+          {
+            "word": "bias.",
+            "start": 8.4,
+            "end": 8.86
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene8.mp3",
+        "duration": 8.936875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 9,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 7.096875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "I find that fascinating. Does this process work if the content is heavily dialogue-driven versus soundscape-heavy?",
+        "captionTimestamps": [
+          {
+            "word": "I",
+            "start": 0,
+            "end": 0.14
+          },
+          {
+            "word": "find",
+            "start": 0.14,
+            "end": 0.34
+          },
+          {
+            "word": "that",
+            "start": 0.34,
+            "end": 0.54
+          },
+          {
+            "word": "fascinating.",
+            "start": 0.54,
+            "end": 1.24
+          },
+          {
+            "word": "Does",
+            "start": 1.82,
+            "end": 2.02
+          },
+          {
+            "word": "this",
+            "start": 2.02,
+            "end": 2.2
+          },
+          {
+            "word": "process",
+            "start": 2.2,
+            "end": 2.62
+          },
+          {
+            "word": "work",
+            "start": 2.62,
+            "end": 2.96
+          },
+          {
+            "word": "if",
+            "start": 2.96,
+            "end": 3.14
+          },
+          {
+            "word": "the",
+            "start": 3.14,
+            "end": 3.28
+          },
+          {
+            "word": "content",
+            "start": 3.28,
+            "end": 3.68
+          },
+          {
+            "word": "is",
+            "start": 3.68,
+            "end": 4
+          },
+          {
+            "word": "heavily",
+            "start": 4,
+            "end": 4.48
+          },
+          {
+            "word": "dialogue",
+            "start": 4.48,
+            "end": 5.06
+          },
+          {
+            "word": "-driven",
+            "start": 5.06,
+            "end": 5.54
+          },
+          {
+            "word": "versus",
+            "start": 5.54,
+            "end": 6
+          },
+          {
+            "word": "soundscape",
+            "start": 6,
+            "end": 6.64
+          },
+          {
+            "word": "-heavy?",
+            "start": 6.64,
+            "end": 6.9
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene9.mp3",
+        "duration": 7.096875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 10,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 9.896875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It shifts the variables dramatically. Dialogue-heavy content tends to have shorter scene derivations per unit of time compared to visual soundscapes.",
+        "captionTimestamps": [
+          {
+            "word": "it",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "shifts",
+            "start": 0.16,
+            "end": 0.5
+          },
+          {
+            "word": "the",
+            "start": 0.5,
+            "end": 0.7
+          },
+          {
+            "word": "variables",
+            "start": 0.7,
+            "end": 1.14
+          },
+          {
+            "word": "dramatically.",
+            "start": 1.14,
+            "end": 1.9
+          },
+          {
+            "word": "Dialogue",
+            "start": 2.68,
+            "end": 3.04
+          },
+          {
+            "word": "heavy",
+            "start": 3.04,
+            "end": 3.36
+          },
+          {
+            "word": "content",
+            "start": 3.36,
+            "end": 3.98
+          },
+          {
+            "word": "tends",
+            "start": 3.98,
+            "end": 4.56
+          },
+          {
+            "word": "to",
+            "start": 4.56,
+            "end": 4.78
+          },
+          {
+            "word": "have",
+            "start": 4.78,
+            "end": 4.94
+          },
+          {
+            "word": "shorter",
+            "start": 4.94,
+            "end": 5.26
+          },
+          {
+            "word": "scene",
+            "start": 5.26,
+            "end": 5.58
+          },
+          {
+            "word": "derivations",
+            "start": 5.58,
+            "end": 6.32
+          },
+          {
+            "word": "per",
+            "start": 6.32,
+            "end": 6.94
+          },
+          {
+            "word": "unit",
+            "start": 6.94,
+            "end": 7.28
+          },
+          {
+            "word": "of",
+            "start": 7.28,
+            "end": 7.5
+          },
+          {
+            "word": "time",
+            "start": 7.5,
+            "end": 7.84
+          },
+          {
+            "word": "compared",
+            "start": 7.84,
+            "end": 8.32
+          },
+          {
+            "word": "to",
+            "start": 8.32,
+            "end": 8.64
+          },
+          {
+            "word": "visual",
+            "start": 8.64,
+            "end": 9.18
+          },
+          {
+            "word": "soundscape.",
+            "start": 9.18,
+            "end": 9.78
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene10.mp3",
+        "duration": 9.896875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 11,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.216875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "So the derivation isn't just about counting; it’s really about modeling pacing for a specific medium.",
+        "captionTimestamps": [
+          {
+            "word": "So",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "the",
+            "start": 0.16,
+            "end": 0.26
+          },
+          {
+            "word": "derivation",
+            "start": 0.26,
+            "end": 0.94
+          },
+          {
+            "word": "isn't",
+            "start": 0.94,
+            "end": 1.42
+          },
+          {
+            "word": "just",
+            "start": 1.42,
+            "end": 1.62
+          },
+          {
+            "word": "about",
+            "start": 1.62,
+            "end": 1.86
+          },
+          {
+            "word": "counting,",
+            "start": 1.86,
+            "end": 2.36
+          },
+          {
+            "word": "it's",
+            "start": 2.9,
+            "end": 3.16
+          },
+          {
+            "word": "really",
+            "start": 3.16,
+            "end": 3.54
+          },
+          {
+            "word": "about",
+            "start": 3.54,
+            "end": 3.78
+          },
+          {
+            "word": "modeling",
+            "start": 3.78,
+            "end": 4.26
+          },
+          {
+            "word": "pacing",
+            "start": 4.26,
+            "end": 4.78
+          },
+          {
+            "word": "for",
+            "start": 4.78,
+            "end": 5.08
+          },
+          {
+            "word": "a",
+            "start": 5.08,
+            "end": 5.18
+          },
+          {
+            "word": "specific",
+            "start": 5.18,
+            "end": 5.58
+          },
+          {
+            "word": "medium.",
+            "start": 5.58,
+            "end": 5.98
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene11.mp3",
+        "duration": 6.216875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 12,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 12.216875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Exactly. It’s predictive analysis. You use the 8-minute test to validate whether your proposed scene count is artistically and technically sound for the audience.",
+        "captionTimestamps": [
+          {
+            "word": "Exactly,",
+            "start": 0,
+            "end": 0.58
+          },
+          {
+            "word": "it's",
+            "start": 1.06,
+            "end": 1.24
+          },
+          {
+            "word": "predictive",
+            "start": 1.24,
+            "end": 1.76
+          },
+          {
+            "word": "analysis.",
+            "start": 1.76,
+            "end": 2.5
+          },
+          {
+            "word": "You",
+            "start": 3.44,
+            "end": 3.9
+          },
+          {
+            "word": "use",
+            "start": 3.9,
+            "end": 4.28
+          },
+          {
+            "word": "the",
+            "start": 4.28,
+            "end": 4.44
+          },
+          {
+            "word": "8",
+            "start": 4.44,
+            "end": 4.74
+          },
+          {
+            "word": "-minute",
+            "start": 4.74,
+            "end": 4.98
+          },
+          {
+            "word": "test",
+            "start": 4.98,
+            "end": 5.32
+          },
+          {
+            "word": "to",
+            "start": 5.32,
+            "end": 5.84
+          },
+          {
+            "word": "validate",
+            "start": 5.84,
+            "end": 6.22
+          },
+          {
+            "word": "whether",
+            "start": 6.22,
+            "end": 6.74
+          },
+          {
+            "word": "your",
+            "start": 6.74,
+            "end": 6.98
+          },
+          {
+            "word": "proposed",
+            "start": 6.98,
+            "end": 7.44
+          },
+          {
+            "word": "scene",
+            "start": 7.44,
+            "end": 7.8
+          },
+          {
+            "word": "count",
+            "start": 7.8,
+            "end": 8.2
+          },
+          {
+            "word": "is",
+            "start": 8.2,
+            "end": 8.9
+          },
+          {
+            "word": "artistically",
+            "start": 8.9,
+            "end": 9.68
+          },
+          {
+            "word": "and",
+            "start": 9.68,
+            "end": 9.98
+          },
+          {
+            "word": "technically",
+            "start": 9.98,
+            "end": 10.56
+          },
+          {
+            "word": "sound",
+            "start": 10.56,
+            "end": 11.08
+          },
+          {
+            "word": "for",
+            "start": 11.08,
+            "end": 11.36
+          },
+          {
+            "word": "the",
+            "start": 11.36,
+            "end": 11.52
+          },
+          {
+            "word": "audience.",
+            "start": 11.52,
+            "end": 11.94
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene12.mp3",
+        "duration": 12.216875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 13,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 6.696875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Wow. It sounds like this methodology is crucial for maintaining a professional standard across various production houses.",
+        "captionTimestamps": [
+          {
+            "word": "Wow,",
+            "start": 0,
+            "end": 0.26
+          },
+          {
+            "word": "it",
+            "start": 0.64,
+            "end": 0.86
+          },
+          {
+            "word": "sounds",
+            "start": 0.86,
+            "end": 1
+          },
+          {
+            "word": "like",
+            "start": 1,
+            "end": 1.2
+          },
+          {
+            "word": "this",
+            "start": 1.2,
+            "end": 1.36
+          },
+          {
+            "word": "methodology",
+            "start": 1.36,
+            "end": 1.84
+          },
+          {
+            "word": "is",
+            "start": 1.84,
+            "end": 2.26
+          },
+          {
+            "word": "crucial",
+            "start": 2.26,
+            "end": 2.74
+          },
+          {
+            "word": "for",
+            "start": 2.74,
+            "end": 2.98
+          },
+          {
+            "word": "maintaining",
+            "start": 2.98,
+            "end": 3.42
+          },
+          {
+            "word": "a",
+            "start": 3.42,
+            "end": 3.7
+          },
+          {
+            "word": "professional",
+            "start": 3.7,
+            "end": 4.14
+          },
+          {
+            "word": "standard",
+            "start": 4.14,
+            "end": 4.74
+          },
+          {
+            "word": "across",
+            "start": 4.74,
+            "end": 5.06
+          },
+          {
+            "word": "various",
+            "start": 5.06,
+            "end": 5.56
+          },
+          {
+            "word": "production",
+            "start": 5.56,
+            "end": 6.04
+          },
+          {
+            "word": "houses.",
+            "start": 6.04,
+            "end": 6.44
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene13.mp3",
+        "duration": 6.696875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 14,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 7.816875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "It is. Rigor in timing prevents the listener from getting lost or bored. The numbers have to reflect the human experience.",
+        "captionTimestamps": [
+          {
+            "word": "It",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "is,",
+            "start": 0.22,
+            "end": 0.44
+          },
+          {
+            "word": "Ripper",
+            "start": 1.02,
+            "end": 1.36
+          },
+          {
+            "word": "in",
+            "start": 1.36,
+            "end": 1.58
+          },
+          {
+            "word": "Timing",
+            "start": 1.58,
+            "end": 2.04
+          },
+          {
+            "word": "prevents",
+            "start": 2.04,
+            "end": 2.44
+          },
+          {
+            "word": "the",
+            "start": 2.44,
+            "end": 2.72
+          },
+          {
+            "word": "listener",
+            "start": 2.72,
+            "end": 3.02
+          },
+          {
+            "word": "from",
+            "start": 3.02,
+            "end": 3.3
+          },
+          {
+            "word": "getting",
+            "start": 3.3,
+            "end": 3.58
+          },
+          {
+            "word": "lost",
+            "start": 3.58,
+            "end": 3.86
+          },
+          {
+            "word": "or",
+            "start": 3.86,
+            "end": 4.16
+          },
+          {
+            "word": "bored.",
+            "start": 4.16,
+            "end": 4.44
+          },
+          {
+            "word": "The",
+            "start": 5,
+            "end": 5.54
+          },
+          {
+            "word": "numbers",
+            "start": 5.54,
+            "end": 5.86
+          },
+          {
+            "word": "have",
+            "start": 5.86,
+            "end": 6.08
+          },
+          {
+            "word": "to",
+            "start": 6.08,
+            "end": 6.22
+          },
+          {
+            "word": "reflect",
+            "start": 6.22,
+            "end": 6.54
+          },
+          {
+            "word": "the",
+            "start": 6.54,
+            "end": 6.78
+          },
+          {
+            "word": "human",
+            "start": 6.78,
+            "end": 7
+          },
+          {
+            "word": "experience.",
+            "start": 7,
+            "end": 7.56
+          }
+        ],
+        "speakerLabel": "Guest"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene14.mp3",
+        "duration": 7.816875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 15,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 8.056875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "This has been incredibly insightful. So we’ve covered everything from basic division to modeling cognitive load.",
+        "captionTimestamps": [
+          {
+            "word": "This",
+            "start": 0,
+            "end": 0.22
+          },
+          {
+            "word": "has",
+            "start": 0.22,
+            "end": 0.36
+          },
+          {
+            "word": "been",
+            "start": 0.36,
+            "end": 0.58
+          },
+          {
+            "word": "incredibly",
+            "start": 0.58,
+            "end": 1.64
+          },
+          {
+            "word": "insightful,",
+            "start": 1.64,
+            "end": 2.62
+          },
+          {
+            "word": "so",
+            "start": 3.08,
+            "end": 3.4
+          },
+          {
+            "word": "we've",
+            "start": 3.4,
+            "end": 3.62
+          },
+          {
+            "word": "covered",
+            "start": 3.62,
+            "end": 3.9
+          },
+          {
+            "word": "everything",
+            "start": 3.9,
+            "end": 4.74
+          },
+          {
+            "word": "from",
+            "start": 4.74,
+            "end": 5.08
+          },
+          {
+            "word": "basic",
+            "start": 5.08,
+            "end": 5.48
+          },
+          {
+            "word": "division",
+            "start": 5.48,
+            "end": 6.02
+          },
+          {
+            "word": "to",
+            "start": 6.02,
+            "end": 6.38
+          },
+          {
+            "word": "modeling",
+            "start": 6.38,
+            "end": 6.8
+          },
+          {
+            "word": "cognitive",
+            "start": 6.8,
+            "end": 7.42
+          },
+          {
+            "word": "load.",
+            "start": 7.42,
+            "end": 7.8
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene15.mp3",
+        "duration": 8.056875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    },
+    {
+      "sceneNumber": 16,
+      "sceneType": "image",
+      "title": "",
+      "subtitle": "",
+      "duration": 5.736875,
+      "backgroundColor": "#1a1a2e",
+      "transition": "fade",
+      "imagePrompt": "abstract geometric shapes representing time and structure, warm studio lighting, no readable text, no people's faces",
+      "cameraMotion": "static",
+      "animation": "",
+      "imageUrl": "",
+      "templateId": "template-061",
+      "elements": {
+        "caption": "Thanks so much for breaking down the science of podcast pacing with me today. Until next time!",
+        "captionTimestamps": [
+          {
+            "word": "Thanks",
+            "start": 0,
+            "end": 0.26
+          },
+          {
+            "word": "so",
+            "start": 0.26,
+            "end": 0.48
+          },
+          {
+            "word": "much",
+            "start": 0.48,
+            "end": 0.8
+          },
+          {
+            "word": "for",
+            "start": 0.8,
+            "end": 0.96
+          },
+          {
+            "word": "breaking",
+            "start": 0.96,
+            "end": 1.32
+          },
+          {
+            "word": "down",
+            "start": 1.32,
+            "end": 1.58
+          },
+          {
+            "word": "the",
+            "start": 1.58,
+            "end": 1.8
+          },
+          {
+            "word": "science",
+            "start": 1.8,
+            "end": 2.16
+          },
+          {
+            "word": "of",
+            "start": 2.16,
+            "end": 2.48
+          },
+          {
+            "word": "podcast",
+            "start": 2.48,
+            "end": 2.96
+          },
+          {
+            "word": "pacing",
+            "start": 2.96,
+            "end": 3.52
+          },
+          {
+            "word": "with",
+            "start": 3.52,
+            "end": 3.76
+          },
+          {
+            "word": "me",
+            "start": 3.76,
+            "end": 3.96
+          },
+          {
+            "word": "today.",
+            "start": 3.96,
+            "end": 4.2
+          },
+          {
+            "word": "Until",
+            "start": 4.74,
+            "end": 4.98
+          },
+          {
+            "word": "next",
+            "start": 4.98,
+            "end": 5.24
+          },
+          {
+            "word": "time!",
+            "start": 5.24,
+            "end": 5.54
+          }
+        ],
+        "speakerLabel": "Host"
+      },
+      "scene_meta": null,
+      "audio": {
+        "file": "http://localhost:3000/public/job-ZLQ4HSG6/audio/scene16.mp3",
+        "duration": 5.736875
+      },
+      "fonts": {
+        "primary": "Inter",
+        "secondary": "Roboto"
+      },
+      "theme": {
+        "type": "podcast",
+        "textColor": "#ffffff",
+        "accentColor": "#6c63ff"
+      }
+    }
+  ],
+  "output": {
+    "video": "./render/video.mp4",
+    "thumbnail": "./render/thumbnail.png"
+  }
+}
